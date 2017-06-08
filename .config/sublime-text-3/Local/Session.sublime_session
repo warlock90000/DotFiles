@@ -1,0 +1,3540 @@
+{
+	"folder_history":
+	[
+		"/home/jacka/.config/awesome/lain/widget",
+		"/home/jacka/.config/awesome",
+		"/home/jacka/.config/awesome/util",
+		"/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/Nostalgia_V6/com.android.mms",
+		"/home/jacka/BUILD/PLASMA/PLASMA-SRC/qtermwidget-git",
+		"/home/jacka/Android/-=TOOLS=-/-=boot=-/miui/neo/split_img",
+		"/home/jacka/Download/-=TEL=-/NEO909/cm11-redmi2/1/ramdisk.n",
+		"/usr/share/applications"
+	],
+	"last_version": 3126,
+	"last_window_id": 23,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1010.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"spa",
+						"span_end"
+					],
+					[
+						"set",
+						"set_text"
+					],
+					[
+						"text",
+						"textbox"
+					],
+					[
+						"sp",
+						"span_end"
+					],
+					[
+						"colo",
+						"color1"
+					],
+					[
+						"wi",
+						"widget"
+					],
+					[
+						"l",
+						"local\tlocal x = 1"
+					],
+					[
+						"urxvt",
+						"URxvt"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"wor",
+						"worker"
+					],
+					[
+						"ma",
+						"mark2"
+					],
+					[
+						"mar",
+						"mark1"
+					],
+					[
+						"pre",
+						"pres"
+					],
+					[
+						"th",
+						"then"
+					],
+					[
+						"wid",
+						"widget"
+					],
+					[
+						"net",
+						"netwidget"
+					],
+					[
+						"cp",
+						"cpu"
+					],
+					[
+						"tex",
+						"textbox"
+					],
+					[
+						"mem",
+						"memory"
+					],
+					[
+						"fun",
+						"function\tfunction"
+					],
+					[
+						"vol",
+						"volume"
+					],
+					[
+						"s",
+						"s"
+					],
+					[
+						"e",
+						"end"
+					],
+					[
+						"q",
+						"qterminal"
+					],
+					[
+						"menu",
+						"menu_apk"
+					],
+					[
+						"pro",
+						"prop"
+					],
+					[
+						"R",
+						"R"
+					],
+					[
+						"in",
+						"int"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"p",
+						"parse"
+					],
+					[
+						"NAME",
+						"NAME"
+					],
+					[
+						"ec",
+						"echo"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pa",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Remove Package"
+					],
+					[
+						"identx",
+						"Indent XML"
+					],
+					[
+						"ident",
+						"Auto indent"
+					],
+					[
+						"ide",
+						"Indent XML"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 394.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/log/atop/atop_20170206",
+				"/home/jacka/.config/awesome/vicious/widgets/fs.lua",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/scripts/lua3-bars.lua",
+				"/home/jacka/.config/awesome/util/script/aion",
+				"/home/jacka/.zshrc",
+				"/home/jacka/Video/Blindspot.S01E10.rus.LostFilm.TV.avi",
+				"/home/jacka/Download/планшет/Смешарики. В поисках Биби [rutracker.og]/Смешарики. В поисках Биби.mdf",
+				"/home/jacka/.config/awesome/vicious/contrib/dio.lua",
+				"/home/jacka/.config/awesome/vicious/helpers.lua",
+				"/home/jacka/.config/awesome/vicious/init.lua",
+				"/home/jacka/.config/awesome/vicious/widgets/thermal.lua",
+				"/home/jacka/.config/awesome/lain/widget/bat.lua",
+				"/home/jacka/.config/awesome/lain/util/init.lua",
+				"/home/jacka/.config/awesome/blingbling/popups.lua",
+				"/home/jacka/.config/awesome/vicious/README",
+				"/home/jacka/.config/awesome/lain/widget/pulsebar.lua",
+				"/home/jacka/Download/lede-ar71xx-generic-dir-615-e4-squashfs-factory_001.bin",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/scripts/lua0-box2.lua",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/scripts/log-box.lua",
+				"/home/jacka/.config/awesome/vicious/widgets/net.lua",
+				"/proc/net/dev",
+				"/home/jacka/.config/awesome/util/tags.lua",
+				"/home/jacka/.config/awesome/lain/widget/fs.lua",
+				"/home/jacka/.config/awesome/lain/widget/pulseaudio.lua",
+				"/home/jacka/Download/torrent/KMS Tools Portable 21.02.2017 by Ratiborus/readme.txt",
+				"/usr/share/awesome/lib/awful/widget/watch.lua",
+				"/home/jacka/.config/awesome/lain/widget/net.lua",
+				"/home/jacka/.config/awesome/lain/scripts/dfs",
+				"/home/jacka/BUILD/2/linux-ck/PKGBUILD",
+				"/tmp/yaourt-tmp-jacka/aur-trafshow/PKGBUILD",
+				"/home/jacka/.conky/ip.sh",
+				"/home/jacka/.config/awesome/util/wiboks.lua",
+				"/home/jacka/.config/awesome/util/wi.lua",
+				"/var/log/Xorg.0.log",
+				"/bin/yaourt-gui",
+				"/home/jacka/.Xresources",
+				"/home/jacka/.config/awesome/tyrannical/init.lua",
+				"/home/jacka/.config/compton.conf",
+				"/home/jacka/.config/awesome/utils/tools.lua",
+				"/home/jacka/.config/awesome/rc.lua",
+				"/home/jacka/.config/awesome/drawer/cpuInfo.lua",
+				"/home/jacka/.config/awesome/drawer/memInfo.lua",
+				"/home/jacka/.config/awesome/drawer/netInfo.lua",
+				"/home/jacka/.config/awesome/drawer/soundInfo.lua",
+				"/home/jacka/.config/awesome/baseRule.lua",
+				"/home/jacka/.config/awesome/radical/impl/tasklist/init.lua",
+				"/home/jacka/.config/awesome/radical/init.lua",
+				"/home/jacka/.config/awesome/util/script/tera",
+				"/home/jacka/.xprofile",
+				"/etc/X11/xorg.conf.d/xorg.conf",
+				"/var/log/pacman.log",
+				"/home/jacka/.config/termite/config",
+				"/home/jacka/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/jacka/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/jacka/.config/awesome/lain/widget/alsabar.lua",
+				"/tmp/yaourt-tmp-jacka/aur-compton-conf/PKGBUILD",
+				"/tmp/yaourt-tmp-jacka/aur-hsetroot/PKGBUILD",
+				"/home/jacka/.gnome2/gcompmgr/readme.txt",
+				"/home/jacka/.config/awesome/util/script/rift",
+				"/home/jacka/.config/awesome/util/script/p_shop",
+				"/home/jacka/.config/awesome/util/script/tc_aion",
+				"/home/jacka/.config/awesome/util/script/tc",
+				"/home/jacka/bin/hdd",
+				"/home/jacka/Download/torrent/rc.lua",
+				"/tmp/mc-jacka/vfs2ASOVYrc.lua",
+				"/tmp/mc-jacka/vfs8VPXVYrc.lua",
+				"/home/jacka/Doc/webmoney.txt",
+				"/home/jacka/.config/awesome/-=BCK=-/conky",
+				"/tmp/mc-jacka/extfsU5EQVYrc.lua.multicolor",
+				"/home/jacka/wine-tera",
+				"/usr/share/awesome/lib/awful/tooltip.lua",
+				"/home/jacka/.config/awesome/lain/widget/calendar.lua",
+				"/tmp/mc-jacka/extfs8XFZVYrc.lua.multicolor",
+				"/tmp/mc-jacka/extfs5J3SVYrc.lua.multicolor",
+				"/home/jacka/.config/awesome/awesome.sublime-project",
+				"/usr/share/awesome/lib/wibox/widget/systray.lua",
+				"/home/jacka/.config/awesome_4/awesome-copycats/wi.lua",
+				"/home/jacka/.config/awesome/key.lua",
+				"/home/jacka/.config/awesome/tags.lua",
+				"/usr/share/awesome/lib/awful/widget/tasklist.lua",
+				"/home/jacka/bin/tvp",
+				"/home/jacka/.config/awesome_4/awesome-copycats/.git/COMMIT_EDITMSG",
+				"/home/jacka/.config/awesome_4/awesome-copycats/.git/MERGE_MSG",
+				"/home/jacka/.config/awesome/README.md",
+				"/home/jacka/.config/awesome/rc.lua.tyran",
+				"/home/jacka/.config/awesome_4/awesome-copycats/key.lua",
+				"/home/jacka/.config/awesome/vicious/widgets/mem.lua",
+				"/home/jacka/.config/awesome/pulseaudio.lua",
+				"/home/jacka/.config/awesome/freedesktop/menu.lua",
+				"/home/jacka/.config/awesome/freedesktop/desktop.lua",
+				"/home/jacka/.config/awesome_conf/1/awesome-qq/rc.lua",
+				"/home/jacka/.config/awesome/lain/widget/weather.lua",
+				"/usr/share/awesome/lib/wibox/widget/textbox.lua",
+				"/home/jacka/.config/awesome/vicious/widgets/pkg.lua",
+				"/home/jacka/.config/awesome/blingbling/superproperties.lua",
+				"/home/jacka/.config/awesome_conf/1/awesome-wm-config/rc.lua",
+				"/home/jacka/.config/awesome/widgets.lua",
+				"/home/jacka/.config/awesome/README.rst",
+				"/home/jacka/xkeyboard-config",
+				"/usr/share/awesome/lib/naughty/core.lua",
+				"/home/jacka/.config/awesome/lain/widgets/weather.lua",
+				"/home/jacka/.config/awesome/lain/widgets/calendar.lua",
+				"/home/jacka/.config/awesome_conf/LIB/blingbling/README.md",
+				"/home/jacka/.config/awesome_conf/LIB/blingbling/popups.lua",
+				"/home/jacka/.config/awesome/blingbling/config_example/japanese2_rc.lua",
+				"/home/jacka/.config/awesome_conf/LIB/blingbling/text_box.lua",
+				"/home/jacka/.config/awesome/blingbling/config_example/text_box/rc.lua",
+				"/home/jacka/.config/awesome_conf/LIB/blingbling/blingbling_widget_template",
+				"/home/jacka/BUILD/PLASMA/good.log",
+				"/usr/share/awesome/lib/wibox/widget/base.lua",
+				"/tmp/yaourt-tmp-jacka/aur-far2l-git/PKGBUILD",
+				"/home/jacka/.config/awesome/lain/widgets/pulseaudio.lua",
+				"/home/jacka/.ftxt",
+				"/home/jacka/.config/awesome/vicious/contrib/README",
+				"/home/jacka/.config/awesome/vicious/contrib/openweather.lua",
+				"/etc/xdg/awesome/rc.lua",
+				"/usr/share/lua/5.3/lgi/override/Pango.lua",
+				"/home/jacka/.config/awesome/rc.lua.multicolor.gz",
+				"/home/jacka/wine-games/Desktop/Photoshop CS6 x32.desktop",
+				"/home/jacka/.config/awesome/lain/icons/openweathermap/README.md",
+				"/run/media/jacka/jack/boot/grub/grub.cfg",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/conky_log",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/conky.conf",
+				"/home/jacka/bin/start.sh",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/scripts/log-text.lua",
+				"/home/jacka/.conky/new_widget/conky-system-lua-V2/scripts/log-box2.lua",
+				"/home/jacka/.conky/ConkyBar_awesome/configs/conky_log",
+				"/home/jacka/kernel/Benefit_A3/android_kernel_ark_msm8916/build.sh"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"mem",
+					"pkg",
+					"vicious.register",
+					"scale         = true,",
+					"net_vicious",
+					"auto",
+					"lain",
+					"fs_stat_graph_h",
+					"function",
+					"ps",
+					"vicious.register",
+					"dio",
+					"fsroot",
+					"fs_stat_graph_r",
+					"test",
+					"wlp",
+					"15",
+					"upti",
+					"idget.graph",
+					"set_stack_colors",
+					"vicious.cache",
+					"fs_stat_graph",
+					"cgraph",
+					"vicious.widgets.",
+					"vicious.contrib",
+					"cpu_graph",
+					"markup",
+					"cpute",
+					"cputemp",
+					"temp",
+					"mem",
+					"cpugov",
+					"cputemp",
+					"cpu",
+					"\\\"#87af5f\\\"",
+					"color1",
+					"pkg",
+					"colorize",
+					"pkg",
+					"w.",
+					"cpu",
+					"mem",
+					"cpu",
+					"show_process_info",
+					"cpu",
+					"mem",
+					"dockshape",
+					"cpu",
+					"bg_widget",
+					"fg_widget",
+					"mem",
+					"barcolor",
+					"font1",
+					"awful.tooltip",
+					"temp",
+					"textbo",
+					"s.myleftwibox",
+					"config.eth_",
+					"awful.util.spawn_with_shell",
+					"URxvt.letterSpace: -1",
+					"xse",
+					"perl-ext-common",
+					"config",
+					"config.iconPath",
+					"icon        =",
+					"awful.tag",
+					"swc",
+					"opengl-swc",
+					"utf8Title",
+					"Locale",
+					"imLocale",
+					"pointerColor",
+					"pointerBlank",
+					"mouseWheelScrollPage",
+					"colorUL",
+					"cursorColor",
+					"shading",
+					"cursorColor",
+					"colorUL",
+					"saveLines",
+					"cursorUnderline",
+					"cursorBlink",
+					"transparent",
+					"imFont",
+					"dri",
+					"dri3",
+					"glx",
+					"6backend",
+					"refresh-rate",
+					"refresh-rate = 6backend = \"glx\"; # Enables Opengl backend",
+					"tooltip_bg",
+					"layoutb",
+					"dockshape",
+					"fg_normal",
+					"tooltip",
+					"taglist",
+					"awesome_icon",
+					"pulseaudio",
+					"myclock_t",
+					"enable",
+					"awful.mouse.drag_to_tag.enabled",
+					"             if bat_now.status ~= \"Full\" and sum_rate_power == 0 and bat_now.ac_status == 1 then",
+					"\",\"",
+					"layouts",
+					"layout",
+					"mem_vicious",
+					"vicious",
+					"rul",
+					"status",
+					"systray",
+					"client_menu_toggle_fn",
+					"local",
+					"layouts",
+					"require",
+					"screen",
+					"taskli",
+					"task",
+					"local",
+					"tyrannical.properties.centered",
+					"instance",
+					"get_class",
+					"default_layout",
+					"xter",
+					"urx",
+					"URxvt",
+					"layo",
+					" string.format",
+					"mem_vicious"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"max_value     = 100,",
+					"fs_stat_graph",
+					"s.dock_wibox",
+					"dock_wibox",
+					"awful.spawn.with_shell",
+					"--icon        =",
+					"pulse_audio",
+					"beautiful.widget_font_color",
+					"tags",
+					"lain.widget",
+					"Terminus Re33",
+					"Terminus Re33 Bold",
+					"Terminus Re33",
+					"my_desktop_conky",
+					"rgba_to_r_g_b_a1",
+					"'#000000'",
+					"\"#80d9d8\"",
+					"pulseaudio_",
+					"layout",
+					"theme",
+					"float_incall.9",
+					"0x4F",
+					"0x59",
+					"0x73",
+					"0x54",
+					"0x83",
+					"0x4c",
+					"0x49",
+					"0x48",
+					"0x6c",
+					"0x51",
+					"top mem",
+					"Ubuntu 10",
+					"ff28a3e0",
+					"hr 4",
+					"apktool",
+					"ConkyBar_awesome",
+					"Ubuntu",
+					"size=9",
+					"Ubuntu",
+					"run_once",
+					"conky",
+					"miui_$miui_version",
+					"port-pac-romal",
+					"menu",
+					"menu_main",
+					"SKIP",
+					"6FAB-864D",
+					">action_bar_split_background.png<",
+					">bckgr_abs-bg_l.9<",
+					"bckgr.9.png",
+					"#ffffffff",
+					"#ff000000",
+					"window_bg_light.9",
+					"action_bar_split_background.9",
+					"action_bar_bg_light.9.png",
+					"#ffffffff",
+					"#ff000000",
+					"80000000",
+					"#80000000",
+					"action_bar_split_bg_light.9.png",
+					"action_bar_split_bg_light.9",
+					"#ffffffff",
+					"$mtmp/IN/miui_$miui/system/build.prop",
+					"ffD5D5DA",
+					"include \"%patches_dir%/nxt/main/_nxt",
+					"action_mode_bg_light.9.png",
+					"#ffff0000</color><!-- красный -->",
+					"#ffaaee90</color><!--без цвета было -->",
+					"#ffaaee90",
+					"ava_bg.png",
+					"/jacka/",
+					"IgnorePkg   = ",
+					"Liberation Mono",
+					"alarm=75,",
+					"x=45",
+					"width=200,",
+					"x=75",
+					"x=145",
+					"y=185,",
+					"width=170,",
+					"enp3s0",
+					"Liberation Sans",
+					"enp3s0",
+					"ярлык",
+					"894aaafb-5ada-4ecc-a9ab-766f88df0bf1",
+					"CirillicGoth",
+					"Computer",
+					"Kalkin font",
+					"Newspaper",
+					"CirillicOld",
+					"DotMatrix",
+					"Computer",
+					"Liberation Mono",
+					"hwmon 2",
+					"Liberation Mono",
+					"hwmon2",
+					"Liberation Mono",
+					"enp3s0",
+					"Liberation Mono",
+					"Liberation Sans",
+					"Liberation Mono",
+					"CyrillicOld",
+					"BUILD",
+					"qt5",
+					"https://aur.archlinux.org/cgit/aur.git/snapshot/",
+					"-git.tar.gz",
+					"make -j4",
+					"xnviewmp",
+					"make -j4",
+					"CONFIG_TCT_8X16_ALTO45_LATAM_B28=y",
+					"/dev/block/platform/7824900.sdhci/by-name",
+					"480",
+					"jacka/Video",
+					"480",
+					"240",
+					"480",
+					"2.8.6.1",
+					"neomi",
+					"neo909",
+					"T='/home/jacka/omni'",
+					"./IN/system/lib/lib",
+					"######### start mdbd",
+					"PyQt5",
+					"-O3",
+					"test_kernel_v",
+					"arm-eabi-4.8",
+					"enp3s0"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 357.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1400.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cc",
+						"ccze"
+					],
+					[
+						"chi",
+						"child1"
+					],
+					[
+						"p",
+						"print"
+					],
+					[
+						"li",
+						"links"
+					],
+					[
+						"a",
+						"append"
+					],
+					[
+						"pa",
+						"page_letter"
+					],
+					[
+						"page",
+						"page_link"
+					],
+					[
+						"t",
+						"t"
+					],
+					[
+						"far",
+						"far2"
+					],
+					[
+						"wibo",
+						"wibox"
+					],
+					[
+						"le",
+						"leave"
+					],
+					[
+						"color",
+						"color3"
+					],
+					[
+						"sys",
+						"sys1"
+					],
+					[
+						"ii",
+						"ii"
+					],
+					[
+						"add",
+						"add_item"
+					],
+					[
+						"debug",
+						"debug_l"
+					],
+					[
+						"class",
+						"classic"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"wi",
+						"widget"
+					],
+					[
+						"w",
+						"widget"
+					],
+					[
+						"colo",
+						"color7"
+					],
+					[
+						"tick",
+						"ticks_size"
+					],
+					[
+						"pac",
+						"pack_count"
+					],
+					[
+						"span",
+						"span_end"
+					],
+					[
+						"spa",
+						"span_end"
+					],
+					[
+						"set",
+						"set_text"
+					],
+					[
+						"text",
+						"textbox"
+					],
+					[
+						"sp",
+						"span_end"
+					],
+					[
+						"l",
+						"local\tlocal x = 1"
+					],
+					[
+						"urxvt",
+						"URxvt"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"wor",
+						"worker"
+					],
+					[
+						"ma",
+						"mark2"
+					],
+					[
+						"mar",
+						"mark1"
+					],
+					[
+						"pre",
+						"pres"
+					],
+					[
+						"th",
+						"then"
+					],
+					[
+						"wid",
+						"widget"
+					],
+					[
+						"net",
+						"netwidget"
+					],
+					[
+						"cp",
+						"cpu"
+					],
+					[
+						"tex",
+						"textbox"
+					],
+					[
+						"mem",
+						"memory"
+					],
+					[
+						"fun",
+						"function\tfunction"
+					],
+					[
+						"vol",
+						"volume"
+					],
+					[
+						"s",
+						"s"
+					],
+					[
+						"e",
+						"end"
+					],
+					[
+						"q",
+						"qterminal"
+					],
+					[
+						"menu",
+						"menu_apk"
+					],
+					[
+						"pro",
+						"prop"
+					],
+					[
+						"R",
+						"R"
+					],
+					[
+						"in",
+						"int"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"NAME",
+						"NAME"
+					],
+					[
+						"ec",
+						"echo"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jacka/Doc/neo909.txt",
+					"settings":
+					{
+						"buffer_size": 9247,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/погода м8.txt",
+					"settings":
+					{
+						"buffer_size": 1305,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/Doc/games.txt",
+					"settings":
+					{
+						"buffer_size": 1580,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "4276 8160 1603 4454\nОля\n+++++++++++++++++++++++++++\n\nNikolay Stripalov, [30.07.16 18:31]\n    <bool name=\"support_merge_double_partitions\">true</bool>\n <!--whether the device has dual sd card-->\n    <bool name=\"support_dual_sd_card\">true</bool>\n <!--whether the device supports bt debug trace-->\n    <bool name=\"support_emulated_storage\">true</bool>\n<!--whether the device supports internal sdcard-->\n    <bool name=\"support_internal_sdcard\">false</bool>\n\nro.build.product=alto5_premium\n==================================\n/usr/share/plasma/plasmoids/org.kde.plasma.taskmanager/contents/ui/main.qml\n    TaskManager.TasksModel {\n        id: tasksModel\n\n/*        virtualDesktop: virtualDesktopInfo.currentDesktop\n        screenGeometry: plasmoid.screenGeometry\n        activity: activityInfo.currentActivity\n*/\n\n        virtualDesktop: virtualDesktopInfo.currentDesktop\n        screen: plasmoid.screen\n        activity: activityInfo.currentActivity\n=================================\n#ffffff00 - желтый\n#ffff3333 - красный\n#ff0000ff - синий\n#ff00ffff - бирюзовый\n#ffff00ff - розовый\n#ff00ff00 - зеленый\n\naction_bar_split_bg_light.9.png - нижний бар\naction_bar_bg_light.9.png - верхний бар (звонилка, смс-глав экр, настр, галерея-2 экран-папки)\naction_bar_title_stack_bg_light.9.png - верхний бар (настр-акк-питание-2 и 3 п.п, уст прилож, антиспам, галерея-2 экран)\naction_bar_embeded_tabs_bg_light.9.png - верхний бар (файлманагер, галерея-1 экран)\n\n737373\n\nrutube\nЛогин: i1694586@mvrht.com\nПароль: Ah6GFRz\n\n\n\n ==========================\ndlink-615 MAC Address : 00:60:98:EF:0F:0A\n\nConnection Type :\n      DHCP Client\nCable Status :\n      Connected\nNetwork Status :\n      Connected\nConnection Up Time :\n      0 Day, 0:17:55\n\n\nMAC Address :\n      00:60:98:EF:0F:0A\nIP Address :\n      46.48.95.112\nSubnet Mask :\n      255.255.255.0\nDefault Gateway :\n      46.48.95.1\nPrimary DNS Server :\n      212.49.103.2\nSecondary DNS Server :\n      212.49.118.2\nAdvanced DNS :\n      Disabled\nLAN\nMAC Address :\n      84:c9:b2:6c:2e:79\nIP Address :\n      192.168.0.1\nSubnet Mask :\n      255.255.255.0\nDHCP Server :\n      Enabled\nWireless LAN\nWireless Radio :\n      Off\nMAC Address :\n      84:c9:b2:6c:2e:79\nNetwork Name (SSID) :\n      dlink\n802.11 Mode :\n      11bgn\nChannel Width :\n      20\nChannel :\n      6\nSecurity Mode :\n      wpa2_psk\nWi-FI Protected Setup :\n      Enabled/Configured\nLAN Computers\nIP Address  Name (if any)   MAC\n192.168.0.103       74:D4:35:F5:7C:10\n192.168.0.100       00:60:98:EF:0F:0A\n\n++++++++++++++++++++++++++++++++++++++++++++++++++\nЕсть пакет media-libs/mutagen – это набор небольших утилит написанных на питоне, существенно помогающих облегчить конвертацию.\nПишем такую команду:\n\n$ find . -iname '*.mp3' -print0 | xargs -0 mid3iconv -eCP1251 --remove-v1\n\nи этой командой перекодируем все файлы с тегами в кодировке cp1251 в кодировку utf8, попутно удаляем тег первой версии, дабы Amarok не обращал на него внимания.\n++++++++++++++++++++++++++++++++++++++++++++++++++\nsystemctl status udisks2 |grep mount |awk '{print \"Подключено \"$3 \" на \" $4}'\n\n@-moz-document domain(\"4pda.ru\") {\nsection[id] { width: 100% !important;}\n.post .description {font-size: 14pt !important; line-height: 28px !important;}\n.content-box {font-size: 16pt !important;}\n#nav .use-ad { display: block !important }\narticle:not(.post) + article:not(#id), a[target=\"_blank\"] img[height=\"90\"] { display: none !important }\ndiv[class*=\"r6\"], div[class*=\"r8\"], div[class*=\"rg\"], div[class*=\"rg\"], div[class*=\"rGj\"], div[id*=\"logo\"], div[class*=\"logo\"], aside[id*=\"r\"], .rWr3R29b7vmnl3BbnbpEpgsB, .slider-news {display: none !important;}\n#content, #rAL3fe0YeT2,.holder, .holder-no-hidden, div[class=\"rCrLce84k rGDv8BYf3H6V5\"] {margin: auto !important; width: 1196px !important; float: none !important;}\n#rGz09P97 {padding: 0 !important;}\n.rCrLce84k {margin: auto !important; width: 100% !important; padding: 0px !important;}\n}\n\nui_print(\"[*] Installing GAPPS ...\");\nset_progress(0.800000);\npackage_extract_dir(\"gapps\", \"/tmp/gapps\");\nrun_program(\"/sbin/busybox\", \"unzip\", \"/tmp/gapps/gapps.zip\", \"META-INF/com/google/android/*\", \"-d\", \"/tmp/gapps\");\nrun_program(\"/sbin/busybox\", \"sh\", \"/tmp/gapps/META-INF/com/google/android/update-binary\", \"dummy\", \"1\", \"/tmp/gapps/gapps.zip\");\ndelete_recursive(\"/tmp/gapps\");\n\n   ",
+					"file": "/home/jacka/Doc/tmp",
+					"file_size": 6828,
+					"file_write_time": 131397303040000000,
+					"settings":
+					{
+						"buffer_size": 4294,
+						"line_ending": "Unix",
+						"name": "http://ru.aliexpress.com/item/Totoro-Carton-Mobile"
+					}
+				},
+				{
+					"contents": "netstat -alpn | grep 192. | awk '{print $4 , $5 , $7}'\nlsof -i \nnetstat -vantup \nnetstat -tunp\nnetstat -tvaep\nlsof -i -n |grep ESTABLISHED — показывает открытые, и установленные сетевые соединения\nСписок подключенных хостов\nnetstat -lantp | grep ESTABLISHED |awk '{print $5}' | awk -F: '{print $1}' | sort | uniq\n\nvnstat | grep \"today\" | awk '{print $2 $3}'\nvnstat | grep \"today\" | awk '{print $5 $6}'\n\nvnstat -w | grep \"current week\" | awk '{print $3 $4}'\nvnstat -w | grep \"current week\" | awk '{print $6 $7}'\n\nvnstat -m | grep \"`date +\"%b '%y\"`\" | awk '{print $3 $4}'\nvnstat -m | grep \"`date +\"%b '%y\"`\" | awk '{print $6 $7}'\n\n{-- память\n          {\n              {\n                {\n                  {\n                    widget = mem_txt\n                  },\n                  left   = 5,\n                  right  = 0,\n                  top    = 3,\n                  bottom = 3,\n                  widget = wibox.container.margin\n                },\n                {\n                  {\n                    widget = mem_graph\n                  },\n                  left   = 5,\n                  right  = 0,\n                  top    = 3,\n                  bottom = 3,\n                  widget = wibox.container.margin\n                },\n                layout  = wibox.layout.fixed.vertical,\n              },\n              set_shape = function(cr, width, height)\n                    gears.shape.rounded_rect(cr, width, height)\n                  end,\n              bg                 = beautiful.widget_bg,\n              shape_border_color = beautiful.border_color,\n              shape_border_width = 1,\n              widget             = wibox.container.background,\n          },\n          left   = 2,\n          right  = 2,\n          top    = 0,\n          bottom = 0,\n          widget = wibox.container.margin\n        },\nlayout = wibox.container.margin(fs_stat_graph_h_write,5,0,0,0),\n{-- память\n          {\n              {\n                {  \n                  mem_txt,\n                  layout = wibox.container.margin(mem_txt,5,0,3,3),\n                },\n                {\n                  mem_graph,\n                  layout = wibox.container.margin(mem_graph,5,0,3,3),\n                },\n                layout  = wibox.layout.fixed.vertical,\n              },\n              set_shape = function(cr, width, height)\n                    gears.shape.rounded_rect(cr, width, height)\n                  end,\n              bg                 = beautiful.widget_bg,\n              shape_border_color = beautiful.border_color,\n              shape_border_width = 1,\n              widget             = wibox.container.background,\n          },          \n          layout = wibox.container.margin(widget,2,2,0,0),\n        },\n\n",
+					"settings":
+					{
+						"buffer_size": 2719,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/Doc/==> pacman -Qqet.txt",
+					"settings":
+					{
+						"buffer_size": 3411,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "==> pacman -Qqet | grep -v \"$(pacman -Qqg base)\""
+					}
+				},
+				{
+					"contents": "#                 ██\n#                ░██\n#  ██████  ██████░██\n# ░░░░██  ██░░░░ ░██████\n#    ██  ░░█████ ░██░░░██\n#   ██    ░░░░░██░██  ░██\n#  ██████ ██████ ░██  ░██\n# ░░░░░░ ░░░░░░  ░░   ░░\n#\n#\n#█▓▒░\n# If you come from bash you might have to change your $PATH.\n export PATH=$HOME/bin:$PATH\n\n# Path to your oh-my-zsh installation.\n  export ZSH=/home/jacka/.oh-my-zsh\n\n# Set name of the theme to load. Optionally, if you set this to \"random\"\n# it'll load a random theme each time that oh-my-zsh is loaded.\n# See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes\n#ZSH_THEME=\"fino-time\"\nZSH_THEME=\"powerlevel9k/powerlevel9k\"\nPOWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir vcs dir_writable)\nPOWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status command_execution_time root_indicator background_jobs history time)\nPOWERLEVEL9K_PROMPT_ON_NEWLINE=true\n#POWERLEVEL9K_RPROMPT_ON_NEWLINE=true\n\n#POWERLEVEL9K_OK_ICON='\\u2713'\n#POWERLEVEL9K_FAIL_ICON='\\u2718'\n#POWERLEVEL9K_LINUX_ICON='\\uf300 '\n#POWERLEVEL9K_CARRIAGE_RETURN_ICON='\\u21B5'\n\n#POWERLEVEL9K_MODE='awesome-fontconfig'\n#POWERLEVEL9K_MODE='awesome-patched'\nPOWERLEVEL9K_MODE='nerdfont-complete'\n\n# Uncomment the following line to use case-sensitive completion.\n# CASE_SENSITIVE=\"true\"\n\n# Uncomment the following line to use hyphen-insensitive completion. Case\n# sensitive completion must be off. _ and - will be interchangeable.\n# HYPHEN_INSENSITIVE=\"true\"\n\n# Uncomment the following line to disable bi-weekly auto-update checks.\n# DISABLE_AUTO_UPDATE=\"true\"\n\n# Uncomment the following line to change how often to auto-update (in days).\n# export UPDATE_ZSH_DAYS=13\n\n# Uncomment the following line to disable colors in ls.\n# DISABLE_LS_COLORS=\"true\"\n\n# Uncomment the following line to disable auto-setting terminal title.\n# DISABLE_AUTO_TITLE=\"true\"\n\n# Uncomment the following line to enable command auto-correction.\nENABLE_CORRECTION=\"true\"\n\n# Uncomment the following line to display red dots whilst waiting for completion.\n# COMPLETION_WAITING_DOTS=\"true\"\n\n# Uncomment the following line if you want to disable marking untracked files\n# under VCS as dirty. This makes repository status check for large repositories\n# much, much faster.\n# DISABLE_UNTRACKED_FILES_DIRTY=\"true\"\n\n# Uncomment the following line if you want to change the command execution time\n# stamp shown in the history command output.\n# The optional three formats: \"mm/dd/yyyy\"|\"dd.mm.yyyy\"|\"yyyy-mm-dd\"\nHIST_STAMPS=\"dd.mm.yyyy\"\n\n# Would you like to use another custom folder than $ZSH/custom?\n# ZSH_CUSTOM=/path/to/new-custom-folder\n\n# Which plugins would you like to load? (plugins can be found in ~/.oh-my-zsh/plugins/*)\n# Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/\n# Example format: plugins=(rails git textmate ruby lighthouse)\n# Add wisely, as too many plugins slow down shell startup.\nplugins=(git adb pip extract zsh-autosuggestions)\n\nsource $ZSH/oh-my-zsh.sh\nsource $ZSH/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh\n# User configuration\n\n# export MANPATH=\"/usr/local/man:$MANPATH\"\n\n# You may need to manually set your language environment\nexport LANG=ru_RU.UTF-8\n\n# Preferred editor for local and remote sessions\nif [[ -n $SSH_CONNECTION ]]; then\n   export EDITOR='nano'\n else\n   export EDITOR='subl'\nfi\n\nif [[ -n `echo $DISPLAY` ]];  then\n    export EDITOR='subl'\nelse\n    export EDITOR='mcedit'\nfi\n\n# Set personal aliases, overriding those provided by oh-my-zsh libs,\n# plugins, and themes. Aliases can be placed here, though oh-my-zsh\n# users are encouraged to define aliases within the ZSH_CUSTOM folder.\n# For a full list of active aliases, run `alias`.\n#\n# Example aliases\n# alias zshconfig=\"mate ~/.zshrc\"\n# alias ohmyzsh=\"mate ~/.oh-my-zsh\"\n\n#export TERM=xterm-256color\nexport COLORTERM=truecolor\n\nexport PATH=~/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/opt/android-sdk/platform-tools:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/jacka/.gem/ruby/2.4.0/bin\nexport BUILD_MAC_SDK_EXPERIMENTAL=1\nexport SYSTEMD_LESS=FRXMK\nexport USE_CCACHE=1\nexport PATH=/usr/lib/ccache:$PATH\nexport CC=\"ccache gcc\"\nexport HOSTCC=\"ccache gcc\"\nexport HOSTCXX=\"ccache g++\"\nexport CCACHE_DIR=\"/home/jacka/.ccache\"\n\n## man colorer (ccze grc most)\nexport PAGER=most\n## man colorer\n\n#man() {\n#    env LESS_TERMCAP_mb=$'\\E[01;31m' \\\n#    LESS_TERMCAP_md=$'\\E[01;38;5;74m' \\\n#    LESS_TERMCAP_me=$'\\E[0m' \\\n#    LESS_TERMCAP_se=$'\\E[0m' \\\n#    LESS_TERMCAP_so=$'\\E[38;5;246m' \\\n#    LESS_TERMCAP_ue=$'\\E[0m' \\\n#    LESS_TERMCAP_us=$'\\E[04;38;5;146m' \\\n#    man \"$@\"\n#}\n\nperms() {\n  if [[ -z \"$1\" ]]; then\n    find .    -type d -print0 | xargs -0 chmod 700\n    find .    -type f -print0 | xargs -0 chmod 600\n  else\n    find \"$*\" -type d -print0 | xargs -0 chmod 700\n    find \"$*\" -type f -print0 | xargs -0 chmod 600\n  fi\n}\npermsg() {\n  if [[ -z \"$1\" ]]; then\n    find .    -type d -print0 | xargs -0 chmod 770\n    find .    -type f -print0 | xargs -0 chmod 660\n  else\n    find \"$*\" -type d -print0 | xargs -0 chmod 770\n    find \"$*\" -type f -print0 | xargs -0 chmod 660\n  fi\n}\n\n#==============================================\nalias findtxt='/home/jacka/.ftxt'\nalias findtext=\"bash /home/jacka/.ftext\"\nalias wget1='wget --content-disposition -E -c --restrict-file-names=nocontrol,unix'\nalias .='cd ..'\nalias ..='cd ../..'\nalias ...='cd ../../..'\nalias ....='cd ../../../..'\nalias top10files='find . -type f -exec ls -sh {} \\; | sort -n -r | head -10'\n#alias findempty='find ! -name '*.jpg' ! -name '*.png' ! -name '*.gif' -delete'\nalias dosfsck1='sudo dosfsck -w -r -l -a -v -t'\nalias pacinst='sudo pacman -U'\nalias grep='egrep --color'\nalias err='journalctl -b -p err'\nalias err50='journalctl -b -n50'\nalias ssh_servm='sshfs user@192.168.0.108:/home/user/Downloads /home/jacka/ssh_serv -o uid=1000,gid=1000'\nalias ssh_servu='fusermount -u /home/jacka/ssh_serv'\nalias ssh_term='ssh -Y user@192.168.0.108'\nalias vnc='vncviewer 192.168.0.104:1'\nalias wserv='wol 00:14:85:1b:21:67'\nalias pogoda='curl -H \"Accept-Language: ru\" wttr.in/\"Нижний Тагил\"'\nalias pogoda1='wget -O - wttr.in/\"Нижний Тагил\" -q'\nalias pogoda2='curl -H \"Accept-Language: ru\" wttr.in/\"Нижний Тагил?T\" | head -n37 | xargs -0 notify-send'\nalias glaz='redshift -l 57.905149:59.9508466'\nalias 2on='xrandr --output VGA-0 --auto --primary --output VGA-1-2 --auto --right-of VGA-0'\nalias 2off='xrandr --output VGA-0 --auto --primary --output VGA-1-2 --off'\nalias packey='gpg --recv-keys'\nalias news='newsbeuter'\nalias journal='journalctl -b -n50| ccze -A'\nalias dmtc='dmesg | tail -n 22 | ccze -A'\nalias disks='echo \"╓───── m o u n t . p o i n t s\"; echo \"╙────────────────────────────────────── ─ ─ \"; lsblk -a; echo \"\"; echo \"╓───── d i s k . u s a g e\"; echo \"╙────────────────────────────────────── ─ ─ \"; df -h; echo \"\"; echo \"╓───── U.U.I.D.s\"; echo \"╙────────────────────────────────────── ─ ─ \"; lsblk -f;'\nalias drives=\"echo -n '\\e[1;32mListing connected drives:\\e[0m\\n'  | pv -qL 10 && lsblk -f\"\nalias empty='echo -n \"\\e[1;32mTaking out teh trash:\\e[0m \" | pv -qL 10 && rm -rf /home/jacka/.local/share/Trash/files'\nalias errors=\"echo -n '\\e[1;32mJournal Errors:\\e[0m ' | pv -qL 10 && journalctl -b -p err | ccze -A\"\nalias iohdd=\"iostat -x | ccze -A\"\nalias lsaur=\"echo -n '\\e[1;32mListing Installed AUR packages:\\e[0m\\n '| pv -qL 20 && pacman -Qqm\" #list installed AUR packages\nalias realtime='journalctl -f -all |  ccze -A'\nalias root=\"sudo -i\"\nalias size='du -hs .[^.]* * | sort -h | ccze -A'         #list 10 dir/files by size\nalias sizehome=\"sudo du -a ~/ | sort -n -r | head -n 10\"  #list 10 dir by size\nalias sizevar='sudo du -a /var | sort -n -r | head -n 10' #list 10 dir by size\nalias sourcezsh=\"source ~/.zshrc\"\nalias boot=\"echotc us && echo '\\e[1;32mBoot Time:\\e[0m ' | pv -qL 10 && systemd-analyze\"\nalias h='history |ccze -A'\nalias hist=\"history |tail -n45 |ccze -A\"\n\n# systemd shortcuts\nstart() { sudo systemctl start $1.service; sudo systemctl status $1.service; }\nstop() { sudo systemctl stop $1.service; sudo systemctl status $1.service; }\nrestart() { sudo systemctl restart $1.service; sudo systemctl status $1.service; }\nstatus() { sudo systemctl status $1.service; }\nenabled() { cd /usr/lib/systemd/system; sudo systemctl enable $1.service;  }\ndisabled() { sudo systemctl disable $1.service;  }\nuser_commands=(\nlist-units is-active status show help list-unit-files\nis-enabled list-jobs show-environment cat)\n\nsudo_commands=(start stop reload restart try-restart isolate kill\nreset-failed enable disable reenable preset mask unmask\nlink load cancel set-environment unset-environment\nedit)\n\nfor c in $user_commands; do alias sc-$c=\"systemctl $c\"; done\nfor c in $sudo_commands; do alias sc-$c=\"sudo systemctl $c\"; done\n#==============================================\nxrdb -merge ~/.Xresources\n\n# The following lines were added by compinstall\nzstyle ':completion:*' completer _expand _complete _ignored _correct _approximate\nzstyle :compinstall filename '/home/jacka/.zshrc'\nautoload -Uz compinit\ncompinit\n_comp_options+=(globdots)\nsetopt menucomplete\nzstyle ':completion:*' menu select=1 _complete _ignored _approximate\n# End of lines added by compinstall\n\nHISTFILE=~/.histfile\nHISTSIZE=1000000\nSAVEHIST=100000000\nsetopt appendhistory\nsetopt HIST_IGNORE_ALL_DUPS\nsetopt HIST_REDUCE_BLANKS\nsetopt HIST_IGNORE_SPACE\nsetopt INC_APPEND_HISTORY\n\nsetopt auto_cd\nsetopt extended_glob\nsetopt interactive_comments",
+					"file": "/home/jacka/.zshrc",
+					"file_size": 9891,
+					"file_write_time": 131413300090000000,
+					"settings":
+					{
+						"buffer_size": 9364,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/.oh-my-zsh/themes/powerlevel9k/powerlevel9k.zsh-theme",
+					"settings":
+					{
+						"buffer_size": 51997,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/.Xresources",
+					"settings":
+					{
+						"buffer_size": 4994,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/.oh-my-zsh/themes/powerlevel9k/functions/icons.zsh",
+					"settings":
+					{
+						"buffer_size": 17787,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jacka/.xprofile",
+					"settings":
+					{
+						"buffer_size": 318,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "themes/multicolor/theme.lua",
+					"settings":
+					{
+						"buffer_size": 8043,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "rc.lua",
+					"settings":
+					{
+						"buffer_size": 32999,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "util/wiboks.lua",
+					"settings":
+					{
+						"buffer_size": 32113,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "util/wi.lua",
+					"settings":
+					{
+						"buffer_size": 38205,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "lain/widget/weather.lua",
+					"settings":
+					{
+						"buffer_size": 11681,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pa",
+				"selected_items":
+				[
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"Package Control: Remove Package"
+					],
+					[
+						"identx",
+						"Indent XML"
+					],
+					[
+						"ident",
+						"Auto indent"
+					],
+					[
+						"ide",
+						"Indent XML"
+					],
+					[
+						"Package Control:",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					]
+				],
+				"width": 593.0
+			},
+			"console":
+			{
+				"height": 394.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+					"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jacka/.config/awesome",
+				"/home/jacka/.config/awesome/util"
+			],
+			"file_history":
+			[
+				"/home/jacka/.oh-my-zsh/lib/key-bindings.zsh",
+				"/home/jacka/.oh-my-zsh/lib/termsupport.zsh",
+				"/tmp/mc-jacka/extfsUEWD1Yrc.lua.multicolor",
+				"/home/jacka/.xprofile",
+				"/home/jacka/tmp/VARGO/vargo_os_recovery/META-INF/com/google/android/updater-script",
+				"/home/jacka/.config/mc/mc.ext",
+				"/home/jacka/.vimrc",
+				"/home/jacka/Doc/333/asciimoji.txt",
+				"/home/jacka/.config/fontconfig/fonts.conf",
+				"/tmp/yaourt-tmp-jacka/aur-8192eu-dkms/PKGBUILD",
+				"/home/jacka/.oh-my-zsh/themes/powerlevel9k/powerlevel9k.zsh-theme",
+				"/home/jacka/.oh-my-zsh/themes/powerlevel9k/functions/icons.zsh",
+				"/home/jacka/BUILD/readme.md",
+				"/home/jacka/BUILD/nerd-fonts/font-patcher",
+				"/tmp/awesome-terminal-fonts/patch",
+				"/tmp/awesome-terminal-fonts/droid1.sh",
+				"/home/jacka/.config/awesome/util/tags.lua",
+				"/home/jacka/.face",
+				"/home/jacka/tmp/VARGO/soft/readme.txt",
+				"/tmp/mc-jacka/extfsN93J1YTutorial.txt",
+				"/home/jacka/Doc/333/asciimoji",
+				"/home/jacka/key.log",
+				"/home/jacka/Download/alias.zsh",
+				"/home/jacka/.config/awesome/util/wp_slideshow.lua",
+				"/home/jacka/.config/awesome/util/soundcloud",
+				"/tmp/111",
+				"/etc/mpd.conf",
+				"/home/jacka/.config/mopidy/mopidy.conf",
+				"/var/log/pacman.log",
+				"/tmp/yaourt-tmp-jacka/aur-sonic-pi/PKGBUILD",
+				"/tmp/yaourt-tmp-jacka/aur-sonic-pi/sonic-pi.install",
+				"/home/jacka/.config/awesome/util/analogclock.lua",
+				"/home/jacka/.aria2/aria2.conf",
+				"/home/jacka/.config/lxqt/session.conf",
+				"/etc/profile.d/vte.sh",
+				"/etc/sddm.conf",
+				"/tmp/mc-jacka/extfs7INO1Ycolors.tdesktop-theme",
+				"/home/jacka/bin/exit1",
+				"/home/jacka/bin/hdd",
+				"/home/jacka/.config/aria2.conf",
+				"/tmp/yaourt-tmp-jacka/aur-pbget/PKGBUILD",
+				"/home/jacka/Download/wwww/test1.py",
+				"/home/jacka/Download/wwww/1111",
+				"/usr/share/applications/skype.desktop",
+				"/usr/share/applications/tor-browser-ru.desktop",
+				"/home/jacka/.icons/nouveGnomeGray/icon-theme.cache",
+				"/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/-=1=-/com.miui.home/theme_values.xml.1",
+				"/home/jacka/tmp/VARGO/vargo_os_recovery/111/META-INF/com/google/android/updater-script",
+				"/home/jacka/.newsbeuter/urls",
+				"/home/jacka/.zshrc",
+				"/tmp/yaourt-tmp-jacka/aur-newsbeuter-git/PKGBUILD",
+				"/home/jacka/Android/-=TOOLS=-/apktool/Settings/AndroidManifest.xml",
+				"/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/замена/build.prop",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values/dimens.xml",
+				"/tmp/mc-jacka/extfsEPZQ0Ycom.miui.home",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values/fractions.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values/integers.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values/styles.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/miui_manifest.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/wallpaper_settings.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/preferences.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/default_workspace4x6_private_model.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/default_workspace_none.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/cu_default_workspace4x6_airspace_model.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values-ru/arrays.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/values-ru/dimens.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/res/values/bools.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/res/values/integers.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/res/values/dimens.xml",
+				"/home/jacka/tmp/VARGO/my repo/Vargo-OS-russian-translate/VargoOS-russian-translate/VargoGallery/res/values-ru/strings.xml",
+				"/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/theme_values.xml",
+				"/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8---------------------/framework-miui-res/theme_values.xml",
+				"/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/-=1=-/com.miui.home/theme_values.xml",
+				"/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/description.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiSystemUI/smali/com/android/systemui/statusbar/WeatherView$3.smali",
+				"/tmp/mc-jacka/extfsIE5X0Ytheme_values.xml",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiSystemUI/smali/com/android/systemui/statusbar/phone/PhoneStatusBar$38.smali",
+				"/home/jacka/Android/-=TOOLS=-/apktool/miuisystem/smali/miui/provider/Weather$LocalWeather.smali",
+				"/home/jacka/bin/pacsearch",
+				"/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/-=1=-/framework-miui-res/theme_fallback.xml",
+				"/tmp/yaourt-tmp-jacka/aur-rssguard/PKGBUILD",
+				"/home/jacka/Download/wwww/devian.py",
+				"/home/jacka/.cache/kioexec/krun/23965_0/theme_fallback.xml",
+				"/home/jacka/Pictures/art/для_скачивания.txt",
+				"/home/jacka/Download/wwww/test.py",
+				"/home/jacka/Pictures/art/devian.py",
+				"/usr/lib/python2.7/site-packages/mechanize/_mechanize.py",
+				"/home/jacka/Download/wwww/scraper.rb",
+				"/home/jacka/Download/wwww/rss.xml",
+				"/home/jacka/Download/wwww/main.py",
+				"/home/jacka/Download/wwww/rss.xml?type=deviation&q=gallery%3Afoxy-cosplay",
+				"/home/jacka/Download/wwww/33",
+				"/home/jacka/Download/wwww/111-1",
+				"/home/jacka/Download/wwww/111",
+				"/home/jacka/Download/wwww/22",
+				"/home/jacka/Download/wwww/rss.xml?q=gallery%3Achiquitita-cosplay",
+				"/tmp/yaourt-tmp-jacka/aur-python-elementtree/PKGBUILD",
+				"/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.systemui/theme_values.xml",
+				"/home/jacka/.config/awesome/lain/widget/fs.lua",
+				"/mnt/disk_d/serial",
+				"/home/jacka/BUILD/2/linux-ck/PKGBUILD",
+				"/home/jacka/.config/awesome/util/script/pacm.sh",
+				"/home/jacka/Doc/stylish/4PDA: Impreza",
+				"/home/jacka/Doc/stylish/4pda.ru без рекламы",
+				"/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/AirPorting_romal",
+				"/home/jacka/Android/-=TOOLS=-/apktool/MiuiSystemUI/smali/com/android/systemui/statusbar/phone/PhoneStatusBar.smali",
+				"/home/jacka/.config/compton.conf",
+				"/tmp/yaourt-tmp-jacka/aur-telegram-desktop-bin/PKGBUILD",
+				"/usr/share/icons/Arc/status/symbolic/weather-storm-symbolic.svg",
+				"/home/jacka/.config/awesome/util/weather.lua",
+				"/home/jacka/.config/awesome/util/json.lua",
+				"/home/jacka/.config/awesome/util/script/pogoda",
+				"/tmp/mc-jacka/extfsSW35ZY01.GIF",
+				"/home/jacka/Download/recovery.log",
+				"/tmp/mc-jacka/extfsC7C0ZYupdater-script",
+				"/home/jacka/.config/dunstrc",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/baseROM/system/priv-app/Settings/1/com/android/settings/vargo/VargoLoginFragment.java",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/baseROM/system/priv-app/Settings/1/com/android/settings/vargo/VargoNoSimDectecd.java",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/baseROM/system/priv-app/Settings/1/com/android/settings/vargo/sim/VargoDetecteSimFragment.java",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/baseROM/system/priv-app/Settings/1/com/android/settings/vargo/sim/VargoDetectedSimActivity.java",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/baseROM/system/priv-app/Settings/1/com/vargo/appservice/aidl/VListener.java",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/appDecompiled/system__priv-app__Settings/Settings.apk/smali/com/android/settings/vargo/sim/VargoDetectedSimActivity.smali",
+				"/tmp/mc-jacka/extfsCFLE0YVargoDetectedSimActivity.class",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/appDecompiled/system__priv-app__Settings/Settings.apk/smali/com/android/settings/vargo/VargoVCloud.smali",
+				"/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_Flash.zip.bzprj/appDecompiled/system__priv-app__Settings/Settings.apk/smali/com/android/settings/vargo/VargoSMSObserver.smali",
+				"/home/jacka/tmp/VARGO/vargo_os_recovery/system/etc/apns-conf.xml",
+				"/home/jacka/tmp/VARGO/my repo/Vargo-OS-russian-translate/VargoOS-russian-translate/VargoGameHall/res/values-ru/strings.xml",
+				"/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/appDecompiled/system__priv-app__VargoGameHall/VargoGameHall.apk/res/values/strings.xml"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"key",
+					"kbdcfg",
+					"POWERLEVEL9K_PROMPT",
+					"mcedit",
+					"move_to_screen",
+					"HOME_ICON",
+					"",
+					"geo",
+					"perl-lib",
+					"letterSpace",
+					"e7c6",
+					"wesome",
+					"TerminessTTF Nerd Font",
+					"Droid Sans Mono Awesome",
+					"Terminus",
+					"clock_widget",
+					"VargoDetectedSimActivity",
+					"android.intent.action.MAIN",
+					"VargoDetectedSimActivity",
+					"uses-sdk",
+					"VargoDetectedSimActivity",
+					"gui_editor",
+					"weather2",
+					"com.miui.weather2",
+					"3",
+					"kde",
+					"arc-dark-suite",
+					"urllib",
+					"print",
+					"url_to_parse",
+					"os",
+					"sys",
+					"StringIO",
+					"send",
+					"xmlrpc.client",
+					"self",
+					"t1",
+					"page_link",
+					"creativeCommons",
+					"atom:link",
+					"media:content",
+					"dockshape",
+					"dock_wibox",
+					"workarea.height",
+					"show",
+					"nconfi",
+					"recent",
+					"pkg_upd_icons",
+					"weather2",
+					"\"content://weather/weather\"",
+					"const-string v0, \"content://weather/weather\"",
+					"vnstat_image",
+					"86",
+					"wea",
+					"vmstat",
+					"weather.notification",
+					"notification_preset",
+					"-symbolic.png",
+					".svg",
+					"brightness_icon",
+					"temp_widget",
+					"resp.weather",
+					"city",
+					"city_id",
+					"city",
+					"weather",
+					"i",
+					"weat",
+					"install-recovery.sh",
+					"awful",
+					"QQï¼recommend",
+					"«",
+					"VCloud",
+					"»",
+					"«",
+					"»",
+					"setupwizard",
+					"unmo",
+					"Disconnecting camera client",
+					"camera",
+					"run",
+					"cat",
+					"toolbox",
+					"net_vicious",
+					"bet",
+					"string.f",
+					"function (widget",
+					"form",
+					"net_vicious",
+					"script .. \"",
+					"信号强度信息",
+					"weeks",
+					"firmware",
+					"python2",
+					"tmp",
+					"Android SDK",
+					"coros",
+					"False",
+					"soup",
+					"sqlite3",
+					"\"/home/jacka/tmp/1",
+					"extract_new",
+					"tag_menu",
+					"l_m",
+					" end}",
+					"mylayoutbox",
+					"layout",
+					"mylayoutbox",
+					"titlebar",
+					"Другие",
+					"dialer_menu_",
+					"dialer_menu_item_bg_color",
+					"move_to_tag",
+					"display",
+					".quake:",
+					"terminal",
+					"s.quake",
+					"mytasklist",
+					"script",
+					"mpd",
+					"beautiful",
+					"gears",
+					"awful.util",
+					"%T",
+					"ps",
+					"nconfig",
+					"config",
+					"naughty.config.presets.critical"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"TerminessTTF Nerd Font",
+					"dock_wibox_2",
+					".png",
+					"tonumber(i)",
+					"\\\"",
+					"\"vlc ",
+					"\"vlc",
+					"недели",
+					"\"/system",
+					"; l_menu.visible = false end}",
+					"Детские",
+					"city_name",
+					"user",
+					"0.75, beautiful.fg_center_widget",
+					"mute",
+					"volu",
+					"beautiful",
+					"max_value     = 100,",
+					"fs_stat_graph",
+					"s.dock_wibox",
+					"dock_wibox",
+					"awful.spawn.with_shell",
+					"--icon        =",
+					"pulse_audio",
+					"beautiful.widget_font_color",
+					"tags",
+					"lain.widget",
+					"Terminus Re33",
+					"Terminus Re33 Bold",
+					"Terminus Re33",
+					"my_desktop_conky",
+					"rgba_to_r_g_b_a1",
+					"'#000000'",
+					"\"#80d9d8\"",
+					"pulseaudio_",
+					"layout",
+					"theme",
+					"float_incall.9",
+					"0x4F",
+					"0x59",
+					"0x73",
+					"0x54",
+					"0x83",
+					"0x4c",
+					"0x49",
+					"0x48",
+					"0x6c",
+					"0x51",
+					"top mem",
+					"Ubuntu 10",
+					"ff28a3e0",
+					"hr 4",
+					"apktool",
+					"ConkyBar_awesome",
+					"Ubuntu",
+					"size=9",
+					"Ubuntu",
+					"run_once",
+					"conky",
+					"miui_$miui_version",
+					"port-pac-romal",
+					"menu",
+					"menu_main",
+					"SKIP",
+					"6FAB-864D",
+					">action_bar_split_background.png<",
+					">bckgr_abs-bg_l.9<",
+					"bckgr.9.png",
+					"#ffffffff",
+					"#ff000000",
+					"window_bg_light.9",
+					"action_bar_split_background.9",
+					"action_bar_bg_light.9.png",
+					"#ffffffff",
+					"#ff000000",
+					"80000000",
+					"#80000000",
+					"action_bar_split_bg_light.9.png",
+					"action_bar_split_bg_light.9",
+					"#ffffffff",
+					"$mtmp/IN/miui_$miui/system/build.prop",
+					"ffD5D5DA",
+					"include \"%patches_dir%/nxt/main/_nxt",
+					"action_mode_bg_light.9.png",
+					"#ffff0000</color><!-- красный -->",
+					"#ffaaee90</color><!--без цвета было -->",
+					"#ffaaee90",
+					"ava_bg.png",
+					"/jacka/",
+					"IgnorePkg   = ",
+					"Liberation Mono",
+					"alarm=75,",
+					"x=45",
+					"width=200,",
+					"x=75",
+					"x=145",
+					"y=185,",
+					"width=170,",
+					"enp3s0",
+					"Liberation Sans",
+					"enp3s0",
+					"ярлык",
+					"894aaafb-5ada-4ecc-a9ab-766f88df0bf1",
+					"CirillicGoth",
+					"Computer",
+					"Kalkin font",
+					"Newspaper",
+					"CirillicOld",
+					"DotMatrix",
+					"Computer",
+					"Liberation Mono",
+					"hwmon 2",
+					"Liberation Mono",
+					"hwmon2",
+					"Liberation Mono",
+					"enp3s0",
+					"Liberation Mono",
+					"Liberation Sans",
+					"Liberation Mono",
+					"CyrillicOld",
+					"BUILD",
+					"qt5",
+					"https://aur.archlinux.org/cgit/aur.git/snapshot/",
+					"-git.tar.gz",
+					"make -j4",
+					"xnviewmp",
+					"make -j4",
+					"CONFIG_TCT_8X16_ALTO45_LATAM_B28=y"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 6,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jacka/Doc/neo909.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9247,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8674,
+										8674
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1292.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/погода м8.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1305,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										564,
+										564
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jacka/Doc/games.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1580,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1580,
+										1580
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/jacka/Doc/tmp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4294,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1504,
+										1504
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"auto_name": "http://ru.aliexpress.com/item/Totoro-Carton-Mobile",
+									"bh_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												624,
+												625
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda.tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2719,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2719,
+										2719
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"default_dir": "/home/jacka/.config/awesome",
+									"encoding_helper_encoding": "",
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 661.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/jacka/Doc/==> pacman -Qqet.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3411,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										65,
+										65
+									]
+								],
+								"settings":
+								{
+									"auto_name": "==> pacman -Qqet | grep -v \"$(pacman -Qqg base)\"",
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/jacka/.zshrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4268,
+										4268
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1674.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/jacka/.oh-my-zsh/themes/powerlevel9k/powerlevel9k.zsh-theme",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 51997,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8776,
+										8776
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 500.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/jacka/.Xresources",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4994,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4186,
+										4186
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 788.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/jacka/.oh-my-zsh/themes/powerlevel9k/functions/icons.zsh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12843,
+										12843
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												12866,
+												12867
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4587.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/home/jacka/.xprofile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 318,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										188,
+										188
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "themes/multicolor/theme.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8043,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										569,
+										563
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												571,
+												572
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												549,
+												550
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "rc.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1740,
+										1740
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 544.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "util/wiboks.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32113,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										891,
+										891
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												888,
+												891
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/dot.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												669,
+												677
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 194.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "util/wi.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38205,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2186,
+										2186
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 584.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "lain/widget/weather.lua",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11681,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8397,
+										8397
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_thread_running": true,
+									"syntax": "Packages/Lua/Lua.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 42.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 357.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,2680,1050",
+			"project": "awesome.sublime-project",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": "/home/jacka/.config/awesome/awesome.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/jacka/.config/awesome/awesome.sublime-workspace",
+			"/home/jacka/Doc/untitled.sublime-workspace"
+		]
+	}
+}

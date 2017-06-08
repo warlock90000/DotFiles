@@ -1,0 +1,8 @@
+[Basic Settings]
+Indexing-Enabled=true
+
+[General]
+exclude folders[$e]=$HOME/
+
+[Phonon::AudioOutput]
+Модуль настройки системы_Volume=1

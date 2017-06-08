@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCColors Version="1" MinVersion="1">
+	<TDirColors>
+		<FilteredBGColor Value="$80000002"/>
+		<LogColor Value="$80000005"/>
+		<NewerBGColor Value="$80000013"/>
+		<OlderBGColor Value="$00CCFF"/>
+		<OlderFGColor Value="$000080"/>
+		<OrphanBGColor Value="$80000008"/>
+		<OrphanFGColor Value="$FF0000"/>
+		<SameBGColor Value="$80000005"/>
+		<SameFGColor Value="$00FF00"/>
+		<SelFocusedBGColor Value="$0000FF"/>
+		<SelFocusedFGColor Value="$FFCC99"/>
+		<StripeBGColor Value="$800000"/>
+		<UnknownBGColor Value="$8000000D"/>
+		<UseStripes Value="False"/>
+	</TDirColors>
+	<TFileColors>
+		<BGColor Value="$BBBBBB"/>
+		<CurBGColor Value="$FFCC00"/>
+		<EditorFontStr Value="Liberation Sans;9;[B]"/>
+		<FGColor Value="$80000010"/>
+		<HasInsigOrphanBGColor Value="$80000008"/>
+		<HasSigDiffBGColor Value="$80000008"/>
+		<HasSigLeftBGColor Value="$F9FFE3"/>
+		<HasSigOrphanBGColor Value="$80000013"/>
+		<HexFontStr Value="Liberation Sans;9;[B]"/>
+		<InsigDiffBGColor Value="$80000008"/>
+		<ListFontStr Value="Liberation Sans;10;[B]"/>
+		<ReplacedDiffBGColor Value="$80000008"/>
+		<SelSystem Value="True"/>
+		<SigDiffBGColor Value="$80000008"/>
+		<SigDiffFontStyle Value="fssBold"/>
+		<WhitespaceFGColor Value="$FFFF00"/>
+	</TFileColors>
+</BCColors>

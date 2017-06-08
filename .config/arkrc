@@ -1,0 +1,50 @@
+[CreateDialog]
+LastMimeType=application/x-bzip-compressed-tar
+
+[ExtractDialog]
+DirHistory[$e]=/tmp/
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:///tmp/
+
+[MainWindow]
+Height 1024=982
+Height 1050=1008
+State=AAAA/wAAAAD9AAAAAAAABXYAAAOnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Width 1280=1278
+Width 1400=1398
+splitterSizes=929,462
+
+[Open-with settings]
+CompletionMode=5
+History=xnview
+
+[Recent Files]
+File1[$e]=zip:///home/jacka/Download/Business+Style+Light+v8.mtz(1).zip/clock_2x4
+File2[$e]=zip:///home/jacka/Download/Lock_MIUI_Mix_Mod.mtz.zip/lockscreen
+File3[$e]=zip:///home/jacka/Download/iOS_v.10.3.10.mtz.zip/lockscreen
+File4[$e]=zip:/home/jacka/Download/DeltaOS_v2.1.mtz.zip/lockscreen
+File5[$e]=zip:/home/jacka/Download/BSL+Clock+8.mtz.zip/clock_2x4
+File6[$e]=$HOME/Download/wine.tar.7z
+File7[$e]=$HOME/Download/com.android.deskclock-1.zip
+File8[$e]=$HOME/Download/Telegram Desktop/MiuiHome.apk
+File9[$e]=$HOME/tmp/VARGO/soft/HQXA_QCT_DL_EMMC_V4.2.zip
+Name1[$e]=clock_2x4
+Name2[$e]=lockscreen
+Name3[$e]=lockscreen
+Name4[$e]=lockscreen
+Name5[$e]=clock_2x4
+Name6[$e]=wine.tar.7z
+Name7[$e]=com.android.deskclock-1.zip
+Name8[$e]=MiuiHome.apk
+Name9[$e]=HQXA_QCT_DL_EMMC_V4.2.zip
+
+[Viewer]
+Height 1050=617
+Width 1400=1044

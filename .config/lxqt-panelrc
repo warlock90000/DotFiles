@@ -1,0 +1,7 @@
+[FileDialogSize]
+Height 1024=466
+Width 1280=684
+
+[KFileDialog Settings]
+Recent Files[$e]=lxqt-config.menu,file:///etc/xdg/menus/lxqt-config.menu
+Recent URLs[$e]=file:///etc/xdg/menus/

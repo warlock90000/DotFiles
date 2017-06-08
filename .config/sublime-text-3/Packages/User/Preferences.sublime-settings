@@ -1,0 +1,43 @@
+{
+	"added_words":
+	[
+		"Упорядочивайте"
+	],
+	"always_show_minimap_viewport": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
+	"create_window_at_startup": false,
+	"dictionary": "Packages/russian_english.dic",
+	"fade_fold_buttons": false,
+	"font_face": "Meslo LG S DZ",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 10,
+	"gpu_window_buffer": true,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"show_encoding": true,
+	"soda_classic_tabs": true,
+	"spell_check": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false
+}

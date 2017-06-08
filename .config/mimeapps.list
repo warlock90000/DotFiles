@@ -1,0 +1,35 @@
+[Added Associations]
+application/xml=sublime_text_3.desktop;firefox.desktop;chromium.desktop;palemoon.desktop;wine-extension-xml.desktop;vivaldi-stable.desktop;okularApplication_txt.desktop;wine-extension-txt.desktop;wine-extension-ini.desktop;
+image/jpeg=xnview.desktop;
+image/png=xnviewmp.desktop;lximage-qt.desktop;wine-extension-png.desktop;okularApplication_kimgio.desktop;
+x-scheme-handler/http=userapp-Pale Moon-0J68DY.desktop;
+x-scheme-handler/https=userapp-Pale Moon-0J68DY.desktop;
+x-scheme-handler/ftp=userapp-Pale Moon-0J68DY.desktop;
+x-scheme-handler/chrome=userapp-Pale Moon-0J68DY.desktop;
+text/html=userapp-Pale Moon-0J68DY.desktop;
+application/x-extension-htm=userapp-Pale Moon-0J68DY.desktop;
+application/x-extension-html=userapp-Pale Moon-0J68DY.desktop;
+application/x-extension-shtml=userapp-Pale Moon-0J68DY.desktop;
+application/xhtml+xml=userapp-Pale Moon-0J68DY.desktop;
+application/x-extension-xhtml=userapp-Pale Moon-0J68DY.desktop;
+application/x-extension-xht=userapp-Pale Moon-0J68DY.desktop;
+
+[Added KDE Service Associations]
+image/png=khtmlimage.desktop;okularKimgio.desktop;
+
+[Default Applications]
+application/xml=sublime_text_3.desktop;
+image/jpeg=xnview.desktop;
+image/png=xnviewmp.desktop;
+x-scheme-handler/http=userapp-Pale Moon-0J68DY.desktop
+x-scheme-handler/https=userapp-Pale Moon-0J68DY.desktop
+x-scheme-handler/ftp=userapp-Pale Moon-0J68DY.desktop
+x-scheme-handler/chrome=userapp-Pale Moon-0J68DY.desktop
+text/html=userapp-Pale Moon-0J68DY.desktop
+application/x-extension-htm=userapp-Pale Moon-0J68DY.desktop
+application/x-extension-html=userapp-Pale Moon-0J68DY.desktop
+application/x-extension-shtml=userapp-Pale Moon-0J68DY.desktop
+application/xhtml+xml=userapp-Pale Moon-0J68DY.desktop
+application/x-extension-xhtml=userapp-Pale Moon-0J68DY.desktop
+application/x-extension-xht=userapp-Pale Moon-0J68DY.desktop
+x-scheme-handler/tg=telegramdesktop.desktop

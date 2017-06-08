@@ -1,0 +1,29 @@
+[General]
+history=konso
+
+[PlasmaRunnerManager]
+LaunchCounts=1 shell_kcmshell5 desktop,1 services_kdeneur.desktop,1 services_kcm_baloofile.desktop,1 services_org.kde.dolphin.desktop,1 shell_kwin_x11,1 services_simplescreenrecorder.desktop,1 shell_xneur,1 shell_subl /home/jacka/.conky/scripts/weburg/balans,1 services_org.kde.kinfocenter.desktop,1 shell_qdbus org.kde.KWin /KWin showDebugConsole,1 services_org.kde.yakuake.desktop,3 shell_ark,1 services_sky.desktop,1 services_stophdd.sh.desktop,2 services_org.kde.kcalc.desktop,4 services_org.kde.ark.desktop,1 services_skype-desktop.desktop,1 windows_0_10486026,1 services_org.kde.konsole.desktop
+
+[Plugins]
+DictionaryEnabled=true
+Kill RunnerEnabled=false
+PowerDevilEnabled=false
+Spell CheckerEnabled=false
+baloosearchEnabled=true
+bookmarksEnabled=true
+calculatorEnabled=false
+desktopsessionsEnabled=false
+kdevelopsessionsEnabled=false
+kwinEnabled=false
+locationsEnabled=true
+org.kde.activitiesEnabled=true
+org.kde.datetimeEnabled=false
+org.kde.windowedwidgetsEnabled=false
+placesEnabled=true
+plasma-desktopEnabled=true
+recentdocumentsEnabled=true
+servicesEnabled=true
+shellEnabled=true
+unitconverterEnabled=false
+webshortcutsEnabled=false
+windowsEnabled=false

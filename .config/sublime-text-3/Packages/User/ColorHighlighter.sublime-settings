@@ -1,0 +1,40 @@
+{
+	"file_exts":
+	[
+		".css",
+		".sass",
+		".scss",
+		".less",
+		".styl",
+		".html",
+		".js",
+		".sublime-settings",
+		".tmTheme",
+		".stTheme",
+		".erb",
+		".haml",
+		".back",
+		".py",
+		".md",
+		".xml",
+		".qss",
+		".lua"
+	],
+	"formats":
+	{
+		"hex8": {
+			"description": "Hex 0xAARRGGBB color format",
+			"regex": "0x(?P<A>hex2)(?P<R>hex2)(?P<G>hex2)(?P<B>hex2)\\b",
+			"white": "0xFFFFFFFF"
+		},
+		"sharp8": {
+			"description": "Hex #AARRGGBB color format",
+			"disable_exts":
+			[
+				".py"
+			],
+			"regex": "(?<!&)#(?P<A>hex2)(?P<R>hex2)(?P<G>hex2)(?P<B>hex2)\\b(?!\\w)",
+			"white": "#FFFFFFFF"
+		}
+	}
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCPreferences Version="1" MinVersion="1">
+	<TBcPrefs>
+		<CheckForUpdatesDayAmt Value="0"/>
+		<OpConfirmCompare Value="False"/>
+		<ShowQuickCompare Value="False"/>
+		<TextSyntaxDiffs Value="True"/>
+		<Workspaces>
+			<Item Value="1">
+				<Windows>
+					<_0>
+						<PosStr Value="0;32;1400;1026"/>
+						<Tabs>
+							<_0>
+								<TTextCompareSession Value="">
+									<Specs>
+										<Left Value="/home/jack/Загрузки/neo"/>
+										<Right Value="/home/jack/Загрузки/new3-1"/>
+									</Specs>
+								</TTextCompareSession>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+			<Item Value="2">
+				<Windows>
+					<_0>
+						<PosStr Value="0;32;1400;1026"/>
+						<Tabs>
+							<_0>
+								<TDirCompareSession Value="">
+									<Specs>
+										<Left Value="/home/jacka/Android/77/ramdisk.n"/>
+										<Right Value="/home/jacka/Android/77/ramdisk"/>
+									</Specs>
+								</TDirCompareSession>
+								<ZOrder Value="1"/>
+							</_0>
+							<_1>
+								<TTextCompareSession Value="">
+									<Specs>
+										<Left Value="/home/jacka/Android/77/ramdisk.n/init.qcom.rc"/>
+										<Right Value="/home/jacka/Android/77/ramdisk/init.qcom.rc"/>
+									</Specs>
+								</TTextCompareSession>
+								<ParentTab Value="0"/>
+								<ParentWindow Value="0"/>
+								<ZOrder Value="0"/>
+							</_1>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+			<Item Value="погода">
+				<Windows>
+					<_0>
+						<PosStr Value="0;36;1400;1024"/>
+						<Tabs>
+							<_0>
+								<TDirCompareSession Value="">
+									<Specs>
+										<Left Value="/home/jacka/Android/-=TOOLS=-/jBART/---Погода+M8_pro.burgerz.miweather8.apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8.apk/res"/>
+										<Right Value="/home/jacka/Android/-=TOOLS=-/jBART/Погода+M8_pro.burgerz.miweather8(1).apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8(1).apk/res"/>
+									</Specs>
+								</TDirCompareSession>
+								<ZOrder Value="0"/>
+							</_0>
+						</Tabs>
+						<ZOrder Value="0"/>
+					</_0>
+				</Windows>
+			</Item>
+		</Workspaces>
+	</TBcPrefs>
+	<TDirPrefs>
+		<FontStr Value="Liberation Sans;12"/>
+	</TDirPrefs>
+	<TFilePrefs>
+		<EditorFontStr Value="Liberation Mono;11"/>
+		<HexFontStr Value="Liberation Mono;11"/>
+		<ListFontStr Value="Liberation Serif;11"/>
+	</TFilePrefs>
+</BCPreferences>

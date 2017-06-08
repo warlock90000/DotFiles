@@ -1,0 +1,4 @@
+#!/bin/sh
+p=`readlink -f ./`
+#grep -i -r -n -H $1 $p'/'*
+grep -i -r -n -H $1 *

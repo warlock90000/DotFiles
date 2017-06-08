@@ -1,0 +1,28 @@
+[DownloadDialog Settings]
+Height 1024=676
+Height 1050=914
+Width 1280=898
+Width 1400=1100
+
+[KFileDialog Settings]
+Recent Files[$e]=start.sh,file:$HOME/bin/start.sh
+Recent URLs[$e]=file:$HOME/bin/
+
+[MainWindow]
+Height 1024=754
+Height 1050=949
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABTgAAAOIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1180
+Width 1400=1336
+
+[Notification Messages]
+FontSettingsChanged=false
+
+[Open-with settings]
+CompletionMode=5
+History=urxvtc
+
+[PlasmaRunnerManager]
+LaunchCounts=

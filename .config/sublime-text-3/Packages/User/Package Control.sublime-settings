@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"EncodingHelper",
+		"FileDiffs",
+		"HTMLBeautify",
+		"Indent and braces",
+		"Indent XML",
+		"IndentX",
+		"Normalize Indentation",
+		"Package Control",
+		"SideBarEnhancements",
+		"StyleToken",
+		"SublimeLinter",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized"
+	],
+	"repositories":
+	[
+	]
+}

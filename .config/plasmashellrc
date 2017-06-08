@@ -1,0 +1,62 @@
+[Containments][31][General]
+AppletOrder=32
+
+[Containments][33][General]
+AppletOrder=34
+
+[FileDialogSize]
+Height 1024=480
+Height 1050=699
+Width 1280=640
+Width 1400=1014
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/.local/share/icons/Iceglass-4.12/128x128/categories/applications-system.png,file:$HOME/.local/share/icons/ubudao-style/apps/kde-windows.png,file:$HOME/.local/share/icons/K-High-Delight/status/aptdaemon-add.svg,file:$HOME/.local/share/icons/ubudao-style/actions/about_kde.png
+Recent URLs[$e]=file:$HOME/.local/share/icons/ubudao-style/actions/,file:$HOME/.local/share/icons/ubudao-style/apps/
+
+[KPropertiesDialog]
+Height 1024=345
+Height 1050=344
+Width 1280=484
+Width 1400=922
+
+[PlasmaRunnerManager]
+LaunchCounts=3 services_about-distro.desktop,1 services_org.kde.kinfocenter.desktop,1 services_org.kde.kcalc.desktop
+pluginWhiteList=services,bookmarks,baloosearch,locations
+
+[PlasmaViews][Panel 1][Horizontal1280]
+thickness=38
+
+[PlasmaViews][Panel 1][Horizontal1400]
+thickness=36
+
+[PlasmaViews][Panel 1][Vertical1024]
+thickness=30
+
+[PlasmaViews][Panel 25]
+alignment=132
+panelVisibility=1
+
+[PlasmaViews][Panel 25][Horizontal1280]
+maxLength=990
+minLength=860
+thickness=58
+
+[PlasmaViews][Panel 25][Horizontal1400]
+maxLength=994
+minLength=994
+offset=0
+thickness=64
+
+[PlasmaViews][Panel 31][Horizontal1280]
+thickness=21
+
+[PlasmaViews][Panel 33][Horizontal1280]
+thickness=21
+
+[ScreenConnectors]
+0=VGA-0
+1=VGA-1-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

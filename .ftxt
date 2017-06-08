@@ -1,0 +1,4 @@
+#!/bin/bash
+#p=`readlink -f ./`
+#grep -i -r -n -H $1 $p'/'* | cut -d: -f1 | sort -u
+grep -i -r -n -H $1 * | cut -d: -f1 | sort -u

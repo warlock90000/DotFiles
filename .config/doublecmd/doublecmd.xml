@@ -1,0 +1,1807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd DCVersion="0.7.8 beta" ConfigVersion="9">
+  <Configuration Save="True" SortOrder="0">
+    <UseConfigInProgramDir>False</UseConfigInProgramDir>
+  </Configuration>
+  <Colors>
+    <FileFilters>
+      <Filter>
+        <Name>Pascal sources</Name>
+        <FileMasks>*.pas;*.pp</FileMasks>
+        <Color>32768</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Pascal binaries</Name>
+        <FileMasks>*.ppu;*.o;*.dcu</FileMasks>
+        <Color>16711680</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Shortcut</Name>
+        <FileMasks>*.desktop</FileMasks>
+        <Color>32896</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Specified Executables</Name>
+        <FileMasks>*</FileMasks>
+        <Color>255</Color>
+        <Attributes>-rwxrwxr*x</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Hidden folder</Name>
+        <FileMasks>.*</FileMasks>
+        <Color>8421376</Color>
+        <Attributes>dr*******</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Folder</Name>
+        <FileMasks>*</FileMasks>
+        <Color>15760642</Color>
+        <Attributes>dr*******</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Video</Name>
+        <FileMasks>&gt;video</FileMasks>
+        <Color>27293</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Executables</Name>
+        <FileMasks>*</FileMasks>
+        <Color>32768</Color>
+        <Attributes>-*x*</Attributes>
+      </Filter>
+      <Filter>
+        <Name>Hidden</Name>
+        <FileMasks>.*</FileMasks>
+        <Color>8421376</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Audio</Name>
+        <FileMasks>&gt;audio</FileMasks>
+        <Color>65280</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Archive</Name>
+        <FileMasks>&gt;arc</FileMasks>
+        <Color>16711935</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>ISO</Name>
+        <FileMasks>&gt;iso</FileMasks>
+        <Color>7697781</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Pictures</Name>
+        <FileMasks>&gt;pic</FileMasks>
+        <Color>27702</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Log</Name>
+        <FileMasks>*.log</FileMasks>
+        <Color>-2147483619</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Office</Name>
+        <FileMasks>&gt;office</FileMasks>
+        <Color>33023</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>HTML</Name>
+        <FileMasks>*.htm;*.html;*.php;*.css;*.mht;*.url;*.mhtml;*.maff;</FileMasks>
+        <Color>8388863</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Playlist</Name>
+        <FileMasks>*.asx;*.m3u;*.m3u8;*.plc;*.pls;*.wvx;*.wpl;*.pls;*.lsx;*.xspf</FileMasks>
+        <Color>16743228</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>P2P</Name>
+        <FileMasks>*.torrent;*.!ut;*.bc!;*.part;*.!qb;*.ccf;*.cnl;*.dlc;*.meta;*.rsdf;</FileMasks>
+        <Color>6974133</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Executables Windows</Name>
+        <FileMasks>*.br2;*.exe;*.com;*.pif;*.bat;*.scr;*.lnk;*.cmd;*.dll;*.dat;*.sfx;*.manifest;*.ocx;*.sys;*.vxd;*.wxd;*.wbx;*.wcx;*.wdx;*.wfx;*.wlx;*.msstyles;</FileMasks>
+        <Color>11556864</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Fonts</Name>
+        <FileMasks>*.abf;*.afm;*.bdf;*.bmf;*.fnt;*.fon;*.fond;*.mgf;*.otf;*.pcf;*.pfa;*.pfb;*.pfm;*.sfd;*.snf;*.tdf;*.tfm;*.ttc;*.ttf;*.woff;</FileMasks>
+        <Color>10118545</Color>
+        <Attributes/>
+      </Filter>
+      <Filter>
+        <Name>Virtualbox</Name>
+        <FileMasks>*.vdi;*.vbox;*.vbox-prev;*.sav;</FileMasks>
+        <Color>8393569</Color>
+        <Attributes/>
+      </Filter>
+    </FileFilters>
+    <Foreground>10789024</Foreground>
+    <Background>0</Background>
+    <Background2>0</Background2>
+    <Mark>65535</Mark>
+    <Cursor>8323157</Cursor>
+    <CursorText>15793151</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
+    <FreeSpaceIndicator>
+      <ForeColor>0</ForeColor>
+      <BackColor>16777215</BackColor>
+      <UseGradient>True</UseGradient>
+    </FreeSpaceIndicator>
+    <UseCursorBorder>False</UseCursorBorder>
+    <CursorBorderColor>-2147483635</CursorBorderColor>
+    <InactiveCursor>-2147483645</InactiveCursor>
+    <InactiveMark>128</InactiveMark>
+    <UseInactiveSelColor>False</UseInactiveSelColor>
+    <AllowOverColor>True</AllowOverColor>
+  </Colors>
+  <Plugins>
+    <DsxPlugins/>
+    <WcxPlugins>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>zip</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>735</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>lzma</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>1</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tar</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>223</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>bz2</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>91</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tbz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>gz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>91</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tgz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>cpio</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/cpio/cpio.wcx</Path>
+        <Flags>4</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>deb</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/deb/deb.wcx</Path>
+        <Flags>4</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>rpm</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/rpm/rpm.wcx</Path>
+        <Flags>4</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="False">
+        <ArchiveExt>rar</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/unrar/unrar.wcx</Path>
+        <Flags>68</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>tlz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>xz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>91</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>txz</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>95</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>zipx</ArchiveExt>
+        <Path>%commander_path%/plugins/wcx/zip/zip.wcx</Path>
+        <Flags>212</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>iso</ArchiveExt>
+        <Path>%COMMANDER_PATH%/plugins/wcx/iso/iso_obl_x64.wcx</Path>
+        <Flags>254</Flags>
+      </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>mdf</ArchiveExt>
+        <Path>%COMMANDER_PATH%/plugins/wcx/iso/iso_obl_x64.wcx</Path>
+        <Flags>192</Flags>
+      </WcxPlugin>
+    </WcxPlugins>
+    <WdxPlugins>
+      <WdxPlugin>
+        <Name>rpm_wdx</Name>
+        <Path>%COMMANDER_PATH%/plugins/wdx/rpm_wdx/rpm_wdx.wdx</Path>
+        <DetectString>EXT="RPM"</DetectString>
+      </WdxPlugin>
+      <WdxPlugin>
+        <Name>deb_wdx</Name>
+        <Path>%COMMANDER_PATH%/plugins/wdx/deb_wdx/deb_wdx.wdx</Path>
+        <DetectString>EXT="DEB"</DetectString>
+      </WdxPlugin>
+    </WdxPlugins>
+    <WfxPlugins>
+      <WfxPlugin Enabled="True">
+        <Name>FTP</Name>
+        <Path>%commander_path%/plugins/wfx/ftp/ftp.wfx</Path>
+      </WfxPlugin>
+      <WfxPlugin Enabled="False">
+        <Name>Windows Network</Name>
+        <Path>%commander_path%/plugins/wfx/samba/samba.wfx</Path>
+      </WfxPlugin>
+    </WfxPlugins>
+    <WlxPlugins>
+      <WlxPlugin Enabled="True">
+        <Name>wlxMplayer</Name>
+        <Path>%COMMANDER_PATH%/plugins/wlx/wlxmplayer/wlxmplayer.wlx</Path>
+        <DetectString>(EXT="MPG")|(EXT="AVI")|(EXT="MPEG")|(EXT="FLV")</DetectString>
+      </WlxPlugin>
+    </WlxPlugins>
+  </Plugins>
+  <Toolbars>
+    <MainToolbar>
+      <Row>
+        <Command>
+          <ID>{707E8EB0-34D9-4B17-9543-13513A0023C1}</ID>
+          <Icon>utilities-terminal</Icon>
+          <Hint>Пуск терминала</Hint>
+          <Command/>
+        </Command>
+        <Command>
+          <ID>{DA87C028-4A8E-49FB-8ED9-8E4610C3EFD9}</ID>
+          <Icon>list-add</Icon>
+          <Command>cm_MarkPlus</Command>
+        </Command>
+        <Command>
+          <ID>{55FAB605-8D9D-49E6-AFEF-4EA5AF16D450}</ID>
+          <Icon>list-remove</Icon>
+          <Command>cm_MarkMinus</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{C1E96D7F-E4E1-4AFE-B181-96D0A2B248BF}</ID>
+          <Icon>package-x-generic</Icon>
+          <Command>cm_PackFiles</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{5260C278-63B7-49F6-B845-726C9B009577}</ID>
+          <Icon>system-search</Icon>
+          <Command>cm_Search</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{58E9B8AB-BD7D-4CDA-AE05-1491932BEB60}</ID>
+          <Icon>go-previous</Icon>
+          <Command>cm_ViewHistoryPrev</Command>
+        </Command>
+        <Command>
+          <ID>{B56AACB4-AB75-4142-9B4D-ECC026B29126}</ID>
+          <Icon>go-next</Icon>
+          <Command>cm_ViewHistoryNext</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{A3AB29FA-1E7D-408C-9B9E-0F7FC7403ECE}</ID>
+          <Icon>cm_cuttoclipboard</Icon>
+          <Command>cm_CutToClipboard</Command>
+        </Command>
+        <Command>
+          <ID>{E2492435-B005-4F2E-B7D1-04D601FF6ACD}</ID>
+          <Icon>cm_checksumverify</Icon>
+          <Command>cm_CheckSumVerify</Command>
+        </Command>
+        <Command>
+          <ID>{0F85795F-E179-437E-AE05-9C6E4D6F0FA9}</ID>
+          <Icon>cm_comparecontents</Icon>
+          <Command>cm_CompareContents</Command>
+        </Command>
+        <Separator/>
+        <Command>
+          <ID>{A74F91F7-CE55-498E-9EAF-A6FE2F31550E}</ID>
+          <Icon>cm_showsysfiles</Icon>
+          <Command>cm_ShowSysFiles</Command>
+        </Command>
+        <Command>
+          <ID>{89587742-86C6-481C-94DA-C8097ABE80C1}</ID>
+          <Icon>cm_copyalltabstoopposite</Icon>
+          <Command>cm_CopyAllTabsToOpposite</Command>
+        </Command>
+      </Row>
+    </MainToolbar>
+  </Toolbars>
+  <Language>
+    <POFileName>doublecmd.ru.po</POFileName>
+  </Language>
+  <Behaviours>
+    <GoToRoot>False</GoToRoot>
+    <RunInTerminalStayOpenCmd>/bin/konsole</RunInTerminalStayOpenCmd>
+    <RunInTerminalStayOpenParams>-e sh -c '{command}; echo -n Press ENTER to exit... ; read a'</RunInTerminalStayOpenParams>
+    <RunInTerminalCloseCmd>/bin/konsole</RunInTerminalCloseCmd>
+    <RunInTerminalCloseParams>-e sh -c {command}</RunInTerminalCloseParams>
+    <JustRunTerminal>/bin/konsole</JustRunTerminal>
+    <JustRunTermParams/>
+    <OnlyOneAppInstance>True</OnlyOneAppInstance>
+    <LynxLike>True</LynxLike>
+    <FileSizeFormat>0</FileSizeFormat>
+    <MinimizeToTray>False</MinimizeToTray>
+    <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
+    <Mouse>
+      <Selection Enabled="True">
+        <Button>0</Button>
+      </Selection>
+      <ScrollMode>1</ScrollMode>
+      <WheelScrollLines>3</WheelScrollLines>
+    </Mouse>
+    <AutoFillColumns>True</AutoFillColumns>
+    <AutoSizeColumn>1</AutoSizeColumn>
+    <CustomColumnsChangeAllColumns>False</CustomColumnsChangeAllColumns>
+    <BriefViewFileExtAligned>False</BriefViewFileExtAligned>
+    <DateTimeFormat>dd/mm/yy</DateTimeFormat>
+    <CutTextToColumnWidth>True</CutTextToColumnWidth>
+    <ShowSystemFiles>True</ShowSystemFiles>
+    <ListFilesInThread>True</ListFilesInThread>
+    <LoadIconsSeparately>True</LoadIconsSeparately>
+    <DelayLoadingTabs>True</DelayLoadingTabs>
+    <HighlightUpdatedFiles>True</HighlightUpdatedFiles>
+    <DriveBlackList/>
+    <DriveBlackListUnmounted>True</DriveBlackListUnmounted>
+  </Behaviours>
+  <Tools>
+    <Viewer Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Viewer>
+    <Editor Enabled="True">
+      <Path>/usr/bin/subl</Path>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Editor>
+    <Differ Enabled="True">
+      <Path>bcompare</Path>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+      <FramePosAfterComp>1</FramePosAfterComp>
+    </Differ>
+  </Tools>
+  <Fonts>
+    <Main>
+      <Name>Ubuntu Mono</Name>
+      <Size>11</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Main>
+    <Editor>
+      <Name>Ubuntu Mono</Name>
+      <Size>12</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Editor>
+    <Viewer>
+      <Name>Ubuntu</Name>
+      <Size>12</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Viewer>
+    <Log>
+      <Name>Ubuntu Mono</Name>
+      <Size>11</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Log>
+    <ViewerBook>
+      <Name>Ubuntu</Name>
+      <Size>14</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </ViewerBook>
+    <SearchResults>
+      <Name>default</Name>
+      <Size>14</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </SearchResults>
+    <PathEdit>
+      <Name>default</Name>
+      <Size>8</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </PathEdit>
+    <Console>
+      <Name>Ubuntu Mono</Name>
+      <Size>11</Size>
+      <Style>0</Style>
+      <Quality>0</Quality>
+    </Console>
+  </Fonts>
+  <ToolTips>
+    <ShowToolTipMode>True</ShowToolTipMode>
+    <CustomFields/>
+  </ToolTips>
+  <Layout>
+    <MainMenu>True</MainMenu>
+    <ButtonBar Enabled="True">
+      <FlatIcons>True</FlatIcons>
+      <ButtonHeight>24</ButtonHeight>
+      <IconSize>20</IconSize>
+      <ReportErrorWithCommands>False</ReportErrorWithCommands>
+    </ButtonBar>
+    <DriveBar1>True</DriveBar1>
+    <DriveBar2>True</DriveBar2>
+    <DriveBarFlat>True</DriveBarFlat>
+    <DrivesListButton Enabled="True">
+      <ShowLabel>True</ShowLabel>
+      <ShowFileSystem>True</ShowFileSystem>
+      <ShowFreeSpace>True</ShowFreeSpace>
+    </DrivesListButton>
+    <SeparateTree>False</SeparateTree>
+    <DirectoryTabs>True</DirectoryTabs>
+    <CurrentDirectory>True</CurrentDirectory>
+    <TabHeader>True</TabHeader>
+    <StatusBar>True</StatusBar>
+    <CmdLine>True</CmdLine>
+    <LogWindow>False</LogWindow>
+    <TermWindow>False</TermWindow>
+    <KeyButtons>True</KeyButtons>
+    <InterfaceFlat>True</InterfaceFlat>
+    <DriveFreeSpace>True</DriveFreeSpace>
+    <DriveIndicator>True</DriveIndicator>
+    <ProgressInMenuBar>True</ProgressInMenuBar>
+    <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
+    <HorizontalFilePanels>False</HorizontalFilePanels>
+    <ShortFormatDriveInfo>False</ShortFormatDriveInfo>
+  </Layout>
+  <FilesViews>
+    <Sorting>
+      <CaseSensitivity>0</CaseSensitivity>
+      <NaturalSorting>True</NaturalSorting>
+      <SortFolderMode>0</SortFolderMode>
+      <NewFilesPosition>1</NewFilesPosition>
+      <UpdatedFilesPosition>2</UpdatedFilesPosition>
+    </Sorting>
+    <ColumnsView>
+      <AutoSaveWidth>True</AutoSaveWidth>
+      <TitleStyle>1</TitleStyle>
+    </ColumnsView>
+    <BriefView>
+      <FileExtAligned>False</FileExtAligned>
+      <Columns>
+        <FixedWidth>100</FixedWidth>
+        <FixedCount>2</FixedCount>
+        <AutoSize>2</AutoSize>
+      </Columns>
+    </BriefView>
+  </FilesViews>
+  <Keyboard>
+    <Typing>
+      <Actions>
+        <NoModifier>1</NoModifier>
+        <Alt>2</Alt>
+        <CtrlAlt>3</CtrlAlt>
+      </Actions>
+    </Typing>
+  </Keyboard>
+  <FileOperations>
+    <BufferSize>8388608</BufferSize>
+    <UseMmapInSearch>False</UseMmapInSearch>
+    <PartialNameSearch>True</PartialNameSearch>
+    <WipePassNumber>1</WipePassNumber>
+    <DropReadOnlyFlag>False</DropReadOnlyFlag>
+    <ProcessComments>True</ProcessComments>
+    <RenameSelOnlyName>True</RenameSelOnlyName>
+    <ShowCopyTabSelectPanel>True</ShowCopyTabSelectPanel>
+    <UseTrash>True</UseTrash>
+    <SkipFileOpError>False</SkipFileOpError>
+    <ShowDialogOnDragDrop>True</ShowDialogOnDragDrop>
+    <OverwriteFolder>False</OverwriteFolder>
+    <ProgressKind>0</ProgressKind>
+    <Confirmations>7</Confirmations>
+    <Options>
+      <Symlink>0</Symlink>
+      <CorrectLinks>False</CorrectLinks>
+      <FileExists>0</FileExists>
+      <DirectoryExists>0</DirectoryExists>
+      <SetPropertyError>0</SetPropertyError>
+      <ReserveSpace>False</ReserveSpace>
+      <CheckFreeSpace>True</CheckFreeSpace>
+      <CopyAttributes>True</CopyAttributes>
+      <CopyTime>True</CopyTime>
+      <CopyOwnership>True</CopyOwnership>
+      <CopyPermissions>False</CopyPermissions>
+      <ExcludeEmptyTemplateDirectories>True</ExcludeEmptyTemplateDirectories>
+    </Options>
+    <TypeOfDuplicatedRename>0</TypeOfDuplicatedRename>
+    <DragAndDropTextRichtextDesireLevel>0</DragAndDropTextRichtextDesireLevel>
+    <DragAndDropTextHtmlDesireLevel>1</DragAndDropTextHtmlDesireLevel>
+    <DragAndDropTextUnicodeDesireLevel>2</DragAndDropTextUnicodeDesireLevel>
+    <DragAndDropTextSimpletextDesireLevel>3</DragAndDropTextSimpletextDesireLevel>
+    <DragAndDropAskFormatEachTime>False</DragAndDropAskFormatEachTime>
+    <DragAndDropTextAutoFilename>False</DragAndDropTextAutoFilename>
+    <DragAndDropSaveUnicodeTextInUFT8>True</DragAndDropSaveUnicodeTextInUFT8>
+    <NtfsHourTimeDelay>False</NtfsHourTimeDelay>
+    <HashBufferSize>8388608</HashBufferSize>
+    <SearchDefaultTemplate/>
+    <AutoExtractOpenMask/>
+  </FileOperations>
+  <Tabs>
+    <Options>51089</Options>
+    <CharacterLimit>32</CharacterLimit>
+    <Position>0</Position>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>3</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="awesome_conf">/home/jacka/.config/</Path>
+                  <Path Filename="dotfiles_desktop">/home/jacka/.config/awesome_conf/</Path>
+                  <Path Filename=".git">/home/jacka/.config/awesome_conf/dotfiles_desktop/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/dotfiles_desktop/.git/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/dotfiles_desktop/</Path>
+                  <Path Filename="AwesomeWM_Desktop">/home/jacka/.config/awesome_conf/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/</Path>
+                  <Path Filename="AwesomeWM_Desktop">/home/jacka/.config/awesome_conf/</Path>
+                  <Path Filename="PROFILES">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/</Path>
+                  <Path Filename="msjche">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/</Path>
+                  <Path Filename="blingbling">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/</Path>
+                  <Path Filename="config_example">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/</Path>
+                  <Path Filename="graphs_test">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/</Path>
+                  <Path Filename="default">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/</Path>
+                  <Path Filename="layouts">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/default/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/default/layouts/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/default/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/</Path>
+                  <Path Filename="graphs_test">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/graphs_test/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/config_example/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/blingbling/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/msjche/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/PROFILES/</Path>
+                  <Path Filename="..">/home/jacka/.config/awesome_conf/AwesomeWM_Desktop/</Path>
+                  <Path Filename="AwesomeWM_Desktop">/home/jacka/.config/awesome_conf/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename="Music">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/Music/</Path>
+                  <Path Filename="MIUI_Editor">/home/jacka/</Path>
+                  <Path Filename="-=themes=-">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="Mi Note 2 Black">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="2">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/2/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="11">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="-=1=-">/home/jacka/MIUI_Editor/-=themes=-/11/</Path>
+                  <Path Filename="com.android.calendar">/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/</Path>
+                  <Path Filename="res">/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.calendar/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.calendar/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.calendar/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/11/</Path>
+                  <Path Filename="-=pac=-">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/-=pac=-/</Path>
+                  <Path Filename="Mi Note 2 Black">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="2">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="framework-res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/2/</Path>
+                  <Path Filename="">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/drawable-xxhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/</Path>
+                  <Path Filename="res">/tmp/1/</Path>
+                  <Path Filename="drawable-xhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xhdpi/</Path>
+                  <Path Filename="drawable-xhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xxhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/</Path>
+                  <Path Filename="1">/tmp/</Path>
+                  <Path Filename="..">/tmp/1/</Path>
+                  <Path Filename="1">/tmp/</Path>
+                  <Path Filename="framework-miui">/tmp/1/</Path>
+                  <Path Filename="res">/tmp/1/framework-miui/</Path>
+                  <Path Filename="drawable-land-xhdpi">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/drawable-land-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/res/</Path>
+                  <Path Filename="新建文件夹">/tmp/1/framework-miui/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/新建文件夹/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/</Path>
+                  <Path Filename="res">/tmp/1/</Path>
+                  <Path Filename="drawable-land-xhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-land-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xxhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/res/</Path>
+                  <Path Filename="..">/tmp/1/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/tmp/1/res/</Path>
+                  <Path Filename="framework-miui">/tmp/1/</Path>
+                  <Path Filename="..">/tmp/1/framework-miui/</Path>
+                  <Path Filename="..">/tmp/1/</Path>
+                  <Path Filename="1">/tmp/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/</Path>
+                  <Path Filename="..">/tmp/1/drawable-xxhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/tmp/1/</Path>
+                  <Path Filename="..">/tmp/1/drawable-xxhdpi/</Path>
+                  <Path Filename="res">/tmp/1/</Path>
+                  <Path Filename="..">/tmp/1/res/</Path>
+                  <Path Filename="res">/tmp/1/</Path>
+                  <Path Filename="">/tmp/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".kde4">/home/jacka/</Path>
+                  <Path Filename="share">/home/jacka/.kde4/</Path>
+                  <Path Filename="apps">/home/jacka/.kde4/share/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/share/apps/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/share/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="-=Other=-">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=Other=-/</Path>
+                  <Path Filename="11">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/11/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename=".local">/home/jacka/</Path>
+                  <Path Filename="share">/home/jacka/.local/</Path>
+                  <Path Filename="icons">/home/jacka/.local/share/</Path>
+                  <Path Filename="nouveKDEGray">/home/jacka/.local/share/icons/</Path>
+                  <Path Filename="..">/home/jacka/.local/share/icons/nouveKDEGray/</Path>
+                  <Path Filename="nouveKDEGray">/home/jacka/.local/share/icons/</Path>
+                  <Path Filename="256x256">/home/jacka/.local/share/icons/nouveKDEGray/</Path>
+                  <Path Filename="actions">/home/jacka/.local/share/icons/nouveKDEGray/256x256/</Path>
+                  <Path Filename="..">/home/jacka/.local/share/icons/nouveKDEGray/256x256/actions/</Path>
+                  <Path Filename="..">/home/jacka/.local/share/icons/nouveKDEGray/256x256/</Path>
+                  <Path Filename="256x256">/home/jacka/.local/share/icons/nouveKDEGray/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".kde4">/home/jacka/</Path>
+                  <Path Filename="share">/home/jacka/.kde4/</Path>
+                  <Path Filename="apps">/home/jacka/.kde4/share/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/share/apps/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/share/</Path>
+                  <Path Filename="..">/home/jacka/.kde4/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="-=Other=-">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=Other=-/</Path>
+                  <Path Filename="11">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/11/</Path>
+                  <Path Filename="222">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/222/</Path>
+                  <Path Filename="-=TEL=-">/home/jacka/Download/</Path>
+                  <Path Filename="NEO909">/home/jacka/Download/-=TEL=-/</Path>
+                  <Path Filename="miui">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="-=BETA=-">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-=BETA=-/</Path>
+                  <Path Filename="1">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/1/</Path>
+                  <Path Filename="2">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/2/</Path>
+                  <Path Filename="-=BETA=-">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-=BETA=-/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/</Path>
+                  <Path Filename="torrent">/home/jacka/Download/</Path>
+                  <Path Filename="..">/home/jacka/Download/torrent/</Path>
+                  <Path Filename="планшет">/home/jacka/Download/</Path>
+                  <Path Filename="Смешарики. В поисках Биби [rutracker.og]">/home/jacka/Download/планшет/</Path>
+                  <Path Filename="..">/home/jacka/Download/планшет/Смешарики. В поисках Биби [rutracker.og]/</Path>
+                  <Path Filename="..">/home/jacka/Download/планшет/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename="wine-games">/home/jacka/</Path>
+                  <Path Filename="Desktop">/home/jacka/wine-games/</Path>
+                  <Path Filename="..">/home/jacka/wine-games/Desktop/</Path>
+                  <Path Filename="..">/home/jacka/wine-games/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename=".aria2">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.aria2/</Path>
+                  <Path Filename=".xinitrc.gz">/home/jacka/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/com/google/android/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/com/google/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/com/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/</Path>
+                  <Path Filename="port-pac-multirom">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="замена">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/</Path>
+                  <Path Filename="system">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/</Path>
+                  <Path Filename="media">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/</Path>
+                  <Path Filename="theme">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/</Path>
+                  <Path Filename="default">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/theme/</Path>
+                  <Path Filename="gadgets">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/theme/default/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/theme/default/gadgets/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/theme/default/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/theme/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/media/</Path>
+                  <Path Filename="usr">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/</Path>
+                  <Path Filename="icu">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/usr/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/usr/icu/</Path>
+                  <Path Filename="icu">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/usr/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/usr/icu/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/usr/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/</Path>
+                  <Path Filename="замена">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/</Path>
+                  <Path Filename="system">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/</Path>
+                  <Path Filename="vendor">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/vendor/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/system/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/замена/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-multirom/</Path>
+                  <Path Filename="-=Для патча=-">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="miuisystem.apk">/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/miuisystem.apk/</Path>
+                  <Path Filename="framework-res.apk">/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/framework-res.apk/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="miui">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="6.9.15">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="system">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/</Path>
+                  <Path Filename="6.10.13">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/</Path>
+                  <Path Filename="6.10.27">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.27/</Path>
+                  <Path Filename="6.10.13">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="">/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/</Path>
+                  <Path Filename="">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename=".ssh">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.ssh/</Path>
+                  <Path Filename=".ssr">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.ssr/</Path>
+                  <Path Filename=".subversion">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.subversion/</Path>
+                  <Path Filename=".swt">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.swt/</Path>
+                  <Path Filename=".TelegramDesktop">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.TelegramDesktop/</Path>
+                  <Path Filename=".TelegramDesktop">/home/jacka/</Path>
+                  <Path Filename="fontconfig">/home/jacka/.TelegramDesktop/</Path>
+                  <Path Filename="..">/home/jacka/.TelegramDesktop/fontconfig/</Path>
+                  <Path Filename="tdata">/home/jacka/.TelegramDesktop/</Path>
+                  <Path Filename="D877F783D5D3EF8C">/home/jacka/.TelegramDesktop/tdata/</Path>
+                  <Path Filename="..">/home/jacka/.TelegramDesktop/tdata/D877F783D5D3EF8C/</Path>
+                  <Path Filename="..">/home/jacka/.TelegramDesktop/tdata/</Path>
+                  <Path Filename="..">/home/jacka/.TelegramDesktop/</Path>
+                  <Path Filename=".themes">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.themes/</Path>
+                  <Path Filename=".urxvt">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.urxvt/</Path>
+                  <Path Filename=".vnc">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/.vnc/</Path>
+                  <Path Filename=".-=BCK=-">/home/jacka/</Path>
+                  <Path Filename="home_bck_30.01.17.tar.7z">/home/jacka/.-=BCK=-/</Path>
+                  <Path Filename="-=FILM=-">/run/media/jacka/Flash_32Gb/</Path>
+                  <Path Filename="..">/run/media/jacka/Flash_32Gb/-=FILM=-/</Path>
+                  <Path Filename="Flash_32Gb">/run/media/jacka/</Path>
+                  <Path Filename="-=FILM=-">/run/media/jacka/Flash_32Gb/</Path>
+                  <Path Filename="..">/run/media/jacka/Flash_32Gb/-=FILM=-/</Path>
+                  <Path Filename="..">/run/media/jacka/</Path>
+                  <Path Filename="..">/run/media/</Path>
+                  <Path Filename="..">/run/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename="tmp">/home/jacka/</Path>
+                  <Path Filename="2">/home/jacka/tmp/</Path>
+                  <Path Filename="multi">/home/jacka/tmp/2/</Path>
+                  <Path Filename="multi_system_">/home/jacka/tmp/2/multi/</Path>
+                  <Path Filename="..">/home/jacka/tmp/2/multi/multi_system_/</Path>
+                  <Path Filename="..">/home/jacka/tmp/2/multi/</Path>
+                  <Path Filename="-conv">/home/jacka/tmp/2/</Path>
+                  <Path Filename="..">/home/jacka/tmp/2/-conv/</Path>
+                  <Path Filename="..">/home/jacka/tmp/2/</Path>
+                  <Path Filename="VARGO">/home/jacka/tmp/</Path>
+                  <Path Filename="BOOT">/home/jacka/tmp/VARGO/</Path>
+                  <Path Filename="1">/home/jacka/tmp/VARGO/BOOT/</Path>
+                  <Path Filename="..">/home/jacka/tmp/VARGO/BOOT/1/</Path>
+                  <Path Filename="">/home/jacka/tmp/VARGO/BOOT/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>5</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/tmp/1/content/com.miui.gallery/</Path>
+                  <Path Filename="com.miui.notes">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/com.miui.notes/</Path>
+                  <Path Filename="com.miui.player">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/com.miui.player/</Path>
+                  <Path Filename="com.miui.powerkeeper">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/com.miui.powerkeeper/</Path>
+                  <Path Filename="com.miui.securitycenter">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/com.miui.securitycenter/</Path>
+                  <Path Filename="contact">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/contact/</Path>
+                  <Path Filename="contact">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/contact/</Path>
+                  <Path Filename="fonts">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/fonts/</Path>
+                  <Path Filename="framework">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/framework/</Path>
+                  <Path Filename="framework-miui-res">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/framework-miui-res/</Path>
+                  <Path Filename="icons">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/icons/</Path>
+                  <Path Filename="mms">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/mms/</Path>
+                  <Path Filename="statusbar">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/statusbar/</Path>
+                  <Path Filename="theme">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/theme/</Path>
+                  <Path Filename="wallpaper">/tmp/1/content/</Path>
+                  <Path Filename="..">/tmp/1/content/wallpaper/</Path>
+                  <Path Filename="..">/tmp/1/content/</Path>
+                  <Path Filename="---precust">/tmp/1/</Path>
+                  <Path Filename="preview">/tmp/1/---precust/</Path>
+                  <Path Filename="..">/tmp/1/---precust/preview/</Path>
+                  <Path Filename="..">/tmp/1/---precust/</Path>
+                  <Path Filename="---precust">/tmp/1/</Path>
+                  <Path Filename="content">/tmp/1/---precust/</Path>
+                  <Path Filename="clock_2x4">/tmp/1/---precust/content/</Path>
+                  <Path Filename="..">/tmp/1/---precust/content/clock_2x4/</Path>
+                  <Path Filename="..">/tmp/1/---precust/content/</Path>
+                  <Path Filename="..">/tmp/1/---precust/</Path>
+                  <Path Filename="">/tmp/1/</Path>
+                  <Path Filename="..">/tmp/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename="Video">/home/jacka/</Path>
+                  <Path Filename="1">/home/jacka/Video/</Path>
+                  <Path Filename="..">/home/jacka/Video/1/</Path>
+                  <Path Filename="qq">/home/jacka/Video/</Path>
+                  <Path Filename="..">/home/jacka/Video/qq/</Path>
+                  <Path Filename="">/home/jacka/Video/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>2</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.miui.yellowpage/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.miui.yellowpage/</Path>
+                  <Path Filename="framework-miui-res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/</Path>
+                  <Path Filename="res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/</Path>
+                  <Path Filename="drawable-xhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/drawable-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/</Path>
+                  <Path Filename="framework-res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/</Path>
+                  <Path Filename="res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/</Path>
+                  <Path Filename="drawable-xhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/drawable-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="-=TEL=-">/home/jacka/Download/</Path>
+                  <Path Filename="NEO909">/home/jacka/Download/-=TEL=-/</Path>
+                  <Path Filename="miui">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="-----------">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="MIUI">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="theme">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/</Path>
+                  <Path Filename=".download">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename=".temp">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/.temp/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/</Path>
+                  <Path Filename=".backup">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.backup/</Path>
+                  <Path Filename=".data">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/</Path>
+                  <Path Filename="alarm">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/alarm/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="New Folder">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/content/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="7.1.5">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="">/home/jacka/Download/-=TEL=-/NEO909/miui/7.1.5/</Path>
+                  <Path Filename="">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="drawable-xxhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-miui-res/</Path>
+                  <Path Filename="framework-res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/</Path>
+                  <Path Filename="res">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/</Path>
+                  <Path Filename="drawable-xhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/drawable-xhdpi/</Path>
+                  <Path Filename="drawable-xxhdpi">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/drawable-xxhdpi/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/framework-res/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="-=TEL=-">/home/jacka/Download/</Path>
+                  <Path Filename="NEO909">/home/jacka/Download/-=TEL=-/</Path>
+                  <Path Filename="miui">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="-----------">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="MIUI">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="theme">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/</Path>
+                  <Path Filename=".download">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename=".temp">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/.temp/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.download/</Path>
+                  <Path Filename=".backup">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.backup/</Path>
+                  <Path Filename=".data">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/</Path>
+                  <Path Filename="alarm">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/alarm/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/MIUI/theme/.data/content/</Path>
+                  <Path Filename="New Folder">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="content">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/content/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/New Folder/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/-----------/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/miui/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/NEO909/</Path>
+                  <Path Filename="..">/home/jacka/Download/-=TEL=-/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename="MIUI_Editor">/home/jacka/</Path>
+                  <Path Filename="-=themes=-">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="Mi Note 2 Black">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                  <Path Filename="">/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/</Path>
+                  <Path Filename="">/home/jacka/MIUI_Editor/-=themes=-/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>11</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/jacka/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="bin">/</Path>
+                  <Path Filename="..">/bin/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename="BUILD">/home/jacka/</Path>
+                  <Path Filename="PLASMA">/home/jacka/BUILD/</Path>
+                  <Path Filename="PLASMA-SRC">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="..">/home/jacka/BUILD/PLASMA/PLASMA-SRC/</Path>
+                  <Path Filename="DISTR">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="">/home/jacka/BUILD/PLASMA/DISTR/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/home/jacka/</Path>
+                  <Path Filename="..">/home/</Path>
+                  <Path Filename="bin">/</Path>
+                  <Path Filename="..">/bin/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename="BUILD">/home/jacka/</Path>
+                  <Path Filename="PLASMA">/home/jacka/BUILD/</Path>
+                  <Path Filename="PLASMA-SRC">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="..">/home/jacka/BUILD/PLASMA/PLASMA-SRC/</Path>
+                  <Path Filename="DISTR">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="..">/home/jacka/BUILD/PLASMA/DISTR/</Path>
+                  <Path Filename="一汽马自达CX4【高能音效+炫酷锁屏】-1.0.0.5.mtz">/home/jacka/MIUI_Editor/-=themes=-/theme/-=new=-/290916-2/</Path>
+                  <Path Filename="-=themes=-">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename=".wine_p">/home/jacka/</Path>
+                  <Path Filename="drive_c">/home/jacka/.wine_p/</Path>
+                  <Path Filename="Program Files">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/Program Files/</Path>
+                  <Path Filename="Program Files">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/Program Files/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/</Path>
+                  <Path Filename="MIUI_Editor">/home/jacka/</Path>
+                  <Path Filename="9png">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="SOURCE">/home/jacka/MIUI_Editor/9png/</Path>
+                  <Path Filename="">/home/jacka/MIUI_Editor/9png/SOURCE/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>1</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/bin/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename=".conky">/home/jacka/</Path>
+                  <Path Filename="scripts">/home/jacka/.conky/</Path>
+                  <Path Filename="weburg">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/weburg/</Path>
+                  <Path Filename="..">/home/jacka/.conky/scripts/</Path>
+                  <Path Filename="..">/home/jacka/.conky/</Path>
+                  <Path Filename="Download">/home/jacka/</Path>
+                  <Path Filename="..">/home/jacka/Download/</Path>
+                  <Path Filename="BUILD">/home/jacka/</Path>
+                  <Path Filename="PLASMA">/home/jacka/BUILD/</Path>
+                  <Path Filename="PLASMA-SRC">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="..">/home/jacka/BUILD/PLASMA/PLASMA-SRC/</Path>
+                  <Path Filename="DISTR">/home/jacka/BUILD/PLASMA/</Path>
+                  <Path Filename="..">/home/jacka/BUILD/PLASMA/DISTR/</Path>
+                  <Path Filename="一汽马自达CX4【高能音效+炫酷锁屏】-1.0.0.5.mtz">/home/jacka/MIUI_Editor/-=themes=-/theme/-=new=-/290916-2/</Path>
+                  <Path Filename="-=themes=-">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename=".wine_p">/home/jacka/</Path>
+                  <Path Filename="drive_c">/home/jacka/.wine_p/</Path>
+                  <Path Filename="Program Files">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/Program Files/</Path>
+                  <Path Filename="Program Files">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/Program Files/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/drive_c/</Path>
+                  <Path Filename="..">/home/jacka/.wine_p/</Path>
+                  <Path Filename="MIUI_Editor">/home/jacka/</Path>
+                  <Path Filename="9png">/home/jacka/MIUI_Editor/</Path>
+                  <Path Filename="SOURCE">/home/jacka/MIUI_Editor/9png/</Path>
+                  <Path Filename="..">/home/jacka/MIUI_Editor/9png/SOURCE/</Path>
+                  <Path Filename="jacka">/home/</Path>
+                  <Path Filename=".icons">/home/jacka/</Path>
+                  <Path Filename="nouveKDEGray">/home/jacka/.icons/</Path>
+                  <Path Filename="..">/home/jacka/.icons/nouveKDEGray/</Path>
+                  <Path Filename="nouveKDEGray">/home/jacka/.icons/</Path>
+                  <Path Filename="256x256">/home/jacka/.icons/nouveKDEGray/</Path>
+                  <Path Filename="actions">/home/jacka/.icons/nouveKDEGray/256x256/</Path>
+                  <Path Filename="..">/home/jacka/.icons/nouveKDEGray/256x256/actions/</Path>
+                  <Path Filename="..">/home/jacka/.icons/nouveKDEGray/256x256/</Path>
+                  <Path Filename="..">/home/jacka/.icons/nouveKDEGray/</Path>
+                  <Path Filename="..">/home/jacka/.icons/</Path>
+                  <Path Filename=".-=BCK=-">/home/jacka/</Path>
+                  <Path Filename="1">/home/jacka/.-=BCK=-/</Path>
+                  <Path Filename="..">/home/jacka/.-=BCK=-/1/</Path>
+                  <Path Filename="home_bck_29.05.17.tar.gz">/home/jacka/.-=BCK=-/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+    <ActionOnDoubleClick>1</ActionOnDoubleClick>
+  </Tabs>
+  <Log Enabled="False" LogFileWithDateInName="False">
+    <FileName>/home/jack/.config/doublecmd/doublecmd.log</FileName>
+    <Options>223</Options>
+  </Log>
+  <History>
+    <SearchReplaceHistory Save="True"/>
+    <DirHistory Save="True"/>
+    <CmdLineHistory Save="True"/>
+    <FileMaskHistory Save="True"/>
+  </History>
+  <QuickSearch>
+    <MatchBeginning>True</MatchBeginning>
+    <MatchEnding>True</MatchEnding>
+    <Case>1</Case>
+    <Items>2</Items>
+  </QuickSearch>
+  <QuickFilter>
+    <AutoHide>True</AutoHide>
+    <SaveSessionModifications>False</SaveSessionModifications>
+  </QuickFilter>
+  <Miscellaneous>
+    <GridVertLine>False</GridVertLine>
+    <GridHorzLine>False</GridHorzLine>
+    <ShowWarningMessages>True</ShowWarningMessages>
+    <SpaceMovesDown>True</SpaceMovesDown>
+    <DirBrackets>True</DirBrackets>
+    <InplaceRename>True</InplaceRename>
+    <HotDirAddTargetOrNot>False</HotDirAddTargetOrNot>
+    <HotDirFullExpandOrNot>False</HotDirFullExpandOrNot>
+    <ShowPathInPopup>False</ShowPathInPopup>
+    <ShowOnlyValidEnv>True</ShowOnlyValidEnv>
+    <WhereToAddNewHotDir>2</WhereToAddNewHotDir>
+  </Miscellaneous>
+  <Thumbnails Save="True">
+    <Width>128</Width>
+    <Height>128</Height>
+  </Thumbnails>
+  <AutoRefresh>
+    <Options>7</Options>
+    <ExcludeDirs/>
+    <Mode>0</Mode>
+  </AutoRefresh>
+  <Icons>
+    <ShowMode>1</ShowMode>
+    <ShowOverlays>False</ShowOverlays>
+    <Size>16</Size>
+    <Exclude>False</Exclude>
+    <ExcludeDirs/>
+    <CustomDriveIcons>False</CustomDriveIcons>
+    <ShowInMenus Enabled="False">
+      <Size>16</Size>
+    </ShowInMenus>
+  </Icons>
+  <IgnoreList Enabled="False">
+    <IgnoreListFile>/home/jack/.config/doublecmd/ignorelist.txt</IgnoreListFile>
+  </IgnoreList>
+  <DirectoryHotList>
+    <HotDir Name="MIUI_Editor" Path="/home/jack/MIUI_Editor/"/>
+    <HotDir Name="Загрузки" Path="/home/jack/Загрузки/"/>
+    <HotDir Name="IDIOT" Path="/home/jack/.wine_p/drive_c/IDIOT/"/>
+  </DirectoryHotList>
+  <Viewer>
+    <PreviewVisible>False</PreviewVisible>
+    <ImageStretch>True</ImageStretch>
+    <CopyMovePath1/>
+    <CopyMovePath2/>
+    <CopyMovePath3/>
+    <CopyMovePath4/>
+    <CopyMovePath5/>
+    <PaintMode>Pen</PaintMode>
+    <PaintWidth>5</PaintWidth>
+    <NumberOfColumns>1</NumberOfColumns>
+    <ViewerMode>1</ViewerMode>
+    <PaintColor>255</PaintColor>
+    <BackgroundColor>0</BackgroundColor>
+    <FontColor>16777215</FontColor>
+    <TextPosition>0</TextPosition>
+    <ImageStretchLargeOnly>False</ImageStretchLargeOnly>
+    <ImageCenter>True</ImageCenter>
+  </Viewer>
+  <Lua>
+    <PathToLibrary>liblua5.1.so.0</PathToLibrary>
+  </Lua>
+  <NameShortcutFile>shortcuts.scf</NameShortcutFile>
+  <LastUsedPacker>7z</LastUsedPacker>
+  <UseShellForFileOperations>False</UseShellForFileOperations>
+  <SearchTemplates>
+    <Template>
+      <Name>video</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.mp4;*.avi;*.mkv;*.mpg;*.mpeg;*.mp2;*.mpe;*.mpeg2; *.flv;*.wmv;*.mov;*.vob;*.3gp</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+    <Template>
+      <Name>audio</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.aac;*.aif;*.au;*.snd;*.mid;*.rmi;*.med;*.mp3;*.wav;*.mpc;*.ogg;*.flac;*.wma;*.386;*.ac3;*.mp2;*.voc</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+    <Template>
+      <Name>arc</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.7z;*.7za;*.a;*.ace;*.afa;*.alz;*.apk;*.ar;*.arc;*.arj;*.at3*.ba;*.bh;*.big;*bik;*.bin;*.bke;*.bkf;*.bld;*.bz2;*.c4;*.cab;*.cals;*.cfs;*.cpt;*.cqm;*.cpio;*.crx;*.dar;*.deb;*.dd;*.ddz;*.dgc;*.dpe;*.ecab;*.ecc;*.eea;*.egg;*.egt;*.eqe;*.ess;*.ezip;*.gca;*.gz;*.ha;*.hki;*.ice;*.infl;*.ipg;*.j;*.jar;*.kgb;*.lbr;*.lha;*.lqr;*.lz;*.lzh;*.lzma;*.lzo;*.lzw;*.lzx;*.mar;*.mbw;*.mpq;*.nth;*.pak;*.paq6;*.paq7;*.paq8;*.par;*.par2;*.pea;*.pim;*.pit;*.pk3;*.pk4;*.qda;*.r0*;*.r1*;*.r2*;*.r3*;*.r4*;*.r5*;*.r6*;*.r7*;*.r8*;*.r9*;*.rag;*.rags;*.rar;*.rk;*.rpm;*.rz;*.s0*;*.s1*;*.s2*;*.s3*;*.s4*;*.s5*;*.s6*;*.s7*;*.s8*;*.s9*;*.s7z;*.sda;*.sea;*.sen;*.sfark;*.sfx;*.shar;*.sit;*.sitx;*.skb;*.sqx;*.tar;*.tb;*.tbz2;*.tib;*.tgz;*.tlz;*.tqt;*.uc;*.uc0;*.uc2;*.ucn;*.ur2;*.ue2;*.uca;*.uha;*.uue;*.viv;*.vol;*.vsa;*.wax;*.wim;*.xar;*.xp3;*.xpi;*.xz;*.yz1;*.z;*.zz;*.zip;*.zipx;*.zoo</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+    <Template>
+      <Name>iso</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.iso;*adf;*adz;*b6t;*c2d;*ccd;*cdi;*cif;*cue;*daa;*d64;*dmg;*dms;*dsk;*.gho;*img;*iso;*mds;*mdx;*nrg;*.partimg;*sdi;*sub</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+    <Template>
+      <Name>pic</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.ani;*.awd;*.bmp;*.dib;*.cam;*.cdr;*.cur;*.clp;*.dcm;*.acr;*.dcx;*.djvu;*.iw44;*.emf;*.eps;*.fpx;*.g3;*.gif;*.icl;*.ico;*.iff;*.lbm;*.img;*.jpg;*.jpeg;*.kdc;*.ldf;*.lwf;*.pbm;*.pcd;*.pcx;*.pgm;*.png;*.ppm;*.psd;*.psp;*.ras;*.sun;*.rle;*.sff;*.sfw;*.sgi;*.rgb;*.tga;*.svg</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+    <Template>
+      <Name>office</Name>
+      <StartPath/>
+      <ExcludeDirectories/>
+      <FilesMasks>*.123;*.602;*.abw;*.acl;*.afp;*.amc;*.ami;*.amigaguide;*.ans;*.asc;*.aww;*.bar;*.cbr;*.cbz;*.ccf*.cfg;*.chm;*.conf;*.css;*.csv;*.cwk;*.dbk;*.dir;*.diz;*.doc;*.docm;*.docx;*.dot*.dotx;*.egt;*.epub;*.ezw;*.fdx;*.ftm;*.ftx;*.gdoc;*.hlp;*.hwp;*.hwpml;*.inc;*.ini;*.inf;*.info;*.ion;*.key;*.lng;*.log;*.log.1;*.log.2;*.log.3;*.log.4;*.lst;*.lwp;*.mbp;*.mcw;*.mobi;*.mnu;*.nb;*.nbp;*.nfo;*.nsh;*.nsi;*.numbers;*.odm;*.odp;*.ods;*.odt;*.omm;*.otp;*.ott;*.ots;*.pages;*.pap;*.pdax;*.pdf;*.pps;*.ppt;*.pptx;*.quox;*.radix-64;*.reg;*.rpt;*.rtf;*.sdw;*.sh;*.stc;*.sti;*.stw;*.sub;*.sxc;*.sxi;*.sxw;*.sxw;*.tex;*.txt;*.via;*.wk1;*.wk3;*.wk4;*.wks;*.wps;*.wpt;*.wri;*.xla;*.xlk;*.xlr;*.xls;*.xlsm;*.xlsx;*.xlt;*.xltm;*.xlw;*.xml;*.zabw;*.desktop</FilesMasks>
+      <ExcludeFiles/>
+      <SearchDepth>-1</SearchDepth>
+      <IsPartialNameSearch>True</IsPartialNameSearch>
+      <RegExp>False</RegExp>
+      <FollowSymLinks>False</FollowSymLinks>
+      <FindInArchives>False</FindInArchives>
+      <AttributesPattern/>
+      <IsDateFrom>False</IsDateFrom>
+      <IsDateTo>False</IsDateTo>
+      <IsTimeFrom>False</IsTimeFrom>
+      <IsTimeTo>False</IsTimeTo>
+      <IsNotOlderThan>False</IsNotOlderThan>
+      <IsFileSizeFrom>False</IsFileSizeFrom>
+      <IsFileSizeTo>False</IsFileSizeTo>
+      <FileSizeUnit>1</FileSizeUnit>
+      <IsFindText>False</IsFindText>
+      <IsReplaceText>False</IsReplaceText>
+      <CaseSensitive>False</CaseSensitive>
+      <NotContainingText>False</NotContainingText>
+      <TextRegExp>False</TextRegExp>
+      <TextEncoding>Ansi</TextEncoding>
+      <SearchPlugin/>
+      <ContentPlugins Enabled="False"/>
+    </Template>
+  </SearchTemplates>
+  <ColumnsSets DefaultTitleHash="0">
+    <ColumnsSet UseFrameCursor="False">
+      <Name>Default</Name>
+      <CustomView>False</CustomView>
+      <CursorBorder Enabled="False">
+        <Color>-2147483635</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>Имя</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>389</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Ubuntu Mono</Name>
+            <Size>11</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>10789024</TextColor>
+          <Background>0</Background>
+          <Background2>0</Background2>
+          <MarkColor>65535</MarkColor>
+          <CursorColor>8323157</CursorColor>
+          <CursorText>15793151</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>65535</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>Тип</Title>
+          <FuncString>[DC().GETFILEEXT{}]</FuncString>
+          <Width>68</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Ubuntu Mono</Name>
+            <Size>11</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>10789024</TextColor>
+          <Background>0</Background>
+          <Background2>0</Background2>
+          <MarkColor>65535</MarkColor>
+          <CursorColor>8323157</CursorColor>
+          <CursorText>15793151</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>65535</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>Размер</Title>
+          <FuncString>[DC().GETFILESIZE{}]</FuncString>
+          <Width>70</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Ubuntu Mono</Name>
+            <Size>11</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>10789024</TextColor>
+          <Background>0</Background>
+          <Background2>0</Background2>
+          <MarkColor>65535</MarkColor>
+          <CursorColor>8323157</CursorColor>
+          <CursorText>15793151</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>65535</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>Дата</Title>
+          <FuncString>[DC().GETFILETIME{}]</FuncString>
+          <Width>73</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>Ubuntu Mono</Name>
+            <Size>11</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>10789024</TextColor>
+          <Background>0</Background>
+          <Background2>0</Background2>
+          <MarkColor>65535</MarkColor>
+          <CursorColor>8323157</CursorColor>
+          <CursorText>15793151</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>65535</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+        <Column>
+          <Title>Атриб</Title>
+          <FuncString>[DC().GETFILEATTR{}]</FuncString>
+          <Width>105</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>Ubuntu Mono</Name>
+            <Size>11</Size>
+            <Style>0</Style>
+            <Quality>0</Quality>
+          </Font>
+          <TextColor>10789024</TextColor>
+          <Background>0</Background>
+          <Background2>0</Background2>
+          <MarkColor>65535</MarkColor>
+          <CursorColor>8323157</CursorColor>
+          <CursorText>15793151</CursorText>
+          <InactiveCursorColor>-2147483645</InactiveCursorColor>
+          <InactiveMarkColor>65535</InactiveMarkColor>
+          <UseInvertedSelection>False</UseInvertedSelection>
+          <UseInactiveSelColor>False</UseInactiveSelColor>
+          <Overcolor>True</Overcolor>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+  </ColumnsSets>
+  <MainWindow>
+    <Position>
+      <Maximized>False</Maximized>
+      <Splitter>50</Splitter>
+      <Left>1</Left>
+      <Top>21</Top>
+      <Width>1398</Width>
+      <Height>1008</Height>
+    </Position>
+  </MainWindow>
+  <SyncDirs>
+    <Subdirs>False</Subdirs>
+    <ByContent>False</ByContent>
+    <IgnoreDate>False</IgnoreDate>
+    <FilterCopyRight>True</FilterCopyRight>
+    <FilterEqual>True</FilterEqual>
+    <FilterNotEqual>True</FilterNotEqual>
+    <FilterCopyLeft>True</FilterCopyLeft>
+    <FilterDuplicates>True</FilterDuplicates>
+    <FilterSingles>True</FilterSingles>
+    <FileMask>*</FileMask>
+  </SyncDirs>
+  <Editor>
+    <SynEditOptions>856075</SynEditOptions>
+    <EditWaitTime>2000</EditWaitTime>
+  </Editor>
+  <InternalAssociations>
+    <OfferToAddNewFileType>True</OfferToAddNewFileType>
+    <LastCustomAction>Custom action</LastCustomAction>
+    <ExpandedContextMenu>True</ExpandedContextMenu>
+    <ExecuteViaShell>True</ExecuteViaShell>
+    <OpenSystemWithTerminalClose>True</OpenSystemWithTerminalClose>
+    <OpenSystemWithTerminalStayOpen>True</OpenSystemWithTerminalStayOpen>
+    <IncludeFileAssociation>True</IncludeFileAssociation>
+  </InternalAssociations>
+  <FavoriteTabsOptions>
+    <FavoriteTabsUseRestoreExtraOptions>False</FavoriteTabsUseRestoreExtraOptions>
+    <WhereToAdd>1</WhereToAdd>
+    <Expand>True</Expand>
+    <GotoConfigAftSav>False</GotoConfigAftSav>
+    <GotoConfigAftReSav>False</GotoConfigAftReSav>
+    <DfltLeftGoTo>0</DfltLeftGoTo>
+    <DfltRightGoTo>1</DfltRightGoTo>
+    <DfltKeep>5</DfltKeep>
+    <DfltSaveDirHistory>False</DfltSaveDirHistory>
+    <FavTabsLastUniqueID>{65B35351-4A51-44AC-8439-63CB5770A777}</FavTabsLastUniqueID>
+  </FavoriteTabsOptions>
+  <LastDoAnyCommand>cm_Refresh</LastDoAnyCommand>
+  <MultiRenamePresets>
+    <LastPreset>1</LastPreset>
+    <Presets>
+      <Preset>
+        <Name>1</Name>
+        <Filename>[N]</Filename>
+        <Extension>[E]</Extension>
+        <FilenameStyle>0</FilenameStyle>
+        <ExtensionStyle>0</ExtensionStyle>
+        <Find/>
+        <Replace/>
+        <RegExp>False</RegExp>
+        <UseSubs>False</UseSubs>
+        <Counter>1</Counter>
+        <Interval>1</Interval>
+        <Width>0</Width>
+        <Log>
+          <Enabled>False</Enabled>
+          <File>/tmp/1/1/default.log</File>
+        </Log>
+      </Preset>
+    </Presets>
+  </MultiRenamePresets>
+</doublecmd>

@@ -1,0 +1,37 @@
+[1]
+Description=Параметры окна для xterm
+clientmachine=localhost
+clientmachinematch=0
+opacityinactive=85
+opacityinactiverule=2
+position=1442,81
+positionrule=3
+screen=1
+screenrule=3
+size=828,622
+sizerule=3
+title=peerflix
+titlematch=1
+types=1
+wmclass=xterm
+wmclasscomplete=false
+wmclassmatch=1
+
+[2]
+Description=Параметры окна для urxvt
+clientmachine=localhost
+clientmachinematch=0
+position=1475,46
+positionrule=4
+screen=1
+screenrule=4
+size=698,502
+sizerule=4
+title=peerflix
+titlematch=0
+wmclass=xterm
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=2

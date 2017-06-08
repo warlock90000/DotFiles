@@ -1,0 +1,21 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1024=1008
+Height 1050=1008
+State=AAAA/wAAAAD9AAAAAAAABXYAAAOnAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1280=1280
+Width 1400=1398
+Window-Maximized 1024x1280=true
+
+[Recent Files]
+File1[$e]=$HOME/MIUI_Editor/-=themes=-/1/FLAX1.6/preview/preview_lockscreen_3.jpg
+File2[$e]=zip:/home/jacka/tmp/VARGO/vargo_os_recovery/vargo_os_recovery_1.zip/META-INF/com/google/android/updater-script
+File3[$e]=$HOME/tmp/VARGO/vargo_os_recovery/system/build.prop
+File4[$e]=$HOME/tmp/VARGO/vargo_os_recovery/111/META-INF/com/google/android/updater-script
+Name1[$e]=preview_lockscreen_3.jpg
+Name2[$e]=updater-script
+Name3[$e]=build.prop
+Name4[$e]=updater-script

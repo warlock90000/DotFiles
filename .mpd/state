@@ -1,0 +1,598 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 0
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:metall/Rammstein/Rammstein - Ohne Dich.mp3
+1:metall/Rammstein/Rammstein - Zerst&#246;ren.mp3
+2:metall/Rammstein/1(2). Rammstein - Pussy (Radio Edit).mp3
+3:metall/Rammstein/02 Rammlied.mp3
+4:metall/Rammstein/Rammstein & Eminem - My Name Is.mp3
+5:metall/Rammstein/2007 - Kein Engel/01. Rammstein - 5-4.mp3
+6:metall/Rammstein/2007 - Kein Engel/02. Rammstein - Du Riechst So Gut 98.mp3
+7:metall/Rammstein/2007 - Kein Engel/03. Rammstein - Kokain.mp3
+8:metall/Rammstein/2007 - Kein Engel/04. Rammstein - Wilder Wein.mp3
+9:metall/Rammstein/2007 - Kein Engel/05. Rammstein - Hallelujah.mp3
+10:metall/Rammstein/2007 - Kein Engel/06. Rammstein - Das Modell.mp3
+11:metall/Rammstein/2007 - Kein Engel/07. Rammstein - Engel (Extended Version).mp3
+12:metall/Rammstein/2007 - Kein Engel/08. Rammstein - Benzin (Kerosinii Remix By Apocalyptica).mp3
+13:metall/Rammstein/2007 - Kein Engel/09. Rammstein - Mein Teil (Single Version).mp3
+14:metall/Rammstein/2007 - Kein Engel/10. Rammstein - Sonne (Instrumental).mp3
+15:metall/Rammstein/2007 - Kein Engel/11. Rammstein - Ohne Dich (Beta Version).mp3
+16:metall/Rammstein/2007 - Kein Engel/12. Rammstein - Schtiel (Till Lindemann & Richard Kruspe).mp3
+17:metall/Rammstein/2007 - Kein Engel/13. Rammstein - Wut Will Nicht Sterben (Puhdys & Till Lindemann).mp3
+18:metall/Rammstein/2007 - Kein Engel/14. Rammstein - Stripped.mp3
+19:metall/Rammstein/2007 - Kein Engel/15. Rammstein - Engel (Scala And Kolacny Brothers).mp3
+20:metall/Rammstein/CD2 Special Edition/01. Rammstein - Fuhre mich.flac
+21:metall/Rammstein/CD2 Special Edition/02. Rammstein - Donaukinder.flac
+22:metall/Rammstein/CD2 Special Edition/03. Rammstein - Halt.flac
+23:metall/Rammstein/CD2 Special Edition/04. Rammstein - Roter Sand (Orchestral version).flac
+24:metall/Rammstein/CD2 Special Edition/05. Rammstein - Liese.flac
+25:metall/Rammstein/Liebe ist fur alle da CD1/01. Rammstein - Rammlied.flac
+26:metall/Rammstein/Liebe ist fur alle da CD1/02. Rammstein - Ich tu dir weh.flac
+27:metall/Rammstein/Liebe ist fur alle da CD1/03. Rammstein - Waidmanns Heil.flac
+28:metall/Rammstein/Liebe ist fur alle da CD1/04. Rammstein - Haifisch.flac
+29:metall/Rammstein/Liebe ist fur alle da CD1/05. Rammstein - Bxxxxxxxx.flac
+30:metall/Rammstein/Liebe ist fur alle da CD1/06. Rammstein - Fruhling in Paris.flac
+31:metall/Rammstein/Liebe ist fur alle da CD1/07. Rammstein - Wiener Blut.flac
+32:metall/Rammstein/Liebe ist fur alle da CD1/08. Rammstein - Pussy.flac
+33:metall/Rammstein/Liebe ist fur alle da CD1/09. Rammstein - Liebe ist fur alle da.flac
+34:metall/Rammstein/Liebe ist fur alle da CD1/10. Rammstein - Mehr.flac
+35:metall/Rammstein/Liebe ist fur alle da CD1/11. Rammstein - Roter Sand.flac
+36:metall/Bullet For My Valentine/Bullet for My Valentine - Hand of Blood.mp3
+37:metall/Bullet For My Valentine/Bullet for My Valentine - The End.mp3
+38:metall/Bullet For My Valentine/Bullet For My Valentine - Her Voice Resides.mp3
+39:metall/Bullet For My Valentine/Bullet For My Valentine - Tears Don't Fall.mp3
+40:metall/Bullet For My Valentine/Bullet For My Valentine - Suffocating Under Words Of Sor.mp3
+41:metall/Bullet For My Valentine/Bullet For My Valentine - Hit The Floor.mp3
+42:metall/Bullet For My Valentine/Bullet For My Valentine - All These Things I Hate (Revolve around me).mp3
+43:metall/Bullet For My Valentine/Bullet For My Valentine - Room 409.mp3
+44:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison.mp3
+45:metall/Bullet For My Valentine/Bullet For My Valentine - 10 Years Today.mp3
+46:metall/Bullet For My Valentine/Bullet For My Valentine - Cries In Vain.mp3
+47:metall/Bullet For My Valentine/Bullet For My Valentine - Spit You Out (Bonustrack).mp3
+48:metall/Bullet For My Valentine/2005 'Suffocating Under Words of Sorrow/01 - Suffocating Under Words of Sorrow.mp3
+49:metall/Bullet For My Valentine/2005 'Suffocating Under Words of Sorrow/02 - Suffocating Under Words of Sorrow (Vinyl).mp3
+50:metall/Bullet For My Valentine/2005 'Suffocating Under Words of Sorrow/03 - Room 409 (Live).mp3
+51:metall/Bullet For My Valentine/2005 'Suffocating Under Words of Sorrow/04 - Spit You Out (Live).mp3
+52:metall/Bullet For My Valentine/2006 - Tears Don't Fall/01 - Tears Don't Fall (Album Edit).mp3
+53:metall/Bullet For My Valentine/2006 - Tears Don't Fall/02 - Domination.mp3
+54:metall/Bullet For My Valentine/2006 - Tears Don't Fall/03 - Welcome Home (Sanitarium).mp3
+55:metall/Bullet For My Valentine/2006 - Tears Don't Fall/04 - Suffocating Under Words Of Sorrow (What Can I Do) (Live at Brixton Academy).mp3
+56:metall/Bullet For My Valentine/2006 - Tears Don't Fall/05 - 4 Words (To Choke Upon) (Live at Brixton Academy).mp3
+57:metall/Bullet For My Valentine/Bullet For My Valentine - Hearts Burst Into Fire/2(2). Bullet For My Valentine - Hearts Burst Into Fire (Acoustic Version).mp3
+58:metall/Bullet For My Valentine/Bullet For My Valentine - Road to Nowhere (EP)/1. Bullet For My Valentine - Road To Nowhere.mp3
+59:metall/Bullet For My Valentine/Bullet For My Valentine - Road to Nowhere (EP)/2. Bullet For My Valentine - Watching Us Die Tonight.mp3
+60:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/01_-_bullet_for_my_valentine_-_intro.mp3
+61:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/02_-_bullet_for_my_valentine_-_her_voice_resides.mp3
+62:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/03_-_bullet_for_my_valentine_-_4_words_to_choke_upon.mp3
+63:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/04_bullet_for_my_valentine_tears_dont_fall.mp3
+64:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/05_-_bullet_for_my_valentine_-_suffocating_under_words_of_sor.mp3
+65:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/06_bullet_for_my_valentine_hit_the_floor.mp3
+66:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/08_bullet_for_my_valentine_hand_of_blood.mp3
+67:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/09_bullet_for_my_valentine_room_409.mp3
+68:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/10_bullet_for_my_valentine_the_poison.mp3
+69:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/11_bullet_for_my_valentine_10_years_today.mp3
+70:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/12_bullet_for_my_valentine_cries_in_vain.mp3
+71:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/13_bullet_for_my_valentine_spit_you_out_bonustrack.mp3
+72:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/07_-_bullet_for_my_valentine_-_all_these_things_i_hate_revol.mp3
+73:metall/Bullet For My Valentine/Bullet For My Valentine - The Poison (2005)/14_-_bullet_for_my_valentine_-_the_end.mp3
+74:metall/Bullet For My Valentine/Bullet for My Valentine - The Poison Digipak/Bullet for My Valentine - Cries in Vain.mp3
+75:metall/Bullet For My Valentine/Bullet For My Valentine - Unbekanntes Album (11.02.2006 20 16 35)/1. Bullet For My Valentine - All These Things I Hate.mp3
+76:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/01. Nigger.mp3
+77:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/02. The Truth.mp3
+78:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/03. Rosegrove.mp3
+79:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/04. Don't Get Me Wrong.mp3
+80:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/05. I Need You.mp3
+81:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/06. Catch Me.mp3
+82:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/07. Warfair.mp3
+83:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/08. Wonderful World.mp3
+84:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/09. Sad To See Your Sorrow.mp3
+85:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1993 - Deaf Dumb Blind (Germany, WEA 4509-93245-2)/10. I Don't Care.mp3
+86:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/01. Power.mp3
+87:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/02. Pay The Bill.mp3
+88:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/03. Pin Me Down.mp3
+89:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/04. Wipe My Ass.mp3
+90:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/05. Die High.mp3
+91:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/06. It.mp3
+92:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/07. Do What I Say.mp3
+93:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/08. Undone.mp3
+94:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/09. What Are You Afraid Of.mp3
+95:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/10. Back To The Basics.mp3
+96:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/11. Easy Way Out.mp3
+97:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1995 - Use Your Brain (Germany, WEA 4509-99340-2)/12. Tomorrow.mp3
+98:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/01. Two Sides.mp3
+99:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/02. Hold Your Head Up.mp3
+100:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/03. Biggest & The Best.mp3
+101:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/04. Chances.mp3
+102:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/05. Don't Wake Me Up.mp3
+103:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/06. Not Even You.mp3
+104:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/07. Nobody Knows.mp3
+105:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/08. I Can See Them Coming.mp3
+106:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/09. Wrong State Of Mind.mp3
+107:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/10. I'm Your Life & Religion.mp3
+108:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/11. Crazy.mp3
+109:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/1997 - Clawfinger (Germany, WEA 3984-20177-2)/12. I Guess I'll Never Know.mp3
+110:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/01. Two Steps Away.mp3
+111:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/02. Out To Get Me.mp3
+112:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/03. Nothing Going On.mp3
+113:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/04. Are You Man Enough.mp3
+114:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/05. Confrontation.mp3
+115:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/06. Evolution.mp3
+116:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/07. Don't Look At Me.mp3
+117:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/08. Simon Says.mp3
+118:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/09. Burn In Hell.mp3
+119:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/10. I Close My Eyes.mp3
+120:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/11. Paradise.mp3
+121:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/12. Revenge.mp3
+122:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/13. Vienna.mp3
+123:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/14. Manic Depression.mp3
+124:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2001 - A Whole Lot Of Nothing (Germany, Supersonic Records 74321 87034 2)/15. Fake A Friend.mp3
+125:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/01. Zeros & Heroes.mp3
+126:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/02. Recipe For Hate.mp3
+127:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/03. When Everything Crumbles.mp3
+128:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/04. 15 Minutes Of Fame.mp3
+129:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/05. World Domination.mp3
+130:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/06. Bitch.mp3
+131:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/07. Four Letter Word.mp3
+132:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/08. Money Power Glory.mp3
+133:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/09. Kick It.mp3
+134:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/10. Live Like A Man.mp3
+135:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/11. Step Aside.mp3
+136:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/12. Blame.mp3
+137:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/13. Are You Talking To Me.mp3
+138:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/14. Where Are You Now.mp3
+139:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2003 - Zeros & Heroes (Europe, Supersonic Records SUPERSONIC 132)/15. Point Of No Return.mp3
+140:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/01. The Faggot In You.mp3
+141:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/02. Hate Yourself With Style.mp3
+142:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/03. Dirty Lies.mp3
+143:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/04. The Best & The Worst.mp3
+144:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/05. Breakout (Embrace The Child In You).mp3
+145:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/06. Right To Rape.mp3
+146:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/07. What We've Got Is What Your Getting.mp3
+147:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/08. Sick Of Myself.mp3
+148:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/09. Hypocrite.mp3
+149:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/10. Without A Case.mp3
+150:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2005 - Hate Yourself With Style (Germany, Nuclear Blast NB 1550-2)/11. God Is Dead.mp3
+151:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/01. The Price We Pay.mp3
+152:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/02. Life Will Kill You.mp3
+153:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/03. Prisoners.mp3
+154:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/04. Final Stand.mp3
+155:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/05. None The Wiser.mp3
+156:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/06. Little Baby.mp3
+157:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/07. The Cure & The Poison.mp3
+158:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/08. Where Can We Go From Here.mp3
+159:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/09. It's Your Life.mp3
+160:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/10. Falling.mp3
+161:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/11. Carnivore.mp3
+162:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/12. Dying To Know.mp3
+163:metall/Clawfinger/Clawfinger/Albums/CD non-remastered/2007 - Life Will Kill You (Russia, Irond Records IROND CD 07-1321)/13. Picture Perfect Skies.mp3
+164:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/01. Nigger.mp3
+165:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/02. The Truth.mp3
+166:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/03. Rosegrove.mp3
+167:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/04. Don't Get Me Wrong.mp3
+168:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/05. I Need You.mp3
+169:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/06. Catch Me.mp3
+170:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/07. Warfair.mp3
+171:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/08. Wonderful World.mp3
+172:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/09. Sad To See Your Sorrow.mp3
+173:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/10. I Don't Care.mp3
+174:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/11. Get It.mp3
+175:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/12. Profit Preacher.mp3
+176:metall/Clawfinger/Clawfinger/Albums/CD remastered/1993 - Deaf Dumb Blind (2004 Sweden)/13. Stars & Stripes.mp3
+177:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/01. Power.mp3
+178:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/02. Pay The Bill.mp3
+179:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/03. Pin Me Down.mp3
+180:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/04. Waste My Time.mp3
+181:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/05. Die High.mp3
+182:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/06. It.mp3
+183:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/07. Do What I Say.mp3
+184:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/08. Undone.mp3
+185:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/09. What Are You Afraid Of.mp3
+186:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/10. Back To The Basics.mp3
+187:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/11. Easy Way Out.mp3
+188:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/12. Tomorrow.mp3
+189:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/13. Better Than This.mp3
+190:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/14. Three Good Riffs.mp3
+191:metall/Clawfinger/Clawfinger/Albums/CD remastered/1995 - Use Your Brain (2004 Sweden)/15. Armageddon Down.mp3
+192:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/01. Two Sides.mp3
+193:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/02. Hold Your Head Up.mp3
+194:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/03. Biggest & The Best.mp3
+195:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/04. Chances.mp3
+196:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/05. Don't Wake Me Up.mp3
+197:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/06. Not Even You.mp3
+198:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/07. Nobody Knows.mp3
+199:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/08. I Can See Them Coming.mp3
+200:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/09. Wrong State Of Mind.mp3
+201:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/10. I'm Your Life & Religion.mp3
+202:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/11. Crazy.mp3
+203:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/12. I Guess I'll Never Know.mp3
+204:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/13. RealiTV (Bonus Track).mp3
+205:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/14. Runner Boy (Bonus Track).mp3
+206:metall/Clawfinger/Clawfinger/Albums/CD remastered/1997 - Clawfinger (2004 Sweden)/15. What Gives Us The Right (Bonus Track).mp3
+207:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/01. Nigger.mp3
+208:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/02. The Truth.mp3
+209:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/03. Rosegrove.mp3
+210:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/04. Don't Get Me Wrong.mp3
+211:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/05. I Need You.mp3
+212:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/06. Catch Me.mp3
+213:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/07. Warfair.mp3
+214:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/08. Wonderful World.mp3
+215:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/09. Sad To See Your Sorrow.mp3
+216:metall/Clawfinger/Clawfinger/Albums/Vinyls/1993 - Deaf Dumb Blind/10. I Don't Care.mp3
+217:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/01. Power.mp3
+218:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/02. Pay The Bill.mp3
+219:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/03. Pin Me Down.mp3
+220:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/04. Wipe My Ass.mp3
+221:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/05. Die High.mp3
+222:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/06. It.mp3
+223:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/07. Do What I Say.mp3
+224:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/08. Undone.mp3
+225:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/09. What Are You Afraid Of.mp3
+226:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/10. Back To The Basics.mp3
+227:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/11. Easy Way Out.mp3
+228:metall/Clawfinger/Clawfinger/Albums/Vinyls/1995 - Use Your Brain/12. Tomorrow.mp3
+229:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/01. Two Sides.mp3
+230:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/02. Hold Your Head Up.mp3
+231:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/03. Biggest & The Best.mp3
+232:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/04. Chances.mp3
+233:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/05. Don't Wake Me Up.mp3
+234:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/06. Not Even You.mp3
+235:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/07. Nobody Knows.mp3
+236:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/08. I Can See Them Coming.mp3
+237:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/09. Wrong State Of Mind.mp3
+238:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/10. I'm Your Life & Religion.mp3
+239:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/11. Crazy.mp3
+240:metall/Clawfinger/Clawfinger/Albums/Vinyls/1999 - Clawfinger/12. I Guess I'll Never Know.mp3
+241:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/01. Two Steps Away.mp3
+242:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/02. Out To Get Me.mp3
+243:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/03. Nothing Going On.mp3
+244:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/04. Are You Man Enough.mp3
+245:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/05. Confrontation.mp3
+246:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/06. Evolution.mp3
+247:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/07. Don't Look At Me.mp3
+248:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/08. Simon Says.mp3
+249:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/09. Burn In Hell.mp3
+250:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/10. I Close My Eyes.mp3
+251:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/11. Fool In Paradise.mp3
+252:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/12. Revenge.mp3
+253:metall/Clawfinger/Clawfinger/Albums/Vinyls/2001 - A Whole Lot Of Nothing/13. Vienna.mp3
+254:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/01. The Price We Pay.mp3
+255:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/02. Life Will Kill You.mp3
+256:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/03. Prisoners.mp3
+257:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/04. Final Stand.mp3
+258:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/05. None The Wiser.mp3
+259:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/06. Little Baby.mp3
+260:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/07. The Cure & The Poison.mp3
+261:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/08. Where Can We Go From Here.mp3
+262:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/09. It's Your Life.mp3
+263:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/10. Falling.mp3
+264:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/11. Carnivore.mp3
+265:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/12. Dying To Know.mp3
+266:metall/Clawfinger/Clawfinger/Albums/Vinyls/2007 - Life Will Kill You/13. Picture Perfect Skies.mp3
+267:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/01. The Truth.mp3
+268:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/02. Biggest & The Best.mp3
+269:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/03. Do What I Say.mp3
+270:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/04. Rosegrove.mp3
+271:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/05. Two Sides.mp3
+272:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/06. Pin Me Down.mp3
+273:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/07. Nigger.mp3
+274:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/08. Hold Your Head Up.mp3
+275:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/09. Power.mp3
+276:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/10. Warfair.mp3
+277:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/11. Crazy.mp3
+278:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2001 - The Biggest And The Best Of/12. Tomorrow.mp3
+279:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/01. Zeros & Heroes.mp3
+280:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/02. Recipe For Hate.mp3
+281:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/03. RealiTV.mp3
+282:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/04. Out To Get Me.mp3
+283:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/05. 15 Minutes Of Fame.mp3
+284:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/06. World Domination.mp3
+285:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/07. Two Sides.mp3
+286:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/08. Bitch.mp3
+287:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/09. Nothing Going On.mp3
+288:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/10. Runner Boy.mp3
+289:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/11. Money Power Glory.mp3
+290:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/12. Are You Man Enough.mp3
+291:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/13. What Gives Us The Right.mp3
+292:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/14. Live Like A Man.mp3
+293:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/15. Don't Wake Me Up.mp3
+294:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/16. Step Aside.mp3
+295:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/17. Confrontation.mp3
+296:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/18. Don't Look At Me.mp3
+297:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/19. Step Aside.mp3
+298:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/20. Where Are You Now.mp3
+299:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/21. Simon Says.mp3
+300:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2003 - Alternative Collection/22. Vienna.mp3
+301:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/01. PMRC (1992 Demo).mp3
+302:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/02. Money Is (1992 Demo).mp3
+303:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/03. If You Don't Know Me (1995 Demo).mp3
+304:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/04. Tell Me What You Want From Me (1996 Demo).mp3
+305:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/05. You Gave Me Something To Think About (1997 Demo).mp3
+306:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/06. Here We Go Again (1997 Demo).mp3
+307:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/07. The Choice Is Yours (1997 Demo).mp3
+308:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/08. Master Of Celebrity (1997 Demo).mp3
+309:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/09. I Don't Know (1997 Demo).mp3
+310:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/10. Ain't No Turning Back (1997 Demo).mp3
+311:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/11. Are You Man Enough (1997 Demo).mp3
+312:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/12. Fear Itself (1998 Demo).mp3
+313:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/13. Take What You Can Get (1999 Demo).mp3
+314:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/14. In A Mad World (1999 Demo).mp3
+315:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/15. My Dirty Mind (1999 Demo).mp3
+316:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/16. When Everything Crumbles (2002 Alt. Demo).mp3
+317:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/17. Still Don't Know (2002 Demo).mp3
+318:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/18. Turn It Off (2005 Demo).mp3
+319:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/19. All The Way (2006 Demo).mp3
+320:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD1/20. Back To The Basics (1993 Unreleased Track).mp3
+321:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/01. Get It.mp3
+322:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/02. Profit Preacher.mp3
+323:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/03. Stars & Stripes.mp3
+324:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/04. Love.mp3
+325:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/05. Better Than This.mp3
+326:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/06. Three Good Riffs.mp3
+327:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/07. Armageddon Down.mp3
+328:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/08. RealiTV.mp3
+329:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/09. Runner Boy.mp3
+330:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/10. Eat The Hand That Feeds Me.mp3
+331:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/11. Braindead.mp3
+332:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/12. Megalomania.mp3
+333:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/13. I Love To Hate Myself.mp3
+334:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/14. Are You Talking To Me.mp3
+335:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/15. Where Are You Now.mp3
+336:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/16. Point Of No Return.mp3
+337:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD2/17. All My Greatest Fears.mp3
+338:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/01. Nigger.mp3
+339:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/02. The Truth.mp3
+340:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/03. Rosegrove.mp3
+341:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/04. Don't Get Me Wrong.mp3
+342:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/05. I Need You.mp3
+343:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/06. Catch Me.mp3
+344:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/07. Warfair.mp3
+345:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/08. Wonderful World.mp3
+346:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/09. Sad To See Your Sorrow.mp3
+347:metall/Clawfinger/Clawfinger/Box Sets, Compilations/2014 - Deafer Dumber Blinder (20 Years Anniversary Box 3CD)/CD3/10. I Don't Care.mp3
+348:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/01. Rosegrove.mp3
+349:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/02. Hold Your Head Up.mp3
+350:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/03. Nothing Going On.mp3
+351:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/04. Pin Me Down.mp3
+352:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/05. Two Sides.mp3
+353:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/06. Out To Get Me.mp3
+354:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/07. Warfair.mp3
+355:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/08. Don't Get Me Wrong.mp3
+356:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/09. Biggest & The Best.mp3
+357:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/10. Nigger.mp3
+358:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/11. The Truth.mp3
+359:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/12. Confrontation.mp3
+360:metall/Clawfinger/Clawfinger/Lives/2000 - Bizarre Festival - Weeze, Germany (20.08.2000)/13. Do What I Say.mp3
+361:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/01. Are You Man Enough.mp3
+362:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/02. Biggest & The Best.mp3
+363:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/03. Nigger.mp3
+364:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/04. Don't Get Me Wrong.mp3
+365:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/05. Pin Me Down.mp3
+366:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/06. Two Sides.mp3
+367:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/07. I'm Your Life & Religion.mp3
+368:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/08. Confrontation.mp3
+369:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/09. Out To Get Me.mp3
+370:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/10. Catch Me.mp3
+371:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/11. The Truth.mp3
+372:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/12. Do What I Say.mp3
+373:metall/Clawfinger/Clawfinger/Lives/2001 - Osterrocknacht - Dusseldorf, Germany (15.04.2001)/13. Warfair.mp3
+374:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/01. Rosegrove.mp3
+375:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/02. Nigger.mp3
+376:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/03. Zeros & Heroes.mp3
+377:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/04. Warfair.mp3
+378:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/05. Don't Get Me Wrong.mp3
+379:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/06. Recipe For Hate.mp3
+380:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/07. Biggest & The Best.mp3
+381:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/08. The Truth.mp3
+382:metall/Clawfinger/Clawfinger/Lives/2005 - Greenfield Festival - Interlaken, Switzerland (25.06.2005)/09. Do What I Say.mp3
+383:metall/Clawfinger/Clawfinger/Others/Do What I Say (Infamous Bootleg).mp3
+384:metall/Clawfinger/Clawfinger/Others/Do What I Say (Remix By Scouter).mp3
+385:metall/Clawfinger/Clawfinger/Others/The KKK Took My Baby Away (Ramones Cover).mp3
+386:metall/Clawfinger/Clawfinger/Others/15 Minutes Of Fame (Demo).mp3
+387:metall/Clawfinger/Clawfinger/Others/Middle Clawfinger.mp3
+388:metall/Clawfinger/Clawfinger/Singles/1993 - Nigger (Europe, WEA 93280-2)/01. Nigger.mp3
+389:metall/Clawfinger/Clawfinger/Singles/1993 - Nigger (Europe, WEA 93280-2)/02. Nigger (Me And The Reality Mix).mp3
+390:metall/Clawfinger/Clawfinger/Singles/1993 - Nigger (Europe, WEA 93280-2)/03. Profit Preacher.mp3
+391:metall/Clawfinger/Clawfinger/Singles/1993 - Nigger (Europe, WEA 93280-2)/04. Nigger (D-Generator 1 Mix).mp3
+392:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (Germany, WEA 4509 93283-2)/01. The Truth.mp3
+393:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (Germany, WEA 4509 93283-2)/02. Get It.mp3
+394:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (Germany, WEA 4509 93283-2)/03. Love.mp3
+395:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (Germany, WEA 4509 93283-2)/04. Don't Get Me Wrong.mp3
+396:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (UK, MVG Records YZ786CD)/01. The Truth.mp3
+397:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (UK, MVG Records YZ786CD)/02. Get It.mp3
+398:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (UK, MVG Records YZ786CD)/03. Don't Get Me Wrong.mp3
+399:metall/Clawfinger/Clawfinger/Singles/1993 - The Truth (UK, MVG Records YZ786CD)/04. The Truth (Cyberglaumix).mp3
+400:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Germany, WEA 4509 94989-2)/01. Warfair (Cybersank Remix).mp3
+401:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Germany, WEA 4509 94989-2)/02. Stars & Stripes.mp3
+402:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Germany, WEA 4509 94989-2)/03. The Truth (Live Version).mp3
+403:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Germany, WEA 4509 94989-2)/04. Warfair (Album Version).mp3
+404:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Remix EP)/01. Warfair (CyberSank Mix).mp3
+405:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Remix EP)/02. The Truth (CyberGlaumix).mp3
+406:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Remix EP)/03. Nigger (Zorbact Mix).mp3
+407:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (Remix EP)/04. Don't Get Me Wrong (Zorbact-Techno-Mix).mp3
+408:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (UK, EastWest YZ804CD)/01. Warfair (CyberSank Mix - 7 Edit).mp3
+409:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (UK, EastWest YZ804CD)/02. Profit Preacher.mp3
+410:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (UK, EastWest YZ804CD)/03. The Truth (Live).mp3
+411:metall/Clawfinger/Clawfinger/Singles/1994 - Warfair (UK, EastWest YZ804CD)/04. Warfair (Album Version).mp3
+412:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Germany, MVG Records 0630-10978-2)/01. Do What I Say.mp3
+413:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Germany, MVG Records 0630-10978-2)/02. I Don't Want To (Previously Unreleased).mp3
+414:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Germany, MVG Records 0630-10978-2)/03. Pin Me Down (Live).mp3
+415:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Germany, MVG Records 0630-10978-2)/04. Do What I Say (Hangar Remix).mp3
+416:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Promo) (UK, EastWest SAM 1633)/01. Do What I Say.mp3
+417:metall/Clawfinger/Clawfinger/Singles/1995 - Do What I Say (Promo) (UK, EastWest SAM 1633)/02. Do What I Say (Hangar Remix).mp3
+418:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Europe, MVG Records 99343-2)/01. Pin Me Down.mp3
+419:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Europe, MVG Records 99343-2)/02. What Are You Afraid Of.mp3
+420:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Europe, MVG Records 99343-2)/03. Pin Me Down (Zorbagt Remix).mp3
+421:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Sweden, MVG Records 99933-2)/01. Pin Me Down.mp3
+422:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Sweden, MVG Records 99933-2)/02. Better Than This.mp3
+423:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Sweden, MVG Records 99933-2)/03. Rosegrove (Live).mp3
+424:metall/Clawfinger/Clawfinger/Singles/1995 - Pin Me Down (Sweden, MVG Records 99933-2)/04. Pin Me Down (Die Krupps Remix).mp3
+425:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Germany, MVG Records EW012CD)/01. Tomorrow (Sank Remix).mp3
+426:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Germany, MVG Records EW012CD)/02. Do What I Say (Hangar Remix).mp3
+427:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Germany, MVG Records EW012CD)/03. I Don't Want To.mp3
+428:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Germany, MVG Records EW012CD)/04. Tomorrow.mp3
+429:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Sweden, MVG Records MVGCDS 34)/01. Tomorrow (Sank Remix).mp3
+430:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Sweden, MVG Records MVGCDS 34)/02. Armageddon Down.mp3
+431:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Sweden, MVG Records MVGCDS 34)/03. Three Good Riffs.mp3
+432:metall/Clawfinger/Clawfinger/Singles/1995 - Tomorrow (Sweden, MVG Records MVGCDS 34)/04. Tomorrow (Original Version).mp3
+433:metall/Clawfinger/Clawfinger/Singles/1997 - Biggest & The Best (Sweden, MVG Records COLA 031CD)/01. Biggest & The Best (Album Version).mp3
+434:metall/Clawfinger/Clawfinger/Singles/1997 - Biggest & The Best (Sweden, MVG Records COLA 031CD)/02. Runner Boy.mp3
+435:metall/Clawfinger/Clawfinger/Singles/1997 - Biggest & The Best (Sweden, MVG Records COLA 031CD)/03. Biggest & The Best (Godhead Remix).mp3
+436:metall/Clawfinger/Clawfinger/Singles/1997 - Biggest & The Best (Sweden, MVG Records COLA 031CD)/04. Biggest & The Best (Pitchshifter Demix).mp3
+437:metall/Clawfinger/Clawfinger/Singles/1997 - Don't Wake Me Up (Sweden, MVG Records MVGCDS 54)/01. Don't Wake Me Up (Radio Edit).mp3
+438:metall/Clawfinger/Clawfinger/Singles/1997 - Don't Wake Me Up (Sweden, MVG Records MVGCDS 54)/02. Don't Wake Me Up (Yoga Remix).mp3
+439:metall/Clawfinger/Clawfinger/Singles/1997 - Don't Wake Me Up (Sweden, MVG Records MVGCDS 54)/03. RealiTV.mp3
+440:metall/Clawfinger/Clawfinger/Singles/1997 - Don't Wake Me Up (Sweden, MVG Records MVGCDS 54)/04. Don't Wake Me Up.mp3
+441:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/01. Two Sides.mp3
+442:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/02. Two Sides (Witchman's Accelerator Mix).mp3
+443:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/03. Two Sides Of Every Vibe.mp3
+444:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/04. RealiTV.mp3
+445:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/05. Biggest & The Best.mp3
+446:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/06. Biggest & The Best (Godhead Re-mix).mp3
+447:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/07. Biggest & The Best (Pitchshifter De-mix).mp3
+448:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/08. Runner Boy.mp3
+449:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/09. Don't Wake Me Up.mp3
+450:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/10. Don't Wake Me Up (Yoga Remix).mp3
+451:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/11. What Gives Us The Right.mp3
+452:metall/Clawfinger/Clawfinger/Singles/1999 - Two Sides (EP) (2000 US, The Music Cartel TMC33CD)/12. Biggest & The Best (U.S. Radio Edit).mp3
+453:metall/Clawfinger/Clawfinger/Singles/2001 - Out To Get Me (Europe, Supersonic Records SUPERSONIC 079)/01. Out To Get Me.mp3
+454:metall/Clawfinger/Clawfinger/Singles/2001 - Out To Get Me (Europe, Supersonic Records SUPERSONIC 079)/02. Shine On You Crazy Diamond.mp3
+455:metall/Clawfinger/Clawfinger/Singles/2001 - Out To Get Me (Europe, Supersonic Records SUPERSONIC 079)/03. Megalomania.mp3
+456:metall/Clawfinger/Clawfinger/Singles/2001 - Out To Get Me (Europe, Supersonic Records SUPERSONIC 079)/04. The Ocean.mp3
+457:metall/Clawfinger/Clawfinger/Singles/2001 - Out To Get Me (Europe, Supersonic Records SUPERSONIC 079)/05. I Love To Hate Myself.mp3
+458:metall/Clawfinger/Clawfinger/Singles/2003 - Recipe For Hate (Germany, Supersonic Records SUPERSONIC 133)/01. Recipe For Hate.mp3
+459:metall/Clawfinger/Clawfinger/Singles/2003 - Recipe For Hate (Germany, Supersonic Records SUPERSONIC 133)/02. All My Greatest Fears.mp3
+460:metall/Clawfinger/Clawfinger/Singles/2003 - Recipe For Hate (Germany, Supersonic Records SUPERSONIC 133)/03. Get It Off My Chest.mp3
+461:metall/Clawfinger/Clawfinger/Singles/2003 - Recipe For Hate (Germany, Supersonic Records SUPERSONIC 133)/04. Biggest & The Best (Live).mp3
+462:metall/Clawfinger/Clawfinger/Singles/2003 - Recipe For Hate (Germany, Supersonic Records SUPERSONIC 133)/05. Rosegrove (Live).mp3
+463:metall/Clawfinger/Clawfinger - Use Your Brain/6. Clawfinger - It.mp3
+464:metall/Clawfinger/Life Will Kill You/01 The Price We Pay.mp3
+465:metall/Clawfinger/Life Will Kill You/02 Life Will Kill You.mp3
+466:metall/Clawfinger/Life Will Kill You/03 Prisoners.mp3
+467:metall/Clawfinger/Life Will Kill You/04 Final Stand.mp3
+468:metall/Clawfinger/Life Will Kill You/05 None The Wiser.mp3
+469:metall/Clawfinger/Life Will Kill You/06 Little Baby.mp3
+470:metall/Clawfinger/Life Will Kill You/07 The Cure-The Prison.mp3
+471:metall/Clawfinger/Life Will Kill You/08 Where Can We Go From Here.mp3
+472:metall/Clawfinger/Life Will Kill You/09 Its Your Life.mp3
+473:metall/Clawfinger/Life Will Kill You/10 Falling.mp3
+474:metall/Clawfinger/Life Will Kill You/11 Carnivore.mp3
+475:metall/ПРИКЛЮЧЕНИЯ Электроников/01 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ТРАВА У ДОМА.MP3
+476:metall/ПРИКЛЮЧЕНИЯ Электроников/02 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - БЕЛОВЕЖСКАЯ ПУЩА.MP3
+477:metall/ПРИКЛЮЧЕНИЯ Электроников/03 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ВОЛШЕБНИК.MP3
+478:metall/ПРИКЛЮЧЕНИЯ Электроников/04 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - СИНЕЙ ИНЕЙ.MP3
+479:metall/ПРИКЛЮЧЕНИЯ Электроников/05 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ЛЕСНОЙ ОЛЕНЬ.MP3
+480:metall/ПРИКЛЮЧЕНИЯ Электроников/06 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ПЕСНЯ ЛИСЫ АЛИСЫ.MP3
+481:metall/ПРИКЛЮЧЕНИЯ Электроников/07 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - Я УМЕЮ МЕЧТАТЬ.MP3
+482:metall/ПРИКЛЮЧЕНИЯ Электроников/08 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - 20-00.MP3
+483:metall/ПРИКЛЮЧЕНИЯ Электроников/09 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - СПЯТ УСТАЛЫЕ.MP3
+484:metall/ПРИКЛЮЧЕНИЯ Электроников/10 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - 33 КОРОВЫ.MP3
+485:metall/ПРИКЛЮЧЕНИЯ Электроников/11 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ПОЛЕТ.MP3
+486:metall/ПРИКЛЮЧЕНИЯ Электроников/12 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ВСЕ ПРОЙДЕТ.MP3
+487:metall/ПРИКЛЮЧЕНИЯ Электроников/13 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ПОГОНЯ.MP3
+488:metall/ПРИКЛЮЧЕНИЯ Электроников/14 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ГРУСТНАЯ ПЕСНЯ.MP3
+489:metall/ПРИКЛЮЧЕНИЯ Электроников/15 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ДАЛЕКО.MP3
+490:metall/ПРИКЛЮЧЕНИЯ Электроников/16 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ПЕСНЯ ШАПОЧКИ.MP3
+491:metall/ПРИКЛЮЧЕНИЯ Электроников/17 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ДО СВИДАНИЯ, МОСКВА.MP3
+492:metall/ПРИКЛЮЧЕНИЯ Электроников/18 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ПЕСНЯ ТРУБАДУРА.MP3
+493:metall/ПРИКЛЮЧЕНИЯ Электроников/19 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ЕСЛИ С ДРУГОМ.MP3
+494:metall/ПРИКЛЮЧЕНИЯ Электроников/20 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ОТ УЛЫБКИ.MP3
+495:metall/ПРИКЛЮЧЕНИЯ Электроников/21 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ЗАВОДНЫЕ ИГРУШКИ.MP3
+496:metall/ПРИКЛЮЧЕНИЯ Электроников/22 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ОБЛАКА.MP3
+497:metall/ПРИКЛЮЧЕНИЯ Электроников/23 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ЗУРБАГАН.MP3
+498:metall/ПРИКЛЮЧЕНИЯ Электроников/24 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - КРЫЛАТЫЕ КАЧЕЛИ.MP3
+499:metall/ПРИКЛЮЧЕНИЯ Электроников/25 ПРИКЛЮЧЕНИЯ ЭЛЕКТРОНИКОВ - ЛОНДОН, ПРОЩАЙ.MP3
+500:metall/Бони'нем/Избитые Раритеты/04. Бони'нем - Триколодца-3.mp3
+501:metall/Бони'нем/Избитые Раритеты/01. Бони'нем - Летящей Походкой.mp3
+502:metall/Бони'нем/Бони нем - Уч-кудук.mp3
+503:metall/Бони'нем/008 Romantic Collection (2003)/09 Yabloki na snegu.mp3
+504:metall/Бони'нем/004 V Vologde-Gde (2001)/05 Living La Vida Loca.mp3
+505:metall/+Вольная стая/Вольная Стая - Стая (2007)/02 - Стая.mp3
+506:metall/+Вольная стая/Вольная Стая - Стая (2007)/03 - За тобой.mp3
+507:metall/+Вольная стая/Вольная Стая - Стая (2007)/04 - Русская рулетка.mp3
+508:metall/+Вольная стая/Вольная Стая - Стая (2007)/05 - Не зови и не проси.mp3
+509:metall/+Вольная стая/Вольная Стая - Стая (2007)/06 - Смотри мне в глаза.mp3
+510:metall/+Вольная стая/Вольная Стая - Стая (2007)/07 - Дай мне огня.mp3
+511:metall/+Вольная стая/Вольная Стая - Стая (2007)/08 - Птицей в небо.mp3
+512:metall/+Вольная стая/Вольная Стая - Стая (2007)/09 - Казнь ведьмы.mp3
+513:metall/+Вольная стая/Вольная Стая - Стая (2007)/10 - Мой день.mp3
+514:metall/+Вольная стая/Вольная Стая - Стая (2007)/11 - Вернуться назад.mp3
+515:metall/+СЛОТ/(2004) Slot 1/03. Одни.m4a
+516:metall/+СЛОТ/(2006) 2 Войны/02. 2 Войны.m4a
+517:metall/+СЛОТ/(2007) Тринити/01. Мёртвые звёзды.m4a
+518:metall/+СЛОТ/(2009) 4ever/05. Вампирская.m4a
+519:metall/+Lafee/2006 - Lafee/Du Lebst.m4a
+520:metall/+Lafee/2006 - Lafee/Prinzesschen.m4a
+521:metall/+Lafee/2006 - Lafee/Virus.m4a
+522:metall/+Lafee/2006 - Lafee/Verboten.m4a
+523:metall/+Lafee/2007 - Jetzt Erst Recht/Beweg Dein Arsch.m4a
+524:metall/+Lafee/2007 - Jetzt Erst Recht/Der Regen Fallt.m4a
+525:metall/+Lafee/2007 - Jetzt Erst Recht/Zusammen.m4a
+526:metall/Skillet - Full Discographie (1996-2011) 320kbps/2009 (AWAKE Deluxe Edition)/01 Hero.mp3
+527:metall/Skillet - Full Discographie (1996-2011) 320kbps/2009 (AWAKE Deluxe Edition)/02 Monster.mp3
+528:metall/Skillet - Full Discographie (1996-2011) 320kbps/2009 (AWAKE Deluxe Edition)/08 Believe.mp3
+529:metall/Skillet - Full Discographie (1996-2011) 320kbps/2009 (AWAKE Deluxe Edition)/04 Awake And Alive.mp3
+530:metall/Skillet - Full Discographie (1996-2011) 320kbps/2008 (COMATOSE COMES ALIVE)/02 - Comatose.mp3
+531:metall/+Delain/2009 - April Rain (Japanese Edition)/01. April Rain.m4a
+532:metall/+Delain/2006 - Lucidity/01. Sever.m4a
+533:metall/+Delain/2006 - Lucidity/02. Frozen.m4a
+534:metall/+Delain/2006 - Lucidity/03. Silhouette Of A Dancer.m4a
+535:metall/+Delain/2006 - Lucidity/04. No Compliance.m4a
+536:metall/+Delain/2006 - Lucidity/05. See Me In Shadow.m4a
+537:metall/+Delain/2006 - Lucidity/06. Shattered.m4a
+538:metall/+Delain/2006 - Lucidity/07. The Gathering.m4a
+539:metall/+Delain/2006 - Lucidity/08. Daylight Lucidity.m4a
+540:metall/+Delain/2006 - Lucidity/09. Sleepwalker's Dream.m4a
+541:metall/+Delain/2006 - Lucidity/10. A Day For Ghosts.m4a
+542:metall/+Delain/2006 - Lucidity/11. Pristine.m4a
+543:metall/+Delain/2007 - Frozen (Single)/02. (Deep) Frozen.m4a
+544:metall/+Delain/2009 - April Rain (Japanese Edition)/02. Stay Forever.m4a
+545:metall/+Delain/2009 - April Rain (Japanese Edition)/03. Invidia.m4a
+546:metall/+Delain/2009 - April Rain (Japanese Edition)/04. Control The Storm.m4a
+547:metall/+Delain/2009 - April Rain (Japanese Edition)/05. On The Other Side.m4a
+548:metall/+Delain/2009 - April Rain (Japanese Edition)/06. Virtue And Vice.m4a
+549:metall/+Delain/2009 - April Rain (Japanese Edition)/07. Go Away.m4a
+550:metall/+Delain/2009 - April Rain (Japanese Edition)/08. Start Swimming.m4a
+551:metall/+Delain/2009 - April Rain (Japanese Edition)/09. Lost.m4a
+552:metall/+Delain/2009 - April Rain (Japanese Edition)/10. I'll Reach You.m4a
+553:metall/+Delain/2009 - April Rain (Japanese Edition)/11. Nothing Left.m4a
+554:metall/+Delain/2009 - April Rain (Japanese Edition)/12. Come Closer.m4a
+555:metall/+Delain/2009 - April Rain (Japanese Edition)/13. No Compliance (Charlotte Only Vocals).m4a
+556:metall/+Delain/2009 - April Rain (Single)/01. April Rain (Edit Version).m4a
+557:metall/+Delain/2009 - April Rain (Single)/02. April Rain (Album Version).m4a
+558:metall/+Delain/2009 - Smalltown Boy (Single)/01. Smalltown Boy (Bronski Beat Cover).m4a
+559:metall/+Delain/2012 - We Are The Others (Special Edition)/01. Mother Machine.m4a
+560:metall/+Delain/2012 - We Are The Others (Special Edition)/02. Electricity.m4a
+561:metall/+Delain/2012 - We Are The Others (Special Edition)/03. We Are The Others.m4a
+562:metall/+Delain/2012 - We Are The Others (Special Edition)/04. Milk And Honey.m4a
+563:metall/+Delain/2012 - We Are The Others (Special Edition)/05. Hit Me With Your Best Shot.m4a
+564:metall/+Delain/2012 - We Are The Others (Special Edition)/06. I Want You.m4a
+565:metall/+Delain/2012 - We Are The Others (Special Edition)/07. Where Is the Blood.m4a
+566:metall/+Delain/2012 - We Are The Others (Special Edition)/08. Generation Me.m4a
+567:metall/+Delain/2012 - We Are The Others (Special Edition)/09. Babylon.m4a
+568:metall/+Delain/2012 - We Are The Others (Special Edition)/10. Are You Done With Me.m4a
+569:metall/+Delain/2012 - We Are The Others (Special Edition)/11. Get The Devil Out Of Me.m4a
+570:metall/+Delain/2012 - We Are The Others (Special Edition)/12. Not Enough.m4a
+571:metall/+Delain/2013 - Interlude/01. Breathe On Me.m4a
+572:metall/+Delain/2013 - Interlude/02. Collars & Suits.m4a
+573:metall/+Delain/2013 - Interlude/03. Are You Done With Me (New Single Mix).m4a
+574:metall/+Delain/2013 - Interlude/04. Such A Shame.m4a
+575:metall/+Delain/2013 - Interlude/05. Cordell.m4a
+576:metall/+Delain/2013 - Interlude/06. Smalltown Boy.m4a
+577:metall/+Delain/2013 - Interlude/07. We Are The Others (New Ballad Version).m4a
+578:metall/+Delain/2013 - Interlude/08. Mother Machine (Live).m4a
+579:metall/+Delain/2013 - Interlude/09. Get The Devil Out Of Me (Live).m4a
+580:metall/+Delain/2013 - Interlude/10. Milk And Honey (Live).m4a
+581:metall/+Delain/2013 - Interlude/11. Invidia (Live).m4a
+582:metall/+Delain/2013 - Interlude/12. Electricity (Live).m4a
+583:metall/+Delain/2013 - Interlude/13. Not Enough (Live).m4a
+playlist_end

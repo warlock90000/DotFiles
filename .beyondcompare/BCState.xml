@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCState MinVersion="1" Version="1">
+	<TBcState>
+		<BrowseUseProfile Value="False"/>
+		<FirstStartup Value="False"/>
+		<FormPositions>
+			<TDirCompareSessionDialog Value="444;275;956;781"/>
+			<TDirLoadErrorDialog Value="467;470;934;590"/>
+			<TExportDialog Value="492;348;909;709"/>
+			<TFileFormatManagerDialog Value="336;190;1065;871"/>
+			<THexCompareSessionDialog Value="460;292;940;768"/>
+			<TImportDialog Value="492;338;909;722"/>
+			<TProfileBrowseDialog Value="336;188;1065;869"/>
+			<TProfileManagerDialog Value="336;190;1065;871"/>
+			<TSessionSaveAsDialog Value="1;21;371;269"/>
+			<TTextCompareSessionDialog Value="460;292;940;768"/>
+			<TTextFormatDialog Value="465;284;935;777"/>
+			<TTextOutputForm Value="1;21;1399;395"/>
+			<TUnixCrashDialog Value="1;21;655;806"/>
+			<TViewFrame Value="2;22;1400;1030"/>
+		</FormPositions>
+		<FormPosStr Value="0;58;1400;1050"/>
+	</TBcState>
+	<TBrowseState>
+		<FormPosStr Value="300;345;1099;737"/>
+	</TBrowseState>
+	<TCheckForUpdatesState>
+		<Build Value="18981"/>
+		<LastChecked Value="2016-01-29 18:08:07"/>
+	</TCheckForUpdatesState>
+	<TDataCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jack/Android/-=TOOLS=-/-=boot=-/miui/neo/image-new.img"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Liberation Mono;11"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/jack/kernel/FenoMod_alcatel_msm8916/out/boot.img"/>
+		</RightMRUSpecs>
+	</TDataCompareState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/BUILD/1/rxvt-unicode-cvs-patched-wideglyphs"/>
+			<_1 Value="/usr/share/icons/Papirus"/>
+			<_2 Value="/home/jacka/.icons/nouveKDEGray"/>
+			<_3 Value="~/.icons/nouveGnomeGray"/>
+			<_4 Value="~/.local/share/icons/nouveKDEGray/"/>
+			<_5 Value="/home/jacka/tmp/VARGO/BOOT/M_V"/>
+			<_6 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSDeskClock/res/values"/>
+			<_7 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/framework-res/res/values"/>
+			<_8 Value="/tmp/11/SnapdragonCamera/res/values-ru1"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/BUILD/1/11"/>
+			<_1 Value="~/.local/share/icons/nouveKDEGray/"/>
+			<_2 Value="~/.icons/nouveKDEGray"/>
+			<_3 Value="/home/jacka/tmp/VARGO/BOOT/V"/>
+			<_4 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSDeskClock/res/values-ru"/>
+			<_5 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/framework-res/res/values-ru"/>
+			<_6 Value="/tmp/11/SnapdragonCamera/res/values-ru"/>
+			<_7 Value="/home/jacka/tmp/VARGO/BOOT/M_V"/>
+			<_8 Value="~/tmp/2/lib64"/>
+		</RightMRUSpecs>
+	</TDirCompareState>
+	<TDirMergeState>
+		<CenterMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru"/>
+		</CenterMRUSpecs>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru1"/>
+		</RightMRUSpecs>
+	</TDirMergeState>
+	<TDirReportState>
+		<OutputFormat Value="ofHTML"/>
+	</TDirReportState>
+	<TDirSyncState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/MIUI_Editor/-=themes=-/10/-=1=-/framework-miui-res-V2/"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/MIUI_Editor/-=themes=-/10/-=1=-/framework-miui-res/"/>
+		</RightMRUSpecs>
+	</TDirSyncState>
+	<THexCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/BOOT/V/ramdisk/sepolicy"/>
+			<_1 Value="/home/jacka/tmp/VARGO/BOOT/V/ramdisk/verity_key"/>
+			<_2 Value="/home/jacka/Android/-=TOOLS=-/img2sdat - sdat2img/Android_ROM_IMG_Repacker_v2/PROJECT/system.img.raw"/>
+			<_3 Value="/home/jacka/Android/M_V/ramdisk/sepolicy"/>
+			<_4 Value="/home/jacka/tmp/2/recovery-from-boot.p"/>
+			<_5 Value="/home/jacka/Android/V/ramdisk/sepolicy"/>
+			<_6 Value="/home/jacka/Download/lede-ar71xx-generic-dir-615-e4-squashfs-factory_001.bin"/>
+			<_7 Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/system/bin/lowi_test"/>
+			<_8 Value="/tmp/1/o/acdbdata/QRD/QRD_Handset_cal.acdb"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Liberation Sans;9;[B]"/>
+			<_1 Value="Liberation Mono;11"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/BOOT/M_V/ramdisk/sepolicy"/>
+			<_1 Value="/home/jacka/tmp/VARGO/BOOT/M_V/ramdisk/verity_key"/>
+			<_2 Value="/home/jacka/Android/V/ramdisk/sepolicy"/>
+			<_3 Value="/home/jacka/tmp/1/recovery-from-boot.p"/>
+			<_4 Value="/home/jacka/Android/M_V/ramdisk/sepolicy"/>
+			<_5 Value="/home/jacka/Download/lede-ar71xx-generic-dir-615-e4-squashfs-factory.bin"/>
+			<_6 Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/system/bin/lowi_test"/>
+			<_7 Value="/tmp/1/r/acdbdata/QRD/QRD_Handset_cal.acdb"/>
+			<_8 Value="/tmp/1/r/acdbdata/QRD/QRD_Hdmi_cal.acdb"/>
+		</RightMRUSpecs>
+	</THexCompareState>
+	<THomeState>
+		<SessionsRatio Value="598"/>
+		<SessionType Value="TDirCompareSession"/>
+		<ShowWeb Value="False"/>
+	</THomeState>
+	<TImportState>
+		<MRUFilename Value="/opt/tor-browser_ru/Browser/Загрузки/BCFormats.bcpkg"/>
+	</TImportState>
+	<TOpCopyToState>
+		<MRUDestination>
+			<_0 Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/New Folder (1)/"/>
+			<_1 Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/New Folder/"/>
+			<_2 Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1"/>
+			<_3 Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/framework-miui-res"/>
+			<_4 Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/framework-miui-res/res/1111"/>
+			<_5 Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.7.7/11/1/"/>
+			<_6 Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.7.7/New Folder/1"/>
+			<_7 Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.calendar/New Folder/"/>
+			<_8 Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.incallui/New Folder"/>
+		</MRUDestination>
+	</TOpCopyToState>
+	<TPixCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/.icons/nouveGnomeGray/128x128/apps/kvantum.png"/>
+			<_1 Value="/home/jacka/.icons/nouveGnomeGray/128x128/apps/chromium.png"/>
+			<_2 Value="/home/jacka/.icons/nouveGnomeGray/128x128/apps/celestia.png"/>
+			<_3 Value="/home/jacka/.icons/nouveGnomeGray/128x128/actions/appointment-new.png"/>
+			<_4 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/res/drawable-xhdpi-v4/default_downloading_icon.png"/>
+			<_5 Value="/tmp/1/111/media/lockscreen/lockscreen_112.jpg"/>
+			<_6 Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/top_logo_large.9.png"/>
+			<_7 Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/tab_bg_first_normal.9.png"/>
+			<_8 Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/search_list_empty.png"/>
+		</LeftMRUSpecs>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/.icons/nouveKDEGray/128x128/apps/kvantum.png"/>
+			<_1 Value="/home/jacka/.icons/nouveKDEGray/128x128/apps/chromium.png"/>
+			<_2 Value="/home/jacka/.icons/nouveKDEGray/128x128/apps/celestia.png"/>
+			<_3 Value="/home/jacka/.icons/nouveKDEGray/128x128/actions/system-shutdown.png"/>
+			<_4 Value="/home/jacka/.icons/nouveKDEGray/128x128/actions/appointment-new.png"/>
+			<_5 Value="/home/jacka/.icons/nouveKDEGray/128x128/actions/application-exit.png"/>
+			<_6 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/drawable-xhdpi-v4/recommend_divider_landscape.9.png"/>
+			<_7 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/drawable-xhdpi-v4/editing_bg_landscape.9.png"/>
+			<_8 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/drawable-xhdpi-v4/default_downloading_icon.png"/>
+		</RightMRUSpecs>
+	</TPixCompareState>
+	<TSessionSaveAsState>
+		<FormPosStr Value="492;425;908;657"/>
+	</TSessionSaveAsState>
+	<TTextCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/BUILD/1/rxvt-unicode-cvs-patched-wideglyphs/README.md"/>
+			<_1 Value="/home/jacka/BUILD/1/rxvt-unicode-cvs-patched-wideglyphs/enable-wide-glyphs.patch"/>
+			<_2 Value="/home/jacka/BUILD/1/rxvt-unicode-cvs-patched-wideglyphs/PKGBUILD"/>
+			<_3 Value="/home/jacka/.icons/nouveGnomeGray/128x128/apps/decibel-audio-player.png"/>
+			<_4 Value="/home/jacka/.icons/nouveGnomeGray/128x128/apps/blueman-device.png"/>
+			<_5 Value="/home/jacka/.icons/nouveGnomeGray/128x128/actions/system-search.png"/>
+			<_6 Value="/home/jacka/.icons/nouveGnomeGray/128x128/actions/application-exit.png"/>
+			<_7 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/smali/com/miui/home/launcher/FolderGridView.smali"/>
+			<_8 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome/smali/com/miui/home/launcher/DeleteZone.smali"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Liberation Sans;9;[B]"/>
+			<_1 Value="Andale Mono;9"/>
+			<_2 Value="Liberation Mono;11"/>
+			<_3 Value="Monospace;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/BUILD/1/11/README.md"/>
+			<_1 Value="/home/jacka/BUILD/1/11/enable-wide-glyphs.patch"/>
+			<_2 Value="/home/jacka/BUILD/1/11/PKGBUILD"/>
+			<_3 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/smali/com/miui/home/launcher/FolderGridView.smali"/>
+			<_4 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/smali/com/miui/home/launcher/DeleteZone.smali"/>
+			<_5 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/smali/com/miui/home/launcher/DeviceConfig.smali"/>
+			<_6 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/smali/com/miui/home/launcher/common/Utilities.smali"/>
+			<_7 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/tw_i18n_default_workspace4x6.xml"/>
+			<_8 Value="/home/jacka/Android/-=TOOLS=-/apktool/MiuiHome1/res/xml/tw_i18n_default_workspace4x5.xml"/>
+		</RightMRUSpecs>
+		<SessionFormPosStr Value="551;455;1146;926"/>
+		<ShowItemNum Value="True"/>
+	</TTextCompareState>
+	<TTextEditState>
+		<MRUFonts>
+			<_0 Value="Liberation Sans;9;[B]"/>
+		</MRUFonts>
+	</TTextEditState>
+	<TTextFindState>
+		<FindItems>
+			<_0 Value="«"/>
+			<_1 Value="."/>
+			<_2 Value="Взаимосвязь"/>
+			<_3 Value="blur"/>
+			<_4 Value="lcd"/>
+			<_5 Value="persist.radio."/>
+			<_6 Value="persist.radio.rat_on="/>
+			<_7 Value="persist.sys.mcd_config_file"/>
+			<_8 Value="motiv"/>
+		</FindItems>
+		<ReplaceItems>
+			<_0/>
+		</ReplaceItems>
+	</TTextFindState>
+	<TTextMergeState>
+		<CenterMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru/strings.xml"/>
+			<_1 Value="/tmp/plasma-svgelements-dark_mix"/>
+		</CenterMRUSpecs>
+		<FullEdit Value="False"/>
+		<LeftMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values/strings.xml"/>
+			<_1 Value="/tmp/plasma-svgelements-111111"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Liberation Sans;9;[B]"/>
+		</MRUFonts>
+		<OutputRatio Value="427"/>
+		<RightMRUSpecs>
+			<_0 Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru1/strings.xml"/>
+			<_1 Value="/tmp/plasma-svgelements-Arc-Dark"/>
+		</RightMRUSpecs>
+	</TTextMergeState>
+	<TTipState>
+		<DontShowAgain Value="[tipFastRefresh]"/>
+	</TTipState>
+</BCState>

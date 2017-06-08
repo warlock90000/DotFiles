@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCCommands Version="1" MinVersion="1">
+	<TDirCompareCommands>
+		<Items>
+			<CompareAction Value=";;True"/>
+		</Items>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;138"/>
+			<ActionsBar Value="TopDock;;;353"/>
+			<EditBar Value="TopDock;;;512"/>
+			<FileFiltersBar Value="TopDock;;;686"/>
+		</Toolbars>
+	</TDirCompareCommands>
+	<THexCompareCommands>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;138"/>
+			<SearchBar Value="TopDock;;;251"/>
+			<ViewBar Value="TopDock;;;333"/>
+		</Toolbars>
+	</THexCompareCommands>
+	<TPixCompareCommands>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;138"/>
+			<EditBar Value="TopDock;;;1049"/>
+			<ViewBar Value="TopDock;;;681"/>
+		</Toolbars>
+	</TPixCompareCommands>
+	<TTextCompareCommands>
+		<DisplayFilterMode Value="modeToggles"/>
+		<Toolbars>
+			<SessionsBar Value="TopDock;;;10"/>
+			<DisplayFiltersBar Value="TopDock;;;157"/>
+			<EditBar Value="TopDock;;;579"/>
+			<SearchBar Value="TopDock;;;361"/>
+			<ViewBar Value="TopDock;;;443"/>
+		</Toolbars>
+	</TTextCompareCommands>
+</BCCommands>

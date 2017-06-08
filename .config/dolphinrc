@@ -1,0 +1,62 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABjAAADxfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAtAAADxQAAAFgA////AAAAAQAAALQAAAO6/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACIAAAO6AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAFDwAAA8UAAAAEAAAABAAAAAgAAAAI/AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Window-Maximized 1050x1400=true
+
+[AdditionalInfoDialog]
+Height 1050=258
+Width 1400=286
+
+[CompactMode]
+FontWeight=50
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=16
+
+[General]
+AutoExpandFolders=true
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+EditableUrl=true
+ShowFullPath=true
+ShowToolTips=true
+SplitView=true
+Version=200
+ViewPropsTimestamp=2016,11,12,16,49,38
+
+[IconsMode]
+FontWeight=50
+PreviewSize=80
+
+[KPropertiesDialog]
+Height 1050=409
+Width 1400=589
+
+[MainWindow]
+Height 1024=998
+Height 1050=1010
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAABjAAADxfwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAtAAADxQAAAFgA////AAAAAQAAALQAAAO6/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAACIAAAO6AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAFDwAAA8UAAAAEAAAABAAAAAgAAAAI/AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1280=1400
+Width 1400=1400
+Window-Maximized 1024x1280=true
+Window-Maximized 1050x1400=true
+
+[Notification Messages]
+ConfirmEmptyTrash=true
+
+[Open-with settings]
+CompletionMode=5
+History=subl %F,xnview
+
+[PreviewSettings]
+Plugins=kraorathumbnail,webarchivethumbnail,ffmpegthumbs,imagethumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail,directorythumbnail,textthumbnail,djvuthumbnail,gsthumbnail,fontthumbnail
+
+[SettingsDialog]
+Height 1050=408
+Width 1400=621
+
+[ViewPropertiesDialog]
+Height 1050=346
+Width 1400=382

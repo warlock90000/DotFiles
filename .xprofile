@@ -1,0 +1,9 @@
+#!/bin/sh
+xrandr --setprovideroutputsource 1 0
+xrandr --output VGA-0 --auto --primary --output VGA-1-2 --auto --right-of VGA-0
+#pulseaudio --start &
+export QT_QPA_PLATFORMTHEME=qt5ct
+#kbdd &
+setxkbmap -layout us,ru -variant -option grp:ctrl_shift_toggle, terminate:ctrl_alt_bksp &
+#perWindowLayoutD &
+urxvtd -q -f -o &

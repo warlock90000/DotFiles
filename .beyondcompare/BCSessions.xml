@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 4 from Scooter Software -->
+<BCSessions Version="1" MinVersion="1">
+	<TDirCompareSession Value="etc">
+		<LastModified Value="2016-02-28 08:30:48"/>
+		<Specs>
+			<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.1.21/system/etc"/>
+			<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/-=BETA=-/miui_HM2XWCProGlobal_6.2.23_287d99da19_5.1/system/etc"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="miui_HM2XWCProGlobal_6.2.25_bb6646128d_5.1 &lt;--> MIUI_Global_6.2.25_7044X">
+		<LastModified Value="2016-03-07 20:50:48"/>
+		<Specs>
+			<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/-=BETA=-/miui_HM2XWCProGlobal_6.2.25_bb6646128d_5.1"/>
+			<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/-=BETA=-/MIUI_Global_6.2.25_7044X"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="ramdisk.n &lt;--> ramdisk">
+		<LastModified Value="2016-01-14 00:01:40"/>
+		<Specs>
+			<Left Value="/home/jacka/Android/77/ramdisk.n"/>
+			<Right Value="/home/jacka/Android/77/ramdisk"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="system">
+		<LastModified Value="2016-03-04 23:14:10"/>
+		<Specs>
+			<Left Value="/home/jacka/Download/-=TEL=-/NEO909/cm11/neo/system"/>
+			<Right Value="/home/jacka/Download/-=TEL=-/NEO909/cm12-mk51-zte_z5/system"/>
+		</Specs>
+	</TDirCompareSession>
+	<TDirCompareSession Value="погода">
+		<LastModified Value="2016-09-04 15:14:08"/>
+		<Specs>
+			<Left Value="/home/jacka/Android/-=TOOLS=-/jBART/---Погода+M8_pro.burgerz.miweather8.apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8.apk/res"/>
+			<Right Value="/home/jacka/Android/-=TOOLS=-/jBART/Погода+M8_pro.burgerz.miweather8(1).apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8(1).apk/res"/>
+		</Specs>
+	</TDirCompareSession>
+	<TTextCompareSession Value="frame">
+		<LastModified Value="2017-04-22 21:48:05"/>
+		<Specs>
+			<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/framework-res/res/values-ru/strings.xml"/>
+			<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/framework-res/res/values/strings.xml"/>
+		</Specs>
+	</TTextCompareSession>
+	<TTextCompareSession Value="vargo">
+		<LastModified Value="2017-04-21 16:18:08"/>
+		<Specs>
+			<Left Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings.xml"/>
+			<Right Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_v_system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings.xml"/>
+		</Specs>
+	</TTextCompareSession>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TDirCompareSession Value="rxvt-unicode-cvs-patched-wideglyphs &lt;--> 11">
+						<LastModified Value="2017-06-07 15:10:54"/>
+						<Specs>
+							<Left Value="/home/jacka/BUILD/1/rxvt-unicode-cvs-patched-wideglyphs"/>
+							<Right Value="/home/jacka/BUILD/1/11"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="Papirus &lt;--> ~/.local/share/icons/nouveKDEGray/">
+						<LastModified Value="2017-05-31 20:43:58"/>
+						<Specs>
+							<Left Value="/usr/share/icons/Papirus"/>
+							<Right Value="~/.local/share/icons/nouveKDEGray/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="theme_values.xml">
+						<LastModified Value="2017-05-29 15:09:50"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/theme_values.xml"/>
+							<Right Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8---------------------/framework-miui-res/theme_values.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="theme_values.xml &lt;--> theme_values.xml.1">
+						<LastModified Value="2017-05-29 15:07:37"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/-=1=-/com.miui.home/theme_values.xml"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/NOSTALGIA/-=1=-/com.miui.home/theme_values.xml.1"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="M_V &lt;--> V">
+						<LastModified Value="2017-05-21 21:46:59"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/M_V"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="eeee &lt;--> build.prop">
+						<LastModified Value="2017-05-14 22:35:39"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/замена/system/eeee"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/замена/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-13 13:31:36"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSDeskClock/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSDeskClock/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-13 12:10:47"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/framework-res/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/framework-res/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="build.prop &lt;--> build.prop.bakforspec">
+						<LastModified Value="2017-05-13 11:31:37"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/vargo_os_recovery/system/build.prop"/>
+							<Right Value="/home/jacka/tmp/VARGO/vargo_os_recovery/system/build.prop.bakforspec"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="V &lt;--> M_V">
+						<LastModified Value="2017-05-12 10:21:01"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/V"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/M_V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="updater-script.1 &lt;--> updater-script">
+						<LastModified Value="2017-05-09 18:06:43"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/vargo_os_recovery/META-INF/com/google/android/updater-script.1"/>
+							<Right Value="/home/jacka/tmp/VARGO/vargo_os_recovery/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="lib &lt;--> lib64">
+						<LastModified Value="2017-05-09 17:49:12"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/vargo_os_recovery/system/lib"/>
+							<Right Value="~/tmp/2/lib64"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="app">
+						<LastModified Value="2017-05-09 17:45:23"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/vargo_os_recovery/system/app"/>
+							<Right Value="/home/jacka/tmp/2/app"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-09 12:57:43"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/SnapdragonCamera/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/SnapdragonCamera/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-06 13:40:15"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/TeleService/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/TeleService/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-06 11:54:49"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/fp/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/fp/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-06 10:54:10"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FM2/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FM2/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 22:50:13"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/NetworkSetting/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/NetworkSetting/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 20:50:18"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSSystemManager/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSSystemManager/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 20:23:58"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSSoundRecorder/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSSoundRecorder/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 19:57:51"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSNotifyManager/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSNotifyManager/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 19:53:29"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSMirror/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSMirror/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 19:51:19"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSInfo/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSInfo/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 19:46:20"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/VargoGallery/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/VargoGallery/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 19:20:45"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSVideoPlayer/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSVideoPlayer/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 00:39:56"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSCalculator/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate1/VargoOS-russian-translate1/FineOSCalculator/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values &lt;--> values-ru">
+						<LastModified Value="2017-05-03 00:24:27"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values-ru1 &lt;--> values-ru">
+						<LastModified Value="2017-05-02 23:52:10"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru1"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirMergeSession Value="values-ru">
+						<LastModified Value="2017-05-02 23:29:28"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru1"/>
+							<Center Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru"/>
+						</Specs>
+					</TDirMergeSession>
+					<TTextMergeSession Value="strings.xml">
+						<LastModified Value="2017-05-02 23:29:04"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values/strings.xml"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru1/strings.xml"/>
+							<Center Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values-ru/strings.xml"/>
+							<Output Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/FineOSMusic/res/values/strings.xml"/>
+						</Specs>
+					</TTextMergeSession>
+					<TDirCompareSession Value="rec_sat &lt;--> r3">
+						<LastModified Value="2017-05-01 19:44:09"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/rec_sat"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/r3"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="rec_sat &lt;--> V">
+						<LastModified Value="2017-05-01 18:59:33"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/rec_sat"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="ramdisk---- &lt;--> ramdisk">
+						<LastModified Value="2017-05-01 17:57:41"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/rec_sat/ramdisk----"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/rec_sat/ramdisk"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="rec &lt;--> rec_sat">
+						<LastModified Value="2017-04-30 17:25:41"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/BOOT/rec"/>
+							<Right Value="/home/jacka/tmp/VARGO/BOOT/rec_sat"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="PROJECT">
+						<LastModified Value="2017-04-30 09:09:07"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/img2sdat - sdat2img/Android_ROM_IMG_Repacker_v2/PROJECT"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/img2sdat - sdat2img/Android_ROM_IMG_Repacker_v2/PROJECT"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="1 &lt;--> 2">
+						<LastModified Value="2017-04-29 22:31:09"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/1"/>
+							<Right Value="/home/jacka/tmp/2"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="M_V &lt;--> V">
+						<LastModified Value="2017-04-24 15:42:03"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/M_V"/>
+							<Right Value="/home/jacka/Android/V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="2 &lt;--> 1">
+						<LastModified Value="2017-04-23 17:00:49"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/2"/>
+							<Right Value="/home/jacka/tmp/1"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="V &lt;--> M_V">
+						<LastModified Value="2017-04-23 13:00:45"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/V"/>
+							<Right Value="/home/jacka/Android/M_V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="V1 &lt;--> V">
+						<LastModified Value="2017-04-23 12:38:22"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/V1"/>
+							<Right Value="/home/jacka/Android/V"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="iptv.m3u &lt;--> iptv18.m3u">
+						<LastModified Value="2017-04-23 11:07:54"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/iptv.m3u"/>
+							<Right Value="/home/jacka/Download/iptv18.m3u"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="values-ru &lt;--> values">
+						<LastModified Value="2017-04-22 21:48:07"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/framework-res/res/values-ru"/>
+							<Right Value="/home/jacka/tmp/VARGO/Vargo-OS-russian-translate/VargoOS-russian-translate/framework-res/res/values"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="strings2.xml &lt;--> strings.xml">
+						<LastModified Value="2017-04-22 21:28:55"/>
+						<Specs>
+							<Left Value="/home/jacka/tmp/VARGO/VargoOS-russian-translate/NfcNci/res/values-ru/strings2.xml"/>
+							<Right Value="/home/jacka/tmp/VARGO/VargoOS-russian-translate/NfcNci/res/values-ru/strings.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="appDecompiled">
+						<LastModified Value="2017-04-21 16:18:15"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/deodexed_v_system.zip.bzprj/appDecompiled"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="strings_.xml &lt;--> strings.xml">
+						<LastModified Value="2017-04-21 13:20:46"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings_.xml"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="strings.xml">
+						<LastModified Value="2017-04-21 13:09:37"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings.xml"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART2/projects/system.zip.bzprj/appDecompiled/system__framework/framework-res.apk/res/values-ru/strings.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="alto5_premium.xml &lt;--> l631.xml">
+						<LastModified Value="2017-04-06 08:53:12"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/miuisystem.apk/alto5_premium.xml"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/-=Для патча=-/miuisystem.apk/l631.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<THexCompareSession Value="lede-ar71xx-generic-dir-615-e4-squashfs-factory_001.bin &lt;--> lede-ar71xx-generic-dir-615-e4-squashfs-factory.bin">
+						<LastModified Value="2017-03-01 00:25:12"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/lede-ar71xx-generic-dir-615-e4-squashfs-factory_001.bin"/>
+							<Right Value="/home/jacka/Download/lede-ar71xx-generic-dir-615-e4-squashfs-factory.bin"/>
+						</Specs>
+					</THexCompareSession>
+					<TTextCompareSession Value="cpufreq_linux.lua &lt;--> cpufreq.lua">
+						<LastModified Value="2017-02-13 17:23:29"/>
+						<Specs>
+							<Left Value="/home/jacka/.config/awesome_4/1/vicious/widgets/cpufreq_linux.lua"/>
+							<Right Value="/home/jacka/.config/awesome/vicious/widgets/cpufreq.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="vici &lt;--> vicious">
+						<LastModified Value="2017-02-13 17:22:14"/>
+						<Specs>
+							<Left Value="/home/jacka/.config/awesome_4/awesome-copycats/vici"/>
+							<Right Value="/home/jacka/.config/awesome_4/awesome-copycats/vicious"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="pkg_all.lua &lt;--> pkg.lua">
+						<LastModified Value="2017-02-13 17:22:14"/>
+						<Specs>
+							<Left Value="/home/jacka/.config/awesome_4/awesome-copycats/vici/widgets/pkg_all.lua"/>
+							<Right Value="/home/jacka/.config/awesome_4/awesome-copycats/vicious/widgets/pkg.lua"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="lain">
+						<LastModified Value="2017-02-10 14:44:54"/>
+						<Specs>
+							<Left Value="/home/jacka/.config/awesome_4/1/lain"/>
+							<Right Value="/home/jacka/.config/awesome/lain"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2017-01-21 17:25:33"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/замена/system/build.prop.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/port-pac-romal/замена/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="1lxqt-panel.qss &lt;--> lxqt-panel.qss">
+						<LastModified Value="2017-01-15 12:42:14"/>
+						<Specs>
+							<Left Value="/home/jacka/BUILD/KDE/theme/lxqt/usr/share/1lxqt-panel.qss"/>
+							<Right Value="/home/jacka/BUILD/KDE/theme/lxqt/usr/share/lxqt-panel.qss"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="theme_values.xml &lt;--> 1-theme_values.xml">
+						<LastModified Value="2017-01-08 11:13:58"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.android.contacts/theme_values.xml"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.android.contacts/1-theme_values.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="1-theme_values.xml">
+						<LastModified Value="2017-01-08 11:13:37"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.android.contacts/1-theme_values.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="theme_values.xml">
+						<LastModified Value="2017-01-08 11:13:37"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Mi Note 2 Black/-=1=-/com.android.contacts/theme_values.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="vnstat.conf.pacnew &lt;--> vnstat.conf">
+						<LastModified Value="2016-12-26 18:28:52"/>
+						<Specs>
+							<Left Value="/etc/vnstat.conf.pacnew"/>
+							<Right Value="/etc/vnstat.conf"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="PKGBUILD1 &lt;--> PKGBUILD">
+						<LastModified Value="2016-11-13 20:32:21"/>
+						<Specs>
+							<Left Value="/home/jacka/BUILD/PLASMA/PLASMA-SRC/kscreen-git/PKGBUILD1"/>
+							<Right Value="/home/jacka/BUILD/PLASMA/PLASMA-SRC/kscreen-git/PKGBUILD"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.settings/res/drawable-xhdpi/">
+						<LastModified Value="2016-10-26 20:47:13"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.settings/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="jBART &lt;--> 1">
+						<LastModified Value="2016-10-25 21:12:19"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART/1"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2016-10-16 21:43:07"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART/framework-res.apk.bzprj/decompiled/framework-res.apk/res/build.prop.orig"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART/framework-res.apk.bzprj/decompiled/framework-res.apk/res/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2016-10-16 21:39:28"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/system/build.prop.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2016-10-16 21:37:20"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/META-INF/com/google/android/build.prop.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/META-INF/com/google/android/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="usr">
+						<LastModified Value="2016-10-16 21:35:43"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/system/usr"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/system/usr"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="updater-script.orig &lt;--> updater-script">
+						<LastModified Value="2016-10-16 21:20:23"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/META-INF/com/google/android/updater-script.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.10.13/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8_6.9.15/com.android.contacts/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/">
+						<LastModified Value="2016-10-09 20:22:32"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8_6.9.15/com.android.contacts/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/">
+						<LastModified Value="2016-10-06 20:11:33"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/framework-miui-res/res/drawable-xhdpi/">
+						<LastModified Value="2016-10-06 19:42:14"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/framework-miui-res/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/">
+						<LastModified Value="2016-10-05 21:43:25"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/1/com.android.contacts/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/framework-miui-res/res/drawable-xhdpi/">
+						<LastModified Value="2016-09-30 22:43:41"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia-OrangeDark/OrangeDark_V7/framework-miui-res/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="system">
+						<LastModified Value="2016-09-24 23:58:35"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/system"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="android">
+						<LastModified Value="2016-09-24 23:26:57"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/META-INF/com/google/android"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/META-INF/com/google/android"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="updater-script.orig &lt;--> updater-script">
+						<LastModified Value="2016-09-24 23:26:56"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/META-INF/com/google/android/updater-script.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="bin">
+						<LastModified Value="2016-09-24 23:08:27"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/bin"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.22/system/bin"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/">
+						<LastModified Value="2016-09-24 21:42:43"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/">
+						<LastModified Value="2016-09-24 12:49:32"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/">
+						<LastModified Value="2016-09-22 22:26:33"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8-XXHDPI/com.android.contacts/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/">
+						<LastModified Value="2016-09-22 19:42:10"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8-XXHDPI/com.android.contacts/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="mixer_paths_qrd_skui.xml &lt;--> 1mixer_paths_qrd_skui.xml">
+						<LastModified Value="2016-09-21 16:10:23"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/etc/mixer_paths_qrd_skui.xml"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/etc/1mixer_paths_qrd_skui.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="updater-script.orig &lt;--> updater-script">
+						<LastModified Value="2016-09-20 21:03:50"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/com/google/android/updater-script.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2016-09-20 20:59:00"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/build.prop.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="1platform.xml &lt;--> platform.xml">
+						<LastModified Value="2016-09-20 20:44:46"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/etc/permissions/1platform.xml"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/etc/permissions/platform.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="lib1 &lt;--> lib">
+						<LastModified Value="2016-09-20 20:40:05"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/lib1"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.9.15/system/lib"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/">
+						<LastModified Value="2016-09-05 19:54:55"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.contacts/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.settings/res/drawable-xhdpi/">
+						<LastModified Value="2016-08-30 22:36:54"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/com.android.settings/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/com.android.settings/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="drawable-xhdpi &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/">
+						<LastModified Value="2016-08-26 17:28:18"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/framework-miui-res/res/drawable-xhdpi"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/res/drawable-xhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/">
+						<LastModified Value="2016-08-26 16:52:54"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/5.9.18/resourceCatalog_V8/framework-miui-res/res/drawable-xhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/-=V5 BASED=-/Ностальгия по v5/-=1=-/framework-miui-res/res/drawable-xxhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="values1 &lt;--> values">
+						<LastModified Value="2016-08-23 15:36:58"/>
+						<Specs>
+							<Left Value="/home/jacka/Android/-=TOOLS=-/jBART/Погода+M8_pro.burgerz.miweather8.apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8.apk/res/values1"/>
+							<Right Value="/home/jacka/Android/-=TOOLS=-/jBART/Погода+M8_pro.burgerz.miweather8.apk.bzprj/decompiled/Погода+M8_pro.burgerz.miweather8.apk/res/values"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.thememanager/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.thememanager/res/drawable-xhdpi/">
+						<LastModified Value="2016-08-22 13:20:02"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.thememanager/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.thememanager/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="build.prop.v5 &lt;--> build.prop">
+						<LastModified Value="2016-08-21 09:53:22"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/system/build.prop.v5"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="1platform.xml &lt;--> platform.xml">
+						<LastModified Value="2016-08-21 08:47:45"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/system/etc/permissions/1platform.xml"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/system/etc/permissions/platform.xml"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="updater-script.v5 &lt;--> updater-script">
+						<LastModified Value="2016-08-21 08:43:04"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/META-INF/com/google/android/updater-script.v5"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="ramdisk_v8 &lt;--> ramdisk">
+						<LastModified Value="2016-08-21 08:36:17"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/BOOT/v5/ramdisk_v8"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/MIUI_v5/BOOT/v5/ramdisk"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.deskclock/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.deskclock/res/drawable-xhdpi/">
+						<LastModified Value="2016-08-19 21:41:47"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.deskclock/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.deskclock/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TTextCompareSession Value="updater-script.orig &lt;--> updater-script">
+						<LastModified Value="2016-08-15 10:56:49"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.8.11-androidmods/META-INF/com/google/android/updater-script.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.8.11-androidmods/META-INF/com/google/android/updater-script"/>
+						</Specs>
+					</TTextCompareSession>
+					<TTextCompareSession Value="build.prop.orig &lt;--> build.prop">
+						<LastModified Value="2016-08-15 10:49:02"/>
+						<Specs>
+							<Left Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.8.11-androidmods/system/build.prop.orig"/>
+							<Right Value="/home/jacka/Download/-=TEL=-/NEO909/miui/6.8.11-androidmods/system/build.prop"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/">
+						<LastModified Value="2016-08-15 01:10:07"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.contacts/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.systemui/res/drawable-xxhdpi/ &lt;--> /home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.systemui/res/drawable-xhdpi/">
+						<LastModified Value="2016-08-15 00:30:28"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.systemui/res/drawable-xxhdpi/"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.systemui/res/drawable-xhdpi/"/>
+						</Specs>
+					</TDirCompareSession>
+					<TDirCompareSession Value="drawable-xxhdpi &lt;--> drawable-xhdpi">
+						<LastModified Value="2016-08-14 23:41:08"/>
+						<Specs>
+							<Left Value="/home/jacka/MIUI_Editor/-=themes=-/11/-=1=-/com.android.fileexplorer/res/drawable-xxhdpi"/>
+							<Right Value="/home/jacka/MIUI_Editor/-=themes=-/Nostalgia/1/com.android.contacts/res/drawable-xhdpi"/>
+						</Specs>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TPixCompareSession>
+				<State>
+					<Ghost Value="False"/>
+				</State>
+			</TPixCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

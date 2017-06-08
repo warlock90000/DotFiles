@@ -1,0 +1,144 @@
+! --- ~/.Xresources ------------------------------------------------------------
+! ------------------------------------------------------------------------------
+! --- generated with 4bit Terminal Color Scheme Designer -----------------------
+! ------------------------------------------------------------------------------
+! --- http://ciembor.github.com/4bit -------------------------------------------
+! ------------------------------------------------------------------------------
+
+*transparent:                     false
+*cursorBlink:                     true
+*cursorUnderline:                 true
+*colorUL:                         #6AC
+*cursorColor:                     #F00
+*shading:                         30
+*mouseWheelScrollPage:            false
+*pointerBlank:                    true
+*pointerColor:                    #656565
+! --- *imFont:                          xft:UbuntuMono Nerd Font:size=12:antialias=true:hinting=true
+! --- *imFont:                          xft:Terminus Re33:size=12:antialias=false:hinting=true
+*imFont:                          xft:Terminus Re33 Nerd Bold:size=12:antialias=true:hinting=true:autohint=true:xft:Knack Nerd Font:style=Bold
+*utf8Title:                       true
+
+! --- special colors ---
+*background: #000000
+*foreground: #d9e6f2
+! --- standard colors ---
+
+! black
+*color0: #00020c
+! bright_black
+*color8: #40424c
+! red
+*color1: #cb3c4a
+! bright_red
+*color9: #e08a93
+! green
+*color2: #4acb3c
+! bright_green
+*color10: #93e08a
+! yellow
+*color3: #cbbd3c
+! bright_yellow
+*color11: #e0d88a
+! blue
+*color4: #3c4acb
+! bright_blue
+*color12: #8a93e0
+! magenta
+*color5: #bd3ccb
+! bright_magenta
+*color13: #d88ae0
+! cyan
+*color6: #3ccbbd
+! bright_cyan
+*color14: #8ae0d8
+! white
+*color7: #b9bcc5
+! bright_white
+*color15: #eff1fa
+
+! --- URxvt.font:xft:UbuntuMono Nerd Font:size=12:antialias=true:hinting=true
+URxvt.font:xft:Terminus Re33 Nerd Bold:size=12:antialias=true:hinting=true:xft:Knack Nerd Font:style=Bold
+! --- URxvt.font:xft:Terminus Re33:size=12:antialias=true:hinting=true
+
+URxvt.depth: 32
+URxvt.background: rgba:0000/0000/0000/cccc
+
+URxvt.inheritPixmap: True
+URxvt.tintColor: #d3d7cf
+! --- urxvt.shading: 30
+URxvt.transparent: false
+URxvt.geometry: 200x80+1+1
+URxvt.VT100.geometry: 200x80+1+1
+URxvt.scrollBar: false
+
+URxvt.perl-ext-common: default,tabbedex,clipboard,matcher,url-select,url-picker,osc-xterm-clipboard,resize-font,vtwheel
+URxvt.keysym.Control-Insert: perl:clipboard:copy
+URxvt.keysym.Shift-Insert: perl:clipboard:paste
+
+URxvt*tabbed.new-button:          no
+URxvt*tabbed.tabbar-fg:           12
+URxvt*tabbed.tabbar-bg:           8
+URxvt*tabbed.tab-fg:              8
+URxvt*tabbed.tab-bg:              12
+URxvt*tabbed.title-fg:            12
+URxvt*tabbed.title-bg:            8
+URxvt*tabbed.autohide:            true
+URxvt*tabbed.reopen-on-close:     yes
+
+URxvt*iso14755:                   false
+URxvt*iso14755_52:                false
+
+URxvt*keysym.C-Delete:            perl:matcher:last
+URxvt*keysym.M-Delete:            perl:matcher:list
+URxvt*matcher.pattern.0:          (?:https?:\\/\\/|ftp:\\/\\/|rsync:\\/\\/|news:\\/\\/|mailto:|file:\\/\\/|\\bwww\\.)\n\[a-zA-Z0-9\\x{0410}-\\x{044F}\\-\\@;\\/?:&=%\\$_.+!*\\x27,~#]*\n\(\n\\\([a-zA-Z0-9\\x{0410}-\\x{044F}\\-\\@;\\/?:&=%\\$_.+!*\\x27,~#]*\\)| # Allow a pair of matched parentheses\n\[a-zA-Z0-9\\x{0410}-\\x{044F}\\-\\@;\\/?:&=%\\$_+*~]  # exclude some trailing characters (heuristic)\n\)+
+URxvt*matcher.button:             1
+URxvt*url-select.launcher:        /usr/bin/xdg-open
+URxvt*url-launcher:               /usr/bin/xdg-open
+URxvt*keysym.M-w:                 perl:url-select:select_next
+URxvt*underlineURLs:              true
+URxvt*resize-font.smaller:        C-Down
+URxvt*resize-font.bigger:         C-Up
+URxvt.urlLauncher: palemoon
+! --- URxvt.letterSpace: -1
+! ------------------------------------------------------------------------------
+! --- end of terminal colors section -------------------------------------------
+! ------------------------------------------------------------------------------
+
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+! --- ---- Xterm*termName: xterm-256color
+XTerm*locale: true
+XTerm*metaSendsEscape: true
+! --- XTerm*utf8Title: true
+XTerm*renderFont: true
+! --- XTerm*faceName: TerminessRe33 Nerd Font
+! --- XTerm*faceName: Terminus Re33
+XTerm*faceName: Terminus Re33 Nerd Bold
+XTerm*faceSize: 12
+XTerm*foreground: #bbbbbb
+XTerm*background: #151515
+XTerm*saveLines: 1000000
+XTerm*loginShell: true
+Xterm*bellIsUrgent: true
+XTerm*scaleHeight: 1.01
+Xterm*borderWidth: 0
+XTerm*cursorBlink: true
+! --- XTerm*cursorColor: red
+XTerm*selectToClipboard: true
+XTerm*allowSendEvents: false
+XTerm*sessionMgt: false
+XTerm*eightBitInput:  false
+! --- XTerm*VT100*colorULMode:  off
+XTerm*VT100*colorBDMode:  off
+XTerm.VT100.titeInhibit:  off
+! --- XTerm*colorUL: yellow
+XTerm*colorBD: white
+xterm*geometry: 220x85+1+1
+xterm*VT100.geometry: 220x85+1+1
