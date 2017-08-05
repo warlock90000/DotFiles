@@ -68,8 +68,8 @@ URxvt.inheritPixmap: True
 URxvt.tintColor: #d3d7cf
 ! --- urxvt.shading: 30
 URxvt.transparent: false
-URxvt.geometry: 200x80+1+1
-URxvt.VT100.geometry: 200x80+1+1
+URxvt.geometry: 175x59+1+1
+URxvt.VT100.geometry: 175x59+1+1
 URxvt.scrollBar: false
 
 URxvt.perl-ext-common: default,tabbedex,clipboard,matcher,url-select,url-picker,osc-xterm-clipboard,resize-font,vtwheel
@@ -105,13 +105,23 @@ URxvt.urlLauncher: palemoon
 ! --- end of terminal colors section -------------------------------------------
 ! ------------------------------------------------------------------------------
 
-Xft.dpi: 96
-Xft.antialias: true
-Xft.hinting: true
-Xft.rgba: rgb
-Xft.autohint: false
-Xft.hintstyle: hintslight
-Xft.lcdfilter: lcddefault
+! --- Xft.dpi: 96
+! --- Xft.autohint: false
+! --- Xft.hintstyle: hintslight
+! --- Xft.lcdfilter: lcddefault
+! --- Xft.hinting: true
+! --- Xft.antialias: true
+! --- Xft.rgba: rgb
+
+Xft*dpi:                           96
+Xft*autohint:                      true
+Xft*hintstyle:                     hintslight
+Xft*lcdfilter:                     lcddefault
+Xft*embolden:                      false
+Xft*render:                        true
+Xft*hinting:                       true
+Xft*antialias:                     true
+Xft*rgba:                          rgb
 
 ! --- ---- Xterm*termName: xterm-256color
 XTerm*locale: true
@@ -140,5 +150,5 @@ XTerm*VT100*colorBDMode:  off
 XTerm.VT100.titeInhibit:  off
 ! --- XTerm*colorUL: yellow
 XTerm*colorBD: white
-xterm*geometry: 220x85+1+1
-xterm*VT100.geometry: 220x85+1+1
+xterm*geometry: 175x59+1+1
+xterm*VT100.geometry: 175x59+1+1
